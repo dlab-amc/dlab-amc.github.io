@@ -62,6 +62,11 @@ permalink: /publications_p/
                                             {% if items.size > 1 %}
                                                 <div>
                                                     <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
+                                                    {% if pub.certificate_link %}
+                                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                                    </a>
+                                                    {% endif %}
                                                 </div>
                                                 <div class="paperclick">{{ items[0] }}</div>
                                                 <div class="paperclick">
@@ -96,6 +101,11 @@ permalink: /publications_p/
                                 {% if items.size > 1 %}
                                 <div>
                                     <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
+                                    {% if pub.certificate_link %}
+                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                    </a>
+                                    {% endif %}
                                 </div>
                                 <div class="paperclick">{{ items[0] }}</div>
                                 <div class="paperclick">

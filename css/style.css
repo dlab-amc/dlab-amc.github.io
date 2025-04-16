@@ -1516,6 +1516,17 @@ a.small-button.clicked {
   text-align: justify;
 }
 
+a.paperclick,
+span.paperclick {
+  color: #515455;
+  font-size: 0.9em;
+  text-decoration: none;
+  border: none;
+  text-align: justify;
+  font-family: "NanumSquare_acL";
+}
+
+
 #my_div a.paperclick:hover {
   color: #f57c13;
   font-size: 0.9em;
@@ -1523,6 +1534,10 @@ a.small-button.clicked {
   /* text-decoration-style: dotted; */
   border: none;
   text-align: justify;
+}
+
+a.paperclick:hover {
+  color: #f57c13;
 }
 
 .paper a.paperclick {

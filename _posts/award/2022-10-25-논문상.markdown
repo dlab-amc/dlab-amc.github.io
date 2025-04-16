@@ -7,17 +7,6 @@ short-content: "대한전기학회 제54회 하계학술 대회 논문상 수상
 comments: true
 ---
 
-<br>
-
-<br>
-
-**조회수**  
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ page.url | absolute_url }}&count_bg=%2379C83D&title_bg=%23555555&icon=eye&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-
-<br>
-
-
-<br> 
 
 2022년 대한전기학회 제53회 하계학술 대회에서 왕창원 연구원과 석현석 연구원이 "비순차 데이터 입력에 대한 Convolution Neural Network 분류기 적합성 평가"로 우수 논문상을 수상하였습니다. 이 연구는 비순차적인 데이터 입력에 대한 Convolutional Neural Network (CNN) 분류기의 성능과 적합성을 평가하는 내용을 다루고 있습니다.
 

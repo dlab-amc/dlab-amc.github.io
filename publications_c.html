@@ -7,7 +7,6 @@ permalink: /publications_c/
 <span id="content"></span>
 <article id="main">
     <header class="special container">
-        <!-- <span class="icon fa-solid fa-scroll"></span> -->
         <h2>publications</h2>
     </header>
 
@@ -53,30 +52,41 @@ permalink: /publications_c/
                         {% assign all_publications = site.data.sheets.pub_c | sort: "date" | reverse %}
                         {% assign grouped_by_year_month = all_publications | group_by_exp: "pub", "pub.date | date: '%Y-%m'" %}
                         {% for group in grouped_by_year_month %}
-
                             {% for pub in group.items %}
                             {% assign items = pub.contents | replace: "?", " " | split: ". " %}
                             <div style="margin-bottom: 20px;">
-                                {% if pub.link %}
                                 {% if items.size > 1 %}
                                 <div>
+                                    {% if pub.link %}
                                     <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
+                                    {% else %}
+                                    <span class="paperclick">{{ items[1] }}</span>
+                                    {% endif %}
+
+                                    {% if pub.certificate_link %}
+                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                    </a>                                    
+                                    {% endif %}
                                 </div>
                                 <div class="paperclick">{{ items[0] }}</div>
                                 <div class="paperclick">
                                     {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
                                 </div>
                                 {% else %}
-                                <div><a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a></div>
-                                {% endif %}
-                                {% else %}
-                                {% if items.size > 1 %}
-                                <a class="paperlist">
-                                    {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
-                                </a>
-                                {% else %}
-                                <a class="paperlist">{{ items }}</a>
-                                {% endif %}
+                                <div>
+                                    {% if pub.link %}
+                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a>
+                                    {% else %}
+                                    <span class="paperclick">{{ items }}</span>
+                                    {% endif %}
+
+                                    {% if pub.certificate_link %}
+                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                    </a>                                    
+                                    {% endif %}
+                                </div>
                                 {% endif %}
                             </div>
                             {% endfor %}
@@ -91,26 +101,38 @@ permalink: /publications_c/
                             {% for pub in sorted_dates_items %}
                             {% assign items = pub.contents | replace: "?", " " | split: ". " %}
                             <div style="margin-bottom: 20px;">
-                                {% if pub.link %}
                                 {% if items.size > 1 %}
                                 <div>
+                                    {% if pub.link %}
                                     <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
+                                    {% else %}
+                                    <span class="paperclick">{{ items[1] }}</span>
+                                    {% endif %}
+
+                                    {% if pub.certificate_link %}
+                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                    </a>
+                                    {% endif %}
                                 </div>
                                 <div class="paperclick">{{ items[0] }}</div>
                                 <div class="paperclick">
                                     {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
                                 </div>
                                 {% else %}
-                                <div><a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a></div>
-                                {% endif %}
-                                {% else %}
-                                {% if items.size > 1 %}
-                                <a class="paperlist">
-                                    {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
-                                </a>
-                                {% else %}
-                                <a class="paperlist">{{ items }}</a>
-                                {% endif %}
+                                <div>
+                                    {% if pub.link %}
+                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a>
+                                    {% else %}
+                                    <span class="paperclick">{{ items }}</span>
+                                    {% endif %}
+
+                                    {% if pub.certificate_link %}
+                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
+                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
+                                    </a>
+                                    {% endif %}
+                                </div>
                                 {% endif %}
                             </div>
                             {% endfor %}
@@ -143,11 +165,7 @@ permalink: /publications_c/
                     sidebarLink.classList.remove('active');
                 });
                 this.classList.add('active');
-                // Scroll to the top of the page
-                window.scrollTo({
-                    top: 0,
-                    behavior: 'smooth'
-                });
+                window.scrollTo({ top: 0, behavior: 'smooth' });
             });
         });
     });
