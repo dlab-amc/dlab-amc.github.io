@@ -1,0 +1,22 @@
+---
+layout: post 
+title:  "학술대회 [Academic Conference]"
+date:   2025-05-10 13:36:23
+featured-img: "/images/posts/2505/25의공춘계.png"
+short-content: "2025 대한의용생체공학회 춘계학술대회 참석"
+comments : true
+---
+
+5월 8일부터 10일까지 제주 롯데호텔에서 열린 [2025년 대한의용생체공학회 춘계학술대회](https://kosombe.or.kr/register/2025_spring/main.html)에 참석하였습니다. 
+ 
+포스터 발표(석현석, 진재욱, 류가연, 이재형, 최예은, 한유진 학생 / 임하민, 유지원, 이건 연구원)를 하였으며, 2박 3일간의 제주도 워크샵 일정을 통해 팀워크를 강화하는 시간을 가졌습니다😚✨
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <span class="image featured"><img src="/images/posts/2505/25의공춘계 (1).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="/images/posts/2505/25의공춘계 (2).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+</div>
+<div style="display: flex; justify-content: center;">
+    <span class="image featured"><img src="/images/posts/2505/25의공춘계 (3).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="/images/posts/2505/25의공춘계 (4).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+</div>

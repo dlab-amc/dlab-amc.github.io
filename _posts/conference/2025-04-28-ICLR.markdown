@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "학술대회 [Academic Conference]"
+date:   2025-04-28 13:36:23
+featured-img: "/images/posts/2504/iclr2.png"
+short-content: "2025 ICLR 참석"
+comments : true
+---
+
+4월 24일부터 28일까지 싱가포르 Singapore Expo에서 열린 [ICLR2025](https://iclr.cc/)에 참석하였습니다. 
+ 
+ICLR은 NeurIPS 및 ICML과 함께 기계 학습 및 인공 지능 연구에 큰 영향을 미치는 3대 주요 인공지능 컨퍼런스 중 하나입니다. 다양한 연구 분야의 머신러닝 엔지니어들과 교류하고 강연을 들으며 성장할 수 있는 소중한 시간을 보냈습니다🤓📝
+
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <span class="image featured"><img src="/images/posts/2504/ICLR1.jpg" alt="" style='height: 500px; object-fit: contain;'></span>
+</div>

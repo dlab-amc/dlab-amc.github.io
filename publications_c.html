@@ -165,7 +165,11 @@ permalink: /publications_c/
                     sidebarLink.classList.remove('active');
                 });
                 this.classList.add('active');
-                window.scrollTo({ top: 0, behavior: 'smooth' });
+                // Scroll to the top of the page
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
             });
         });
     });

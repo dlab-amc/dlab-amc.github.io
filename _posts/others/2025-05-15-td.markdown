@@ -1,0 +1,16 @@
+---
+layout: post 
+title:  "스승의 날 [Teacher's day]"
+date:   2025-05-15 13:36:23
+featured-img: "/images/posts/2505/25스승의날.png"
+short-content: "2025년 스승의 날 축하"
+comments : true
+---
+
+2025년 스승의 날을 맞이하여 교수님께 편지와 선물을 전달하였습니다🎉💐
+
+교수님, 항상 감사드립니다😊
+
+<div style="display: flex; justify-content: center;">
+    <span class="image featured"><img src="/images/posts/2505/스승의날.DNG" alt="" style='height: 500px; object-fit: contain;'></span>
+</div>
