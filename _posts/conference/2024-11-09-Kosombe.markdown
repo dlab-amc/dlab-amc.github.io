@@ -1,20 +1,20 @@
 ---
-layout: post 
-title:  "학술대회 [Academic Conference]"
-date:   2024-11-07 13:36:23
-featured-img: "/images/posts/2411/kosombe.png"
-short-content: "2024 대한의용생체공학회 추계학술대회 참석"
-comments : true
+layout: post
+title: '학술대회 [Academic Conference]'
+date: 2024-11-07 13:36:23
+featured-img: '/images/posts/2411/kosombe.png'
+short-content: '2024 대한의용생체공학회 추계학술대회 참석'
+comments: true
 ---
 
-11월 7일부터 9일까지 서울 스위스 그랜드 호텔에서 열린 [대한의용생체공학회](https://www.kosombe.or.kr/register/2024_fall/main.html) 추계학술대회에 참석하였습니다. 
- 
+11월 7일부터 9일까지 서울 스위스 그랜드 호텔에서 열린 [대한의용생체공학회](https://www.kosombe.or.kr/register/2024_fall/main.html) 추계학술대회에 참석하였습니다.
+
 학생구연 발표(류가연, 이재형)와 포스터 발표(류가연, 유지원, 최예은)를 하였으며, 의공학 강연을 듣는 경험을 통해 성장하는 시간을 가졌습니다🤓📝
 
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2411/단체사진(1).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
-    <span class="image featured"><img src="/images/posts/2411/단체사진(2).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured" style="margin-right: 10px;"><img src="{{ site.baseurl }}/images/posts/2411/단체사진(1).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2411/단체사진(2).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
     
 </div>

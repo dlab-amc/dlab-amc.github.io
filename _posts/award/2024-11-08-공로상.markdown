@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "공로상 [Achievement Award]"
-date:   2024-11-08 10:00:00
-featured-img: "/images/posts/2411/교수님수상(1).jpeg"
-short-content: "(주)대성마리프 의공학상 수상" 
+title: '공로상 [Achievement Award]'
+date: 2024-11-08 10:00:00
+featured-img: '/images/posts/2411/교수님수상(1).jpeg'
+short-content: '(주)대성마리프 의공학상 수상'
 comments: true
 ---
 
 <br> 
 <p>
-신항식 교수님께서 2024년 의용생체공학회의 운영과 발전에 기여함을 인정받아 "(주)대성마리프 의공학상"을 수상하였습니다. 
+신항식 교수님께서 2024년 의용생체공학회의 운영과 발전에 기여함을 인정받아 "(주)대성마리프 의공학상"을 수상하였습니다.
 
 교수님 축하드립니다!🎉
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2411/교수님수상(3).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2411/교수님수상(3).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

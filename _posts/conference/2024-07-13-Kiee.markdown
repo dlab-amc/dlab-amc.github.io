@@ -1,21 +1,21 @@
 ---
-layout: post 
-title:  "학술대회 [Academic Conference]"
-date:   2024-07-13 13:36:23
-featured-img: "/images/posts/2407/kiee.jpeg"
-short-content: "2024 대한전기학회 하계학술대회 참석"
-comments : true
+layout: post
+title: '학술대회 [Academic Conference]'
+date: 2024-07-13 13:36:23
+featured-img: '/images/posts/2407/kiee.jpeg'
+short-content: '2024 대한전기학회 하계학술대회 참석'
+comments: true
 ---
 
-7월 10일부터 13일까지 제주 국제컨벤션센터에서 열린 [대한전기학회](https://www.kiee.or.kr/) [하계학술대회](https://conf.kiee.or.kr/]에 참석하였습니다. 
- 
+7월 10일부터 13일까지 제주 국제컨벤션센터에서 열린 [대한전기학회](https://www.kiee.or.kr/) [하계학술대회](https://conf.kiee.or.kr/]에 참석하였습니다.
+
 D.Lab. 연구원들은 구두 발표(석현석, 임하민)와 포스터 발표(임하민, 김영돈)를 하였으며, 3박 4일간의 일정을 통해 팀워크를 강화하는 시간을 가졌습니다😚✨
 
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2407/kiee1.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2407/kiee1.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2407/kiee2.jpg" alt="" style='height: 500px; object-fit: contain;'></span>    
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2407/kiee2.jpg" alt="" style='height: 500px; object-fit: contain;'></span>    
 </div>

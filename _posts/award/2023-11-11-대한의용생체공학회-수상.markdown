@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "우수 포스터 논문상 [Best Poster Paper]" 
-date:   2023-11-11 10:00:00
-featured-img: "/images/posts/2311/대한의용생체공학회_참가사진.jpeg"
-short-content: "대한의용생체공학회 2023년 추계학술대회 우수 포스터 논문상 수상" 
+title: '우수 포스터 논문상 [Best Poster Paper]'
+date: 2023-11-11 10:00:00
+featured-img: '/images/posts/2311/대한의용생체공학회_참가사진.jpeg'
+short-content: '대한의용생체공학회 2023년 추계학술대회 우수 포스터 논문상 수상'
 comments: true
 ---
 
-<br> 
-
-
+<br>
 
 2023년 추계학술대회에서 박지현 연구원이 FDA 인증을 받은 가정용 수면 무호흡증 검사(HSAT) 기기들의 국제 시험검사 기준 규격에 대한 연구로 우수 포스터 논문상을 수상했습니다.
+
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2311/대한의용생체공학회_우수논문상수상.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2311/대한의용생체공학회_우수논문상수상.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
 
 이 연구에서는 59개의 상세 보고서를 분석하여, 모든 HSAT 기기 유형이 전기적 안전성과 전자기 호환성에 주안점을 두고 있는 결과를 도출했습니다. 특히, 휴대용 기기(PD 유형 3)는 생체 안전성과 사이버보안 규격까지 고려하고 있는 반면, PD 유형 4는 명확한 규격 목록 부재로 인한 구체성 부족이 확인되었습니다. 이러한 시험검사 기준 규격은 기기의 품질을 보증하고 사용자 안전을 보장하는 중요한 역할을 합니다.
 
 이로써 연구 결과는 허가된 HSAT 제품의 성능 시험 항목 기준에 대한 국제 표준화를 위한 논의를 촉진하며, 체계적이고 일관된 가이드라인 개발에 기여할 것으로 기대됩니다. 박지현 연구원의 우수한 연구가 의학 및 의료 분야에 새로운 통찰력을 제공할 것으로 기대됩니다.
-

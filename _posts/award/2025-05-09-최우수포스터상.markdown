@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "최우수포스터상 [Best Paper]" 
-date:   2025-05-09 10:00:00
-featured-img: "/images/posts/2505/한유진최우수포스터.jpg"
-short-content: "대한의용생체공학회 최우수포스터상 수상" 
+title: '최우수포스터상 [Best Paper]'
+date: 2025-05-09 10:00:00
+featured-img: '/images/posts/2505/한유진최우수포스터.jpg'
+short-content: '대한의용생체공학회 최우수포스터상 수상'
 comments: true
 ---
 
@@ -12,5 +12,5 @@ comments: true
 한유진 학생이 2025년 대한의용생체공학회 춘계학술대회에서 발표한 '다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인'으로 최우수포스터상을 수상하였습니다🎊
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2505/한유진최우수포스터.jpg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2505/한유진최우수포스터.jpg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

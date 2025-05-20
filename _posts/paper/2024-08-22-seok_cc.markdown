@@ -1,23 +1,18 @@
 ---
-layout: post 
-title:  "Clinical Chemistry 논문 게재 [New paper published]"
-date:   2024-08-22 13:36:23
-featured-img: "/images/posts/2408/paper1.png"
-short-content: "석현석 학생(박사과정) 논문 게재"
-comments : true
+layout: post
+title: 'Clinical Chemistry 논문 게재 [New paper published]'
+date: 2024-08-22 13:36:23
+featured-img: '/images/posts/2408/paper1.png'
+short-content: '석현석 학생(박사과정) 논문 게재'
+comments: true
 ---
 
+석현석 학생(박사과정)의 [**'Machine Learning-Based Sample Misidentification Error Detection in Clinical Laboratory Tests: A Retrospective Multicenter Study'**](http://academic.oup.com/clinchem/article/70/10/1256/7739014?guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699&login=true&utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email) 논문이 _Clinical Chemistry_ 에 게재되었습니다!🎊
 
-석현석 학생(박사과정)의 [**'Machine Learning-Based Sample Misidentification Error Detection in Clinical Laboratory Tests: A Retrospective Multicenter Study'**](http://academic.oup.com/clinchem/article/70/10/1256/7739014?guestAccessKey=1df85bdd-2fbf-480d-97d8-d0d649a9c699&login=true&utm_source=authortollfreelink&utm_campaign=clinchem&utm_medium=email) 논문이 *Clinical Chemistry* 에 게재되었습니다!🎊
-
-[*Clinical Chemistry*](https://academic.oup.com/clinchem) 의 IF(Impact Factor)는 **7.1**로 진단검사의학 분야의 1위 저널입니다.
-
+[_Clinical Chemistry_](https://academic.oup.com/clinchem) 의 IF(Impact Factor)는 **7.1**로 진단검사의학 분야의 1위 저널입니다.
 
 논문 게재를 축하드립니다🥳🎉
 
 <br>
 
-<span class="image featured"><img src="/images/posts/2408/paper2.png" alt="" style='height: 300px; object-fit: contain;'></span>
-
-
-
+<span class="image featured"><img src="{{ site.baseurl }}/images/posts/2408/paper2.png" alt="" style='height: 300px; object-fit: contain;'></span>

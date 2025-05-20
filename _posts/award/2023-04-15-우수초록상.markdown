@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "우수 초록상 [Best Abstract Award]" 
-date:   2023-04-15 10:00:00
-featured-img: "/images/posts/2304/우수초록상-230415.png"
-short-content: "대한마취약리학회 우수 초록상 수상" 
+title: '우수 초록상 [Best Abstract Award]'
+date: 2023-04-15 10:00:00
+featured-img: '/images/posts/2304/우수초록상-230415.png'
+short-content: '대한마취약리학회 우수 초록상 수상'
 comments: true
 ---
 
-<br> 
-
+<br>
 
 2023년 대한마취약리학회 학술대회에서 석현석 연구원과 류가연 연구원이 "Development of an Artificial Intelligence Model for Both Intra- and Post-operative Pain Assessment"로 우수초록상을 수상하였습니다.
 
@@ -17,5 +16,5 @@ comments: true
 우수초록상 수상은 이 연구가 마취 및 수술 중 환자의 통증 평가 분야에서 높은 수준의 학술적 성과를 달성하였음을 인정한 결과입니다. 새로운 기술과 모델은 임상 환경에서 효과적으로 활용될 수 있으며, 환자의 통증 관리에 새로운 지평을 열 수 있을 것으로 기대됩니다.
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2304/우수초록상-230415.png" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2304/우수초록상-230415.png" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

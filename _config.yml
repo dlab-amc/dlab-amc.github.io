@@ -1,12 +1,12 @@
 # Site settings
-title: "DLab AMC"
-subtitle: "Digital Medicine Laboratory @ Asan Medical Center" 
-description: "안녕하세요! 서울아산병원 디지털메디신 연구실 홈페이지입니다. DLab은 신항식 교수님 지도 아래 활발히 연구를 진행하고 있는 연구팀입니다."
+title: 'DLab AMC'
+subtitle: 'Digital Medicine Laboratory @ Asan Medical Center'
+description: '안녕하세요! 서울아산병원 디지털메디신 연구실 홈페이지입니다. DLab은 신항식 교수님 지도 아래 활발히 연구를 진행하고 있는 연구팀입니다.'
 url: https://dlab-amc.github.io/
-teaser: "/images/logo/new_logo.jpg"
-logo: "/images/logo/new_logo.jpg"
-lang: "ko_KR"
-timezone: "Asia/Seoul"
+teaser: '/images/logo/new_logo.jpg'
+logo: '/images/logo/new_logo.jpg'
+lang: 'ko_KR'
+timezone: 'Asia/Seoul'
 future: true
 
 search: true
@@ -18,3 +18,5 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+
+baseurl: '/dlab-amc.github.io'

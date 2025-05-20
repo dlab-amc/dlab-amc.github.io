@@ -1,0 +1,333 @@
+---
+layout: default
+title: Publications_s
+permalink: /publications_s/
+---
+
+<span id="content"></span>
+<article id="main">
+  <header class="special container">
+    <h2>PUBLICATIONS</h2>
+  </header>
+
+  <!-- 상단 nav 탭 -->
+  <section class="wrapper style1 container special nav-container">
+    <ul class="nav-container">
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_j" class="nav-link"
+          ><span class="icon fa-solid fa-book"></span>Journal</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_c" class="nav-link"
+          ><span class="icon fa-solid fa-building-columns"></span>Conference</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_p" class="nav-link"
+          ><span class="icon fa-regular fa-copyright"></span>Patent</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_d" class="nav-link"
+          ><span class="icon fa-solid fa-pen-nib"></span>Design</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_s" class="nav-link active"
+          ><span class="icon fa-brands fa-uncharted"></span>S/W</a
+        >
+      </li>
+    </ul>
+  </section>
+
+  <!-- 콘텐츠 -->
+  <section class="wrapper style4 container">
+    <div class="row oneandhalf">
+      <div class="2u">
+        <div class="sidebar">
+          <section>
+            <div class="sidebar small-sidebar" id="class-filter"></div>
+          </section>
+        </div>
+      </div>
+
+      <div class="10u skel-cell-important">
+        <!-- 검색창 -->
+        <div class="search-input-wrap">
+          <input
+            class="search-input"
+            type="text"
+            id="search-input"
+            placeholder="검색어를 입력하세요."
+            style="
+              width: 12rem;
+              display: flex;
+              align-items: center;
+              border: none;
+              background-color: #eee;
+              padding: 0.5rem 1.2rem;
+              line-height: 1.5;
+              font-size: 15px;
+              height: 2.5rem;
+              outline: none;
+            "
+          />
+          <button id="search-button" class="search-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+        </div>
+
+        <!-- 상태 필터 (동적으로 생성) -->
+        <div
+          class="wrapper style2 container"
+          style="margin-top: -1em; margin-bottom: 0"
+        >
+          <div class="patent-tab-container"></div>
+        </div>
+
+        <div
+          id="pub-content"
+          class="my-div"
+          style="
+            border-top: 1px solid #222;
+            text-align: justify;
+            padding: 1.5em 1em;
+          "
+        ></div>
+      </div>
+    </div>
+  </section>
+</article>
+
+<style>
+  .skel-cell-important {
+    position: relative;
+  }
+  .search-input-wrap {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    top: 0;
+    right: 0;
+    transform: translateY(-50%);
+    gap: 8px;
+  }
+  .search-input:focus {
+    outline: none !important;
+    border: none !important;
+  }
+  .search-input::placeholder {
+    font-size: 15px;
+    line-height: normal;
+  }
+  .search-button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    padding: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #006065;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .search-button:hover {
+    background-color: rgb(0, 101, 101);
+  }
+  .patent-tab {
+    display: inline-block;
+    padding: 6px 16px;
+    border-bottom: 2px solid transparent;
+    text-decoration: none;
+    color: #999;
+    font-size: 1.1em;
+  }
+  .patent-tab:hover {
+    color: #6b6b6b;
+  }
+  .patent-tab.active {
+    color: #036166;
+    border-bottom: 2px solid #036166;
+    font-weight: 700;
+  }
+</style>
+
+<script>
+  const CLASS_ORDER = ['ALL'];
+  const ALLOWED_CLASSES = ['Registered SW'];
+  let selectedClass = 'ALL';
+  let selectedState = 'granted';
+  let currentSearch = '';
+
+  document.addEventListener('DOMContentLoaded', () => {
+    fetch('{{ site.baseurl }}/data/publications/pub_p.json')
+      .then((res) => res.json())
+      .then((data) => {
+        const filterContainer = document.getElementById('class-filter');
+        const contentContainer = document.getElementById('pub-content');
+
+        // class 필터 버튼
+        CLASS_ORDER.forEach((cls) => {
+          const btn = document.createElement('a');
+          btn.textContent = cls;
+          btn.href = `#${cls.toLowerCase()}`;
+          btn.className = 'small-button' + (cls === 'ALL' ? ' active' : '');
+          btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            selectedClass = cls;
+            render(data);
+            document
+              .querySelectorAll('.small-button')
+              .forEach((el) => el.classList.remove('active'));
+            btn.classList.add('active');
+          });
+          filterContainer.appendChild(btn);
+        });
+
+        // 상태 필터 탭 생성
+        const stateTabContainer = document.querySelector(
+          '.patent-tab-container'
+        );
+        const uniqueStates = [
+          ...new Set(
+            data
+              .filter((item) => ALLOWED_CLASSES.includes(item.class))
+              .map((item) => item.patent_state)
+          ),
+        ];
+
+        if (uniqueStates.includes('granted')) {
+          const grantedTab = document.createElement('a');
+          grantedTab.href = '#';
+          grantedTab.className = 'patent-tab active';
+          grantedTab.dataset.state = 'granted';
+          grantedTab.textContent = 'Granted';
+          stateTabContainer.appendChild(grantedTab);
+        }
+
+        if (uniqueStates.includes('filed')) {
+          const filedTab = document.createElement('a');
+          filedTab.href = '#';
+          filedTab.className = 'patent-tab';
+          filedTab.dataset.state = 'filed';
+          filedTab.textContent = 'Filed';
+          stateTabContainer.appendChild(filedTab);
+        }
+
+        // 상태 탭 클릭
+        document
+          .querySelectorAll('.patent-tab-container')
+          .forEach((container) => {
+            container.addEventListener('click', (e) => {
+              const tab = e.target.closest('.patent-tab');
+              if (tab) {
+                e.preventDefault();
+                selectedState = tab.dataset.state;
+                render(data);
+                container
+                  .querySelectorAll('.patent-tab')
+                  .forEach((el) => el.classList.remove('active'));
+                tab.classList.add('active');
+              }
+            });
+          });
+
+        // 검색 이벤트
+        document
+          .getElementById('search-button')
+          .addEventListener('click', () => {
+            currentSearch = document
+              .getElementById('search-input')
+              .value.trim();
+            render(data);
+          });
+        document
+          .getElementById('search-input')
+          .addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+              currentSearch = e.target.value.trim();
+              render(data);
+            }
+          });
+
+        render(data);
+      });
+
+    function render(data) {
+      const container = document.getElementById('pub-content');
+      container.innerHTML = '';
+
+      const filtered = data
+        .filter((item) => item.date)
+        .filter((item) =>
+          selectedClass === 'ALL'
+            ? ALLOWED_CLASSES.includes(item.class)
+            : item.class === selectedClass
+        )
+        .filter((item) => item.patent_state === selectedState)
+        .filter((item) =>
+          currentSearch ? buildPatentHTML(item).includes(currentSearch) : true
+        )
+        .sort((a, b) => b.date.localeCompare(a.date));
+
+      filtered.forEach((entry) => {
+        const div = document.createElement('div');
+        div.style.marginBottom = '20px';
+
+        const content = buildPatentHTML(entry);
+        const line = document.createElement('div');
+        line.className = 'paperclick';
+        line.textContent = content;
+
+        div.appendChild(line);
+        container.appendChild(div);
+      });
+    }
+
+    function buildPatentHTML(entry) {
+      const authors = entry.authors_text || '';
+      const title = entry.title_kor || entry.title_eng || '';
+      const countryCode = entry.country_code || '';
+      const number = entry.number || '';
+      const date = formatDate(entry.date, entry.country);
+
+      return (
+        [authors, title, `${countryCode} ${number}`, date]
+          .filter(Boolean)
+          .join('. ')
+          .replace(/\s+/g, ' ')
+          .trim()
+          .replace(/;+$/, '') + '.'
+      );
+    }
+
+    function formatDate(dateStr, country) {
+      if (!dateStr) return '';
+      const [yyyy, mm, dd] = dateStr.replace(/\./g, '-').split('-');
+      const month =
+        country === 'Domestic'
+          ? mm?.padStart(2, '0')
+          : [
+              '',
+              'Jan',
+              'Feb',
+              'Mar',
+              'Apr',
+              'May',
+              'Jun',
+              'Jul',
+              'Aug',
+              'Sep',
+              'Oct',
+              'Nov',
+              'Dec',
+            ][parseInt(mm)];
+      return country === 'Domestic'
+        ? `${yyyy}. ${month}. ${dd.toString().padStart(2, '0')}`
+        : `${yyyy} ${month} ${parseInt(dd, 10)}`;
+    }
+  });
+</script>

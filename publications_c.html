@@ -6,170 +6,345 @@ permalink: /publications_c/
 
 <span id="content"></span>
 <article id="main">
-    <header class="special container">
-        <!-- <span class="icon fa-solid fa-scroll"></span> -->
-        <h2>publications</h2>
-    </header>
+  <header class="special container">
+    <h2>PUBLICATIONS</h2>
+  </header>
 
-    <section class="wrapper style1 container special nav-container">
-        <div class="row" id="research-row">
-            <section id="nav-link-first">
-                <ul>
-                    <li><a href="{{site.baseurl}}/publications_j" class="nav-link"><span class="icon fa-solid fa-book"></span>Journal</a></li>
-                </ul>
-            </section>
-            <section>
-                <ul>
-                    <li><a href="{{site.baseurl}}/publications_c" class="nav-link active"><span class="icon fa-solid fa-building-columns"></span>Conference</a></li>
-                </ul>
-            </section>
-            <section>
-                <ul>
-                    <li><a href="{{site.baseurl}}/publications_p" class="nav-link"><span class="icon fa-regular fa-copyright"></span>Patent</a></li>
-                </ul>
-            </section>
-        </div>
-    </section>
+  <!-- 상단 nav 탭 -->
+  <section class="wrapper style1 container special nav-container">
+    <ul class="nav-container">
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_j" class="nav-link">
+          <span class="icon fa-solid fa-book"></span>Journal
+        </a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_c" class="nav-link active">
+          <span class="icon fa-solid fa-building-columns"></span>Conference
+        </a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_p" class="nav-link">
+          <span class="icon fa-regular fa-copyright"></span>Patent
+        </a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_d" class="nav-link">
+          <span class="icon fa-solid fa-pen-nib"></span>Design
+        </a>
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_s" class="nav-link">
+          <span class="icon fa-brands fa-uncharted"></span>S/W
+        </a>
+      </li>
+    </ul>
+  </section>
 
-    <section class="wrapper style4 container">
-        <div class="row oneandhalf">
-            <div class="2u">
-                <div class="sidebar">
-                    <section>
-                        <div class="sidebar small-sidebar">
-                            <a class="small-button active" href="#all">ALL</a>
-                            {% assign cGroup = site.data.sheets.pub_c | group_by: "class" %}
-                            {% for class in cGroup %}
-                            <a class="small-button" href="#{{ class.name | slugify }}">{{ class.name }}</a>
-                            {% endfor %}
-                        </div>
-                    </section>
-                </div>
+  <section class="wrapper style4 container">
+    <div class="row oneandhalf">
+      <div class="2u">
+        <div class="sidebar">
+          <section>
+            <div class="sidebar small-sidebar" id="class-filter">
+              <!-- 필터 버튼이 여기에 동적으로 생성됩니다 -->
             </div>
-
-            <div class="10u skel-cell-important">
-                <div id="my_div" class="my-div" style="text-align: justify;">
-                    <div id="all-publications" class="class-section">
-                        {% assign all_publications = site.data.sheets.pub_c | sort: "date" | reverse %}
-                        {% assign grouped_by_year_month = all_publications | group_by_exp: "pub", "pub.date | date: '%Y-%m'" %}
-                        {% for group in grouped_by_year_month %}
-
-                            {% for pub in group.items %}
-                            {% assign items = pub.contents | replace: "?", " " | split: ". " %}
-                            <div style="margin-bottom: 20px;">
-                                {% if items.size > 1 %}
-                                <div>
-                                    {% if pub.link %}
-                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
-                                    {% else %}
-                                    <span class="paperclick">{{ items[1] }}</span>
-                                    {% endif %}
-
-                                    {% if pub.certificate_link %}
-                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
-                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
-                                    </a>                                    
-                                    {% endif %}
-                                </div>
-                                <div class="paperclick">{{ items[0] }}</div>
-                                <div class="paperclick">
-                                    {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
-                                </div>
-                                {% else %}
-                                <div>
-                                    {% if pub.link %}
-                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a>
-                                    {% else %}
-                                    <span class="paperclick">{{ items }}</span>
-                                    {% endif %}
-
-                                    {% if pub.certificate_link %}
-                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
-                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
-                                    </a>                                    
-                                    {% endif %}
-                                </div>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-                        {% endfor %}
-                    </div>
-
-                    {% for class in cGroup %}
-                    <div class="class-section" id="{{ class.name | slugify }}" style="display:none;">
-                        {% assign dGroup = class.items | group_by_exp: "item", "item.date | date: '%Y' " %}
-                        {% for dates in dGroup %}
-                            {% assign sorted_dates_items = dates.items | sort: "date" | reverse %}
-                            {% for pub in sorted_dates_items %}
-                            {% assign items = pub.contents | replace: "?", " " | split: ". " %}
-                            <div style="margin-bottom: 20px;">
-                                {% if items.size > 1 %}
-                                <div>
-                                    {% if pub.link %}
-                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items[1] }}</a>
-                                    {% else %}
-                                    <span class="paperclick">{{ items[1] }}</span>
-                                    {% endif %}
-
-                                    {% if pub.certificate_link %}
-                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
-                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
-                                    </a>
-                                    {% endif %}
-                                </div>
-                                <div class="paperclick">{{ items[0] }}</div>
-                                <div class="paperclick">
-                                    {% for item in items offset: 2 %}{{ item | replace: ".", "" }}. {% endfor %}
-                                </div>
-                                {% else %}
-                                <div>
-                                    {% if pub.link %}
-                                    <a class="paperclick" href="{{ pub.link }}" target="_blank">{{ items }}</a>
-                                    {% else %}
-                                    <span class="paperclick">{{ items }}</span>
-                                    {% endif %}
-
-                                    {% if pub.certificate_link %}
-                                    <a href="{{ pub.certificate_link }}" target="_blank" style="margin-left: 8px; text-decoration: none; border: none; outline: none;">
-                                        <img src="{{ '/assets/medal.png' | relative_url }}" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle; border: none;" />
-                                    </a>
-                                    {% endif %}
-                                </div>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-                        {% endfor %}
-                        {% if class.name == "International Journal" %}<p>*: Equal contributors</p>{% endif %}
-                        <br>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
+          </section>
         </div>
-    </section>
+      </div>
+
+      <div class="10u skel-cell-important">
+        <!-- 검색창 UI -->
+        <div class="search-input-wrap">
+          <input
+            class="search-input"
+            type="text"
+            id="search-input"
+            placeholder="검색어를 입력하세요."
+            style="
+              width: 12rem;
+              display: flex;
+              align-items: center;
+              border: none;
+              background-color: #eee;
+              padding: 0.5rem 1.2rem;
+              line-height: 1.5;
+              font-size: 15px;
+              height: 2.5rem;
+              outline: none;
+            "
+          />
+          <button id="search-button" class="search-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+        </div>
+
+        <div
+          id="pub-content"
+          class="my-div"
+          style="
+            border-top: 1px solid #222;
+            text-align: justify;
+            margin-top: 1.5em;
+            padding: 1.5em 1em;
+          "
+        ></div>
+      </div>
+    </div>
+  </section>
 </article>
 
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const sidebarLinks = document.querySelectorAll('.sidebar a');
-        const classSections = document.querySelectorAll('.class-section');
-        const allPublications = document.getElementById('all-publications');
+<style>
+  .skel-cell-important {
+    position: relative;
+  }
 
-        sidebarLinks.forEach(link => {
-            link.addEventListener('click', function (event) {
-                event.preventDefault();
-                const targetClass = this.getAttribute('href').substring(1);
-                classSections.forEach(section => {
-                    section.style.display = section.id === targetClass ? 'block' : 'none';
-                });
-                allPublications.style.display = targetClass === 'all' ? 'block' : 'none';
-                sidebarLinks.forEach(sidebarLink => {
-                    sidebarLink.classList.remove('active');
-                });
-                this.classList.add('active');
-                // Scroll to the top of the page
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            });
+  .search-input-wrap {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    top: 0;
+    right: 0;
+    transform: translateY(-50%);
+    gap: 8px;
+  }
+
+  .search-input:focus {
+    outline: none !important;
+    border: none !important;
+  }
+
+  .search-input::placeholder {
+    font-size: 15px;
+    line-height: normal;
+    vertical-align: middle;
+  }
+
+  .search-button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    outline: none;
+    justify-content: center;
+    border: none;
+    padding: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #006065;
+    color: #fff;
+    font-size: 1rem;
+    transition: background-color 0.2s ease;
+  }
+
+  .search-button:hover {
+    background-color: rgb(0, 101, 101);
+  }
+</style>
+
+<script>
+  const CLASS_ORDER = ['ALL', 'International', 'Domestic'];
+  let currentSearch = '';
+
+  const MONTHS = [
+    '',
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Nov',
+    'Dec',
+  ];
+
+  function formatTitleCase(str) {
+    if (!str) return '';
+    return /^[A-Z\s]+$/.test(str)
+      ? str.charAt(0) + str.slice(1).toLowerCase()
+      : str;
+  }
+
+  function formatDateRange(dateStr, endStr, country) {
+    try {
+      const start = new Date(dateStr.replace(/\./g, '-'));
+      const end = new Date(endStr.replace(/\./g, '-'));
+      const year = start.getFullYear();
+      const month =
+        country === 'Domestic'
+          ? (start.getMonth() + 1).toString().padStart(2, '0')
+          : MONTHS[start.getMonth() + 1];
+      const startDate = start.getDate();
+      const endDate = end.getDate();
+      return country === 'Domestic'
+        ? `${year}. ${month}. ${startDate.toString().padStart(2, '0')}-${endDate
+            .toString()
+            .padStart(2, '0')}`
+        : `${year} ${month} ${startDate}-${endDate}`;
+    } catch {
+      return '';
+    }
+  }
+
+  function extractYear(dateStr) {
+    try {
+      return new Date(dateStr.replace(/\./g, '-')).getFullYear();
+    } catch {
+      return '';
+    }
+  }
+
+  function buildConferenceHTML(entry) {
+    const country = entry.country;
+    const authors = entry.authors_text?.trim();
+    const title =
+      country === 'Domestic'
+        ? entry.title_kor?.trim()
+        : formatTitleCase(entry.title_eng?.trim());
+    const conf =
+      country === 'Domestic'
+        ? entry.conference_kor?.trim()
+        : formatTitleCase(entry.conference_eng?.trim());
+    const place =
+      country === 'Domestic'
+        ? entry.place_kor?.trim()
+        : entry.place_eng?.trim();
+    const duration =
+      entry.date && entry.end_date
+        ? formatDateRange(entry.date, entry.end_date, country)
+        : '';
+    const year = extractYear(entry.date);
+
+    let result = '';
+    if (authors) result += `${authors}. `;
+    if (title) result += `${title}. `;
+    if (conf) result += `${conf}. `;
+    if (duration) result += `${duration}; `;
+    if (place) result += `${place}; `;
+    if (year) result += `${year}.`;
+    return result.trim().replace(/;+$/, '');
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    let allData = [];
+
+    fetch('{{ site.baseurl }}/data/publications/pub_c.json')
+      .then((res) => res.json())
+      .then((data) => {
+        allData = data;
+        initFilters(data);
+        renderSections(data);
+      });
+
+    const filterContainer = document.getElementById('class-filter');
+    const contentContainer = document.getElementById('pub-content');
+
+    function initFilters(data) {
+      const byClass = groupBy(data, 'class');
+
+      CLASS_ORDER.forEach((cls) => {
+        const btn = document.createElement('a');
+        btn.textContent = cls;
+        btn.href = `#${cls.toLowerCase()}`;
+        btn.className = 'small-button' + (cls === 'ALL' ? ' active' : '');
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          document
+            .querySelectorAll('.class-section')
+            .forEach((el) => (el.style.display = 'none'));
+          document
+            .querySelectorAll('.small-button')
+            .forEach((el) => el.classList.remove('active'));
+          document.getElementById(
+            `section-${cls.toLowerCase()}`
+          ).style.display = 'block';
+          btn.classList.add('active');
+          window.scrollTo({ top: 0, behavior: 'smooth' });
         });
+        filterContainer.appendChild(btn);
+      });
+    }
+
+    function renderSections(data) {
+      const byClass = groupBy(data, 'class');
+      contentContainer.innerHTML = '';
+
+      CLASS_ORDER.forEach((cls) => {
+        const section = document.createElement('div');
+        section.className = 'class-section';
+        section.id = `section-${cls.toLowerCase()}`;
+        section.style.display = cls === 'ALL' ? 'block' : 'none';
+
+        const entries = (cls === 'ALL' ? [...data] : [...(byClass[cls] || [])])
+          .filter((d) => d.date)
+          .filter((d) =>
+            currentSearch
+              ? buildConferenceHTML(d).includes(currentSearch)
+              : true
+          )
+          .sort((a, b) => b.date.localeCompare(a.date));
+
+        entries.forEach((entry) => {
+          const div = document.createElement('div');
+          div.style.marginBottom = '20px';
+          const line = document.createElement('div');
+
+          const htmlString = buildConferenceHTML(entry);
+
+          if (entry.link) {
+            const a = document.createElement('a');
+            a.href = entry.link;
+            a.target = '_blank';
+            a.className = 'paperclick';
+            a.innerHTML = htmlString;
+            line.appendChild(a);
+          } else {
+            const span = document.createElement('span');
+            span.className = 'paperclick';
+            span.innerHTML = htmlString;
+            line.appendChild(span);
+          }
+
+          if (entry.certificate_link) {
+            const certLink = document.createElement('a');
+            certLink.href = entry.certificate_link;
+            certLink.target = '_blank';
+            certLink.style.marginLeft = '8px';
+            certLink.style.borderBottom = 'none';
+            certLink.innerHTML = `<img src="{{ site.baseurl }}/assets/medal.png" alt="certificate" style="width: 18px; height: 18px; vertical-align: middle;" />`;
+            line.appendChild(certLink);
+          }
+
+          div.appendChild(line);
+          section.appendChild(div);
+        });
+
+        contentContainer.appendChild(section);
+      });
+    }
+
+    document.getElementById('search-button').addEventListener('click', () => {
+      currentSearch = document.getElementById('search-input').value.trim();
+      renderSections(allData);
     });
+
+    document.getElementById('search-input').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        currentSearch = e.target.value.trim();
+        renderSections(allData);
+      }
+    });
+
+    function groupBy(arr, key) {
+      return arr.reduce((acc, cur) => {
+        const k = cur[key] || '기타';
+        acc[k] = acc[k] || [];
+        acc[k].push(cur);
+        return acc;
+      }, {});
+    }
+  });
 </script>

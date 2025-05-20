@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  "우수 논문상 [Best Paper]" 
-date:   2023-11-28 10:00:00
-featured-img: "/images/posts/2311/우수논문상_임하민.png"
-short-content: "전기학회 논문지 2023년 11월호 우수 논문상" 
+title: '우수 논문상 [Best Paper]'
+date: 2023-11-28 10:00:00
+featured-img: '/images/posts/2311/우수논문상_임하민.png'
+short-content: '전기학회 논문지 2023년 11월호 우수 논문상'
 comments: true
 ---
 
-<br> 
-
-
-
+<br>
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2311/우수논문상_임하민.png" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2311/우수논문상_임하민.png" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
 
 임하민 연구원이 전기학회 논문지 2023년 11월호 우수 논문상을 수상하였습니다!
 
-축하합니다! 
-
+축하합니다!

@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "우수연제상 [Best Oral Presentation]" 
-date:   2023-10-20 10:00:00
-featured-img: "/images/posts/2310/우수연제상-231020.png"
-short-content: "대한진단검사의학회 우수 연제상" 
+title: '우수연제상 [Best Oral Presentation]'
+date: 2023-10-20 10:00:00
+featured-img: '/images/posts/2310/우수연제상-231020.png'
+short-content: '대한진단검사의학회 우수 연제상'
 comments: true
 ---
 
-<br> 
-
-
+<br>
 
 2023년 대한진단검사의학회에서 석현석 연구원이 "Application of Machine Learning to Develop a Delta Check Method for Five Tumor Markers"로 "우수연제상"을 수상했습니다.
 
@@ -17,7 +15,6 @@ comments: true
 본 연구는 현대 의학 분야에서 중요한 역할을 하는 종양 표지자에 대한 정확한 분석과 진단을 돕기 위해 기계 학습 기술을 활용하고 있습니다.
 다양한 기계 학습 알고리즘을 활용하여 종양 표지자의 변화를 모니터링하고, 델타 체크 방법을 통해 이상 징후를 빠르게 감지할 수 있도록 고안했습니다.
 
-
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2310/우수연제상-231020.png" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2310/우수연제상-231020.png" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
