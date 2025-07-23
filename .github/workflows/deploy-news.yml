@@ -40,4 +40,4 @@ jobs:
           git config user.email 'github-actions@github.com'
           git add _posts/new/ images/posts/
           git commit -m "[AUTO] Deployed news.zip (markdowns + images)" || echo "No changes"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/dlab-amc/dlab-amc.github.io.git HEAD:main

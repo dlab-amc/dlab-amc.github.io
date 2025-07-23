@@ -49,4 +49,4 @@ jobs:
           git config user.email 'github-actions@github.com'
           git add data/members/ htmls/members/
           git commit -m "[AUTO] Deployed members.zip (json + images + md)" || echo "No changes"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/dlab-amc/dlab-amc.github.io.git HEAD:main
