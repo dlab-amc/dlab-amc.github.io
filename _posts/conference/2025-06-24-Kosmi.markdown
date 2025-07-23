@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "학술대회 [Academic Conference]"
+date:   2025-06-24 13:36:23
+featured-img: "/images/posts/2506/25의료정보춘계.png"
+short-content: "2025 대한의료정보학회 춘계학술대회 참석"
+comments : true
+---
+
+5월 22일부터 24일까지 부산 부산항국제전시컨벤션센터 (BPEX)에서 열린 [2025년 대한의료정보학회 춘계학술대회](https://online.nainsmart.com/2025_spring/index.asp)에 참석하였습니다. 
+ 
+의료정보학회에서 의료정보학 및 LLM 관련 강의를 들으며 전문성을 확장할 수 있는 유익한 시간을 가졌습니다🤓📝
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2506/25의료정보춘계 (2).jpeg" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured"><img src="/images/posts/2506/25의료정보춘계 (1).jpeg" alt="" style='height: 400px; object-fit: contain;'></span>
+</div>
