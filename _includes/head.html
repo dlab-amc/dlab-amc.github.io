@@ -5,64 +5,82 @@
 -->
 
 <head>
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="icon" type="image/png" href="/assets/favicon.ico">
+  <title>
+    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+  </title>
+  <link
+    rel="icon"
+    type="image/png"
+    href="{{ site.baseurl }}/assets/favicon.ico"
+  />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ site.description }}" />
 
   <meta name="keywords" content="" />
   <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+  />
 
-
-  <link rel="stylesheet" type="text/css"
-    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
-  <link rel="stylesheet" type="text/css"
-    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
-
-
-
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
+  />
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"
+  />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style-wide.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style-noscript.css" />
 
   <!-- <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> -->
   <!-- <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.min.js"></script> -->
 
-  <!-- <script src="/js/jquery.min.js"></script> -->
-  <script src="/js/jquery.min.2.js"></script>
-  
-  <script src="/js/jquery.dropotron.min.js"></script>
-  <script src="/js/jquery.scrolly.min.js"></script>
-  <script src="/js/jquery.scrollgress.min.js"></script>
-  <script src="/js/skel.min.js"></script>
-  <script src="/js/skel-layers.min.js"></script>
-  <script src="/js/init.js"></script>
-  <script src="/js/publications.js"></script>
-  <script src="/js/slick.control.js"></script>
-  <script src="/js/top.js"></script>
-  <script src="/js/research.js"></script>
-  <script src="/js/counter.js"></script>
- 
+  <!-- <script src="{{ site.baseurl }}/js/jquery.min.js"></script> -->
+  <script src="{{ site.baseurl }}/js/jquery.min.2.js"></script>
 
+  <script src="{{ site.baseurl }}/js/jquery.dropotron.min.js"></script>
+  <script src="{{ site.baseurl }}/js/jquery.scrolly.min.js"></script>
+  <script src="{{ site.baseurl }}/js/jquery.scrollgress.min.js"></script>
+  <script src="{{ site.baseurl }}/js/skel.min.js"></script>
+  <script src="{{ site.baseurl }}/js/skel-layers.min.js"></script>
+  <script src="{{ site.baseurl }}/js/init.js"></script>
+  <script src="{{ site.baseurl }}/js/publications.js"></script>
+  <script src="{{ site.baseurl }}/js/slick.control.js"></script>
+  <script src="{{ site.baseurl }}/js/top.js"></script>
+  <script src="{{ site.baseurl }}/js/research.js"></script>
+  <script src="{{ site.baseurl }}/js/counter.js"></script>
 
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/swiper/swiper-bundle.min.css"
+  />
 
   {% comment %} fontawseome 가입후 받은 스크립트 {% endcomment %}
-  <script src="https://kit.fontawesome.com/368873fd8d.js" crossorigin="anonymous"></script>
+  <script
+    src="https://kit.fontawesome.com/368873fd8d.js"
+    crossorigin="anonymous"
+  ></script>
 
   <noscript>
-    
-    <link rel="stylesheet" href="/css/skel.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/style-wide.css" />
-    <link rel="stylesheet" href="/css/style-noscript.css" />
-    
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style-noscript.css" />
   </noscript>
-  <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
-  <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
-  <meta name="viewport" content="width=device-width">
+  <!--[if lte IE 8
+    ]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie/v8.css"
+  /><![endif]-->
+  <!--[if lte IE 9
+    ]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie/v9.css"
+  /><![endif]-->
+  <meta name="viewport" content="width=device-width" />
 
-  <link rel="canonical"
-    href="{{ page.url | replace:'htmls/index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'htmls/index.html','' | prepend: site.baseurl | prepend: site.url }}"
+  />
 </head>

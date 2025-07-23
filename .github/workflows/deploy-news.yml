@@ -1,0 +1,43 @@
+name: Deploy News
+
+on:
+  push:
+    paths:
+      - 'data/news/news.zip'
+
+jobs:
+  unzip-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Unzip news.zip
+        run: |
+          unzip -o data/news/news.zip -d temp_news
+
+      - name: Clear old news markdown files
+        run: |
+          rm -rf _posts/new/*
+
+      - name: Move markdown files to _posts/new/
+        run: |
+          mkdir -p _posts/new
+          mv -f temp_news/_posts/new/*.md _posts/new/ || true
+
+      - name: Move image files preserving folder structure
+        run: |
+          if [ -d "temp_news/images/posts" ]; then
+            mkdir -p images/posts
+            rsync -a temp_news/images/posts/ images/posts/
+          else
+            echo "⚠️ No image directory found. Skipping image sync."
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git add _posts/new/ images/posts/
+          git commit -m "[AUTO] Deployed news.zip (markdowns + images)" || echo "No changes"
+          git push

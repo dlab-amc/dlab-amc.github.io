@@ -24,18 +24,18 @@ layout: landing-page
 						<div class="meta">
 							<div class="photo"
 								style="background-image: url('{{ post.featured-img }}')"></div>
-							<a href="{{ post.url }}">
+							<a href="{{ site.baseurl }}{{ post.url }}">
 								<ul class="details">
 									<li class="date">{{ post.date | date: "%B %d, %Y" }}</li>
 								</ul>
 							</a>
 						</div>
 						<div class="description">
-							<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+							<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 							<p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
 							<p>{{ post.short-content }}</p>
 							<p class="read-more">
-								<a href="{{ post.url }}">Read More</a>
+								<a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
 							</p>
 						</div>
 					</div>
@@ -53,11 +53,11 @@ layout: landing-page
 						{% for post in site.posts limit: 5 %}
 						<div class="main-card">
 							<div class="description">
-								<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+								<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 								<p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
 								<p>{{ post.short-content }}</p>
 								<p class="read-more">
-									<a href="{{ post.url }}">Read More</a>
+									<a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -324,12 +324,12 @@ layout: landing-page
 			<ul class="cards-container">
 				{% for post in site.posts limit: 3 %}
 				<li class="card wrapper style1">
-					<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+					<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
 					<p class="post-date" style="font-size: 14px; margin-bottom: 5px; margin-top: 0;color:#036166df;">
 						{{ post.date | date: "%Y-%m-%d" }}
 					</p>
 					{% if post.featured-img %}
-					<a href="{{ post.url }}" style="border: none;">
+					<a href="{{ site.baseurl }}{{ post.url }}" style="border: none;">
 						<img src="{{ post.featured-img }}" alt="{{ post.title }}" style="width: 80%;">
 					</a>
 					{% endif %}

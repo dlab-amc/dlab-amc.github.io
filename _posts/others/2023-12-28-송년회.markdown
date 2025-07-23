@@ -1,16 +1,14 @@
 ---
-layout: post 
-title:  "송년회 [Year-end Party]"
-date:   2023-12-28 13:36:23
-featured-img: "/images/posts/2312/송년회_231228.jpeg"
-short-content: "서울 아산병원 Digital Medicine Lab 송년회"
-comments : true
+layout: post
+title: '송년회 [Year-end Party]'
+date: 2023-12-28 13:36:23
+featured-img: '/images/posts/2312/송년회_231228.jpeg'
+short-content: '서울 아산병원 Digital Medicine Lab 송년회'
+comments: true
 ---
-
 
 서울 아산병원 DLab은 한 해를 마무리하는 송년회를 진행하였습니다.
 
 지난 한 해 동안의 성과를 돌아보고 새로운 해에 대한 소망과 계획을 함께 공유하는 소중한 시간이었습니다😁
 
-
-<span class="image featured"><img src="/images/posts/2312/송년회_231228.jpeg" alt="" style='height: 400px; object-fit: contain;'></span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/posts/2312/송년회_231228.jpeg" alt="" style='height: 400px; object-fit: contain;'></span>

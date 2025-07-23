@@ -1,12 +1,11 @@
 ---
-layout: post 
-title:  "국제의료기기병원설비 전시회 [KIMES 2024]"
-date:   2024-03-14 13:36:23
-featured-img: "/images/posts/2403/240314_KIMES.JPG"
-short-content: "KIMES 2024 참석 및 회식"
-comments : true
+layout: post
+title: '국제의료기기병원설비 전시회 [KIMES 2024]'
+date: 2024-03-14 13:36:23
+featured-img: '/images/posts/2403/240314_KIMES.JPG'
+short-content: 'KIMES 2024 참석 및 회식'
+comments: true
 ---
-
 
 삼성동 코엑스에서 진행된 제39회 국제의료기기·병원설비전시회 ['KIMES 2024'](https://kimes.kr/kor/index.asp)에 참석하였습니다.
 
@@ -17,7 +16,7 @@ comments : true
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2403/240314_WangBirthday.JPG" alt="" style='height: 400px; object-fit: contain;'></span>
-    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2403/240314_KIMES.JPG" alt="" style='height: 400px; object-fit: contain;'></span>
-    <span class="image featured"><img src="/images/posts/2403/240314_kimes2.jpeg" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured" style="margin-right: 10px;"><img src="{{ site.baseurl }}/images/posts/2403/240314_WangBirthday.JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured" style="margin-right: 10px;"><img src="{{ site.baseurl }}/images/posts/2403/240314_KIMES.JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2403/240314_kimes2.jpeg" alt="" style='height: 400px; object-fit: contain;'></span>
 </div>

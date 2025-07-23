@@ -1,0 +1,29 @@
+name: Deploy Publications ZIP
+
+on:
+  push:
+    paths:
+      - 'data/publications/publications.zip'
+
+jobs:
+  unzip-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 📦 Unzip publications.zip
+        run: |
+          unzip -o data/publications/publications.zip -d data/publications/
+
+      - name: 🧼 Clean up ZIP file (optional)
+        run: rm -f data/publications/publications.zip
+
+      - name: ✅ Commit extracted JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/publications/*.json
+          git commit -m "🔄 Unzipped publication data"
+          git push

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "우수 논문상 [Best Paper]" 
-date:   2024-12-13 10:00:00
-featured-img: "/images/posts/2412/kieeaward.jpeg"
-short-content: "대한전기학회 우수 논문상 수상" 
+title: '우수 논문상 [Best Paper]'
+date: 2024-12-13 10:00:00
+featured-img: '/images/posts/2412/kieeaward.jpeg'
+short-content: '대한전기학회 우수 논문상 수상'
 comments: true
 ---
 
@@ -12,5 +12,5 @@ comments: true
 임하민 연구원과 왕창원 박사님이 2024년 대한전기학회 하계학술대회에서 발표한 '폐쇄병동 입원환자 위치 모니터링 플랫폼'으로 우수 논문상을 수상하였습니다🎊
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2412/kieeaward.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2412/kieeaward.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "우수성과 선정 [Excellent R&D Performances]" 
-date:   2025-02-20 10:00:00
-featured-img: "/images/posts/2502/award2.png"
-short-content: "보건의료 R&D 우수성과 30선 선정" 
+title: '우수성과 선정 [Excellent R&D Performances]'
+date: 2025-02-20 10:00:00
+featured-img: '/images/posts/2502/award2.png'
+short-content: '보건의료 R&D 우수성과 30선 선정'
 comments: true
 ---
 
-<br> 
+<br>
 
 D.Lab의 연구 과제 결과물이 우수한 성과로 인정받아, 2024년 보건의료 R&D 우수성과 30선에 선정되었습니다!🎉🎊
 
 [**아산 뉴스 기사 (링크)**](https://news.amc.seoul.kr/news/con/detail.do?cntId=10435)
 <br>
 <br>
+
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2502/award2.png" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2502/award2.png" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

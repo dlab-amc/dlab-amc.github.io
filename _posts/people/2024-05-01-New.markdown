@@ -1,12 +1,11 @@
 ---
-layout: post 
-title:  "신규 연구원 [New Researchers]"
-date:   2024-05-01 13:36:23
-featured-img: "/images/posts/2405/new_researcher0.png"
-short-content: "유지원, 한유진, 전경인 연구원 합류"
-comments : true
+layout: post
+title: '신규 연구원 [New Researchers]'
+date: 2024-05-01 13:36:23
+featured-img: '/images/posts/2405/new_researcher0.png'
+short-content: '유지원, 한유진, 전경인 연구원 합류'
+comments: true
 ---
-
 
 2024년을 맞이하여, DLab에서는 신규 연구원을 맞이하였습니다🤗
 
@@ -17,7 +16,4 @@ comments : true
 
 세 연구원의 합류를 환영합니다🥳🎉
 
-<span class="image featured"><img src="/images/posts/2405/new_researcher.png" alt="" style='height: 400px; object-fit: contain;'></span>
-
-
-
+<span class="image featured"><img src="{{ site.baseurl }}/images/posts/2405/new_researcher.png" alt="" style='height: 400px; object-fit: contain;'></span>

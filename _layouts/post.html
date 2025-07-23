@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/css/github-markdown.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/github-markdown.css" />
 
 <article id="main">
   <header class="special container">
@@ -13,19 +13,27 @@ layout: default
 
   <section class="style4 wrapper container">
     <span class="markdown-body">
-
       <h3 class="post-title">{{ page.title }}</h3>
-      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author
-        %} • {{ page.author }}{% endif %}{% if
-        page.meta %} • {{ page.meta }}{% endif %}
+      <p class="post-meta">
+        {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{
+        page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
       </p>
-      <script async
-        src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-      <p class="post-views"
-        style="font-size: 12px;  margin-top: -10px;   text-align: right;
-  color: gray;">Views: <span id="busuanzi_value_page_pv"></span></p>
+      <script
+        async
+        src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+      ></script>
+      <p
+        class="post-views"
+        style="
+          font-size: 12px;
+          margin-top: -10px;
+          text-align: right;
+          color: gray;
+        "
+      >
+        Views: <span id="busuanzi_value_page_pv"></span>
+      </p>
       {{ content }}
-
     </span>
   </section>
   {%- if page.comments -%}
@@ -36,12 +44,13 @@ layout: default
 
   <footer>
     {% if page.previous %}
-    <a href="{{ page.previous.url }}" class="post-prev"><span
-        style="color: black;">&larr; Previous post</span></a> {%
-    endif %}
-    {% if page.next %}
-    <a href="{{ page.next.url }}" class="post-next"><span
-        style="color: black;">Next post &rarr;</span></a> {% endif %}
+    <a href="{{ page.previous.url }}" class="post-prev"
+      ><span style="color: black">&larr; Previous post</span></a
+    >
+    {% endif %} {% if page.next %}
+    <a href="{{ page.next.url }}" class="post-next"
+      ><span style="color: black">Next post &rarr;</span></a
+    >
+    {% endif %}
   </footer>
-
 </article>

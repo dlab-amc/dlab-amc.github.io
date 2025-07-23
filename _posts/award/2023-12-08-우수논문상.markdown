@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "우수 논문상 [Best Paper]" 
-date:   2023-12-08 10:00:00
-featured-img: "/images/posts/2312/우수논문상_231208.JPG"
-short-content: "대한전기학회 우수 논문상 수상" 
+title: '우수 논문상 [Best Paper]'
+date: 2023-12-08 10:00:00
+featured-img: '/images/posts/2312/우수논문상_231208.JPG'
+short-content: '대한전기학회 우수 논문상 수상'
 comments: true
 ---
 
-<br> 
+<br>
 
-석현석 연구원과 신항식교수님께서 2023년 대한전기학회로부터 우수한 연구 성과를 인정받아 '멀티뷰 심방이미지 기반 인공지능 모델을 사용한 심방세동 재발예측'으로 "우수 논문상"을 수상하였습니다. 
+석현석 연구원과 신항식교수님께서 2023년 대한전기학회로부터 우수한 연구 성과를 인정받아 '멀티뷰 심방이미지 기반 인공지능 모델을 사용한 심방세동 재발예측'으로 "우수 논문상"을 수상하였습니다.
 
 두분 모두 축하드립니다!
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2312/우수논문상_231208.JPG" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2312/우수논문상_231208.JPG" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

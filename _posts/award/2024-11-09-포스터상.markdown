@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "우수 포스터 논문상 [Best Paper]" 
-date:   2024-11-09 10:00:00
-featured-img: "/images/posts/2411/의공포스터수상(3).jpeg"
-short-content: "의용생체공학회 우수 포스터 논문상 수상" 
+title: '우수 포스터 논문상 [Best Paper]'
+date: 2024-11-09 10:00:00
+featured-img: '/images/posts/2411/의공포스터수상(3).jpeg'
+short-content: '의용생체공학회 우수 포스터 논문상 수상'
 comments: true
 ---
 
@@ -12,5 +12,5 @@ comments: true
 류가연 학생과 한유진, 김영돈 연구원이 포스터발표에서 '공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석'을 발표하여 우수 포스터 논문상 (gold)를 수상하였습니다🎊
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2411/의공포스터수상(3).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2411/의공포스터수상(3).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
