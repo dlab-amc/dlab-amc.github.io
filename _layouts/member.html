@@ -38,11 +38,11 @@ layout: default
               </p>
             </header>
 
-            <p class="member-role">{{ page.member.role }}</p>
-            <p class="member-description">
-              {{ page.member.profile_description | replace: "\r\n", " \n" |
-              replace: "\r", " \n" | replace: "\n", " \n" | markdownify }}
-            </p>
+            <div class="member-description">
+              <strong>{{ page.member.role }}</strong><br />
+              {{ page.member.profile_description | replace: "\r\n", "\n" |
+              replace: "\r", "\n" | replace: "\n", " \n" | markdownify }}
+            </div>
           </section>
         </div>
       </div>

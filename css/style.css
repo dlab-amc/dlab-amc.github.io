@@ -2752,8 +2752,7 @@ a.paperclick:hover {
 }
 
 /* Member Description */
-.member-description,
-.member-role {
+.member-description {
   white-space: pre-line;
   line-height: 1.5;
 }
