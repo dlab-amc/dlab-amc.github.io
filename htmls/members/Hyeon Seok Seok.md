@@ -26,8 +26,6 @@ member:
     10.  Hyeon Seok Seok and Hangsik Shin, “Postoperative Pain Assessment based on Derivative Waveform of Photoplethysmogram,” The Transaction of Korean Institute of Electrical Engineering (KIEE), 67(7), 962-968, 2018
     11.  Yoon La Yang, Hyeon Seok Seok, and Hangsik Shin, “Development of an application for correction and arrangement of pulse features of ECG and PPG,” Journal of the Korean Institute of Intelligent Systems (KIIS), 27(6), 566-572, 2017
     
-    <!-- 686b4dbabe6cdf4d03f6b434 -->
-    - Yeonjin Lee, Hyeon Seok Seok, “Machine learning based quantitative pain assessment for the perioperative period,”, npj Digital Medicine, vol. 8, no. 1, pp. 53, Jan. 2025
     ## Patent
     
     1.  광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치, Filed (No: KR1020200066975, Date: 2020/06/03), Published (No: KR1020210150063, Date: 2021/12/10), Granted (No: KR102361725, Date: 2022/02/07)
