@@ -8,7 +8,6 @@ member:
   hover_image: '/images/members/egg_유지원.JPG'
   role: 'Researcher'
   profile_description: |
-    Researcher
     [71one.you@gmail.com](71one.you@gmail.com)
     Research Areas : Machine learning,Large Language Model,Bioinformatics,
   contents: |

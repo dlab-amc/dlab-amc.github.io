@@ -3,12 +3,11 @@ layout: member
 title: Kyungin Jeon 
 member:
   name_eng: 'Kyungin Jeon'
-  degree: '-'
+  degree: 'B.A'
   profile_image: '/images/members/전경인_0.png'
   hover_image: '/images/members/egg_전경인.JPG'
   role: 'Administrative Assistant'
   profile_description: |
-    Research Project Mangement and Support
     [dls7522@gmail.com](dls7522@gmail.com)
   contents: |
     ## Duty

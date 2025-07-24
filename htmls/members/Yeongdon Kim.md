@@ -8,7 +8,6 @@ member:
   hover_image: '/images/members/egg_김영돈2.png'
   role: 'Researcher'
   profile_description: |
-    Researcher
     [kyd5022@naver.com](mailto:kyd5022@naver.com)
     Research Areas : Software development,TinyML,Digital Healthcare
   contents: |

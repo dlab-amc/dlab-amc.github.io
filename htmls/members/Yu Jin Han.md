@@ -8,7 +8,6 @@ member:
   hover_image: '/images/members/egg_한유진.jpg'
   role: 'Master Course'
   profile_description: |
-    Master Course
     [yujin.han.ds@gmail.com](mailto:yujin.han.ds@gmail.com)
     Research Areas : Statistics, Machine learning
   contents: |

@@ -8,7 +8,6 @@ member:
   hover_image: '/images/members/egg_석현석.JPG'
   role: 'Research Assistant'
   profile_description: |
-    Researcher
     [shhs4695@gmail.com](mailto:shhs4695@gmail.com)
     Research Areas : Biomedical Engineering,Digital Healthcare,Medical AI
   contents: |

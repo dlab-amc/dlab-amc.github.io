@@ -8,7 +8,6 @@ member:
   hover_image: '/images/members/egg_최예은.JPG'
   role: 'Master Course'
   profile_description: |
-    Master Course
     [yechoi.amc@gmail.com](mailto:yechoi.amc@gmail.com)
     Research Areas : Bioinformatics,Medical AI,Digital Healthcare
   contents: |
