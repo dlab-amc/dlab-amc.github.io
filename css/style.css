@@ -2751,6 +2751,13 @@ a.paperclick:hover {
   opacity: 1;
 }
 
+/* Member Description */
+.member-description,
+.member-role {
+  white-space: pre-line;
+  line-height: 1.5;
+}
+
 /*Members 직급 기재 서식*/
 .rank {
   font-size: 30px;
