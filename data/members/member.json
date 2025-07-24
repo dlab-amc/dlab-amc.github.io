@@ -151,17 +151,6 @@
     "email": "thisisyjin@gmail.com",
     "tags": "#Web Application Development #Product Development",
     "profile_description": "Web Developer  \r\n[thisisyjin@gmail.com](mailto:thisisyjin@gmail.com)  \r\nInteresting Areas : Web Application Development, Product Development",
-    "contents": "\r\n## Test\r\n- Deploy Test 123"
-  },
-  {
-    "profile_image": "/data/members/images/members/profile_image-1753322851120-270103489.png",
-    "hover_image": "/data/members/images/members/hover_image-1753322851121-925185108.png",
-    "role": "Web Developer",
-    "name_eng": "Tester",
-    "degree": "B.Sc",
-    "email": "test@mail.com",
-    "tags": "#Test #test",
-    "profile_description": "test",
-    "contents": "# Test\r\n1234"
+    "contents": ""
   }
 ]
