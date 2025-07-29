@@ -19,10 +19,13 @@ member:
     
     ## Conference
     
-    1.  Yujin Han, Hangsik Shin, "Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic Tractometry Studies", The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Lotte Hotel Jeju, Jeju, Korea (May. 2025)
-    2.  Yujin Han, Sung Woo Joo, Hangsik Shin, "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification", The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Lotte Hotel Jeju, Jeju, Korea (May. 2025)
-    3.  Gayeon Ryu, Yujin Han, Yeongdon Kim, Hangsik Shin, “Bio-signals and result feature analysis to leverage public polysomnography database integration”, The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Korea (Nov. 2024)
-    4.  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
+    - Yeongdon Kim, Yujin Han, Hangsik Shin, "Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms", The 56th KIEE Summer Conference, Busan, Korea (Jul. 2025)
+    - Yujin Han, Sung Woo Joo, Hangsik Shin, "Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia", The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Copenhagen, Denmark (Jul. 2025)
+    - 한유진, 정천기, 김재희. 위상학적 데이터 분석과 인공 신경망을 이용한 뇌전증 MEG 데이터 분류 연구. 응용통계연구. 38(2), 189-204. (2025).
+    - Yujin Han, Hangsik Shin, "Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic Tractometry Studies", The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Lotte Hotel Jeju, Jeju, Korea (May. 2025)
+    -  Yujin Han, Sung Woo Joo, Hangsik Shin, "Radiomic Tractometry-Based Machine Learning Model for Schizophrenia Classification", The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Lotte Hotel Jeju, Jeju, Korea (May. 2025)
+    -  Gayeon Ryu, Yujin Han, Yeongdon Kim, Hangsik Shin, “Bio-signals and result feature analysis to leverage public polysomnography database integration”, The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Korea (Nov. 2024)
+    -  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
     
     
     ## Award
