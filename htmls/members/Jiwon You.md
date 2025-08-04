@@ -4,7 +4,7 @@ title: Jiwon You
 member:
   name_eng: 'Jiwon You'
   degree: 'M.S.'
-  profile_image: '/data/members/images/members/profile_image-1753751606032-612096784.jpg'
+  profile_image: '/data/members/images/members/profile_image-1753764880571-531382100.jpg'
   hover_image: '/images/members/egg_유지원.JPG'
   role: 'Researcher'
   profile_description: |

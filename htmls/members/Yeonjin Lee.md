@@ -12,5 +12,4 @@ member:
     Interesting Areas : Web Application Development, Product Development
   contents: |
     
-    
 --- 
