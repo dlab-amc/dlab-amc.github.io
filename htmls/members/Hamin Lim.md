@@ -8,8 +8,8 @@ member:
   hover_image: '/images/members/egg_임하민.jpg'
   role: 'Researcher'
   profile_description: |
-    [hamin971203@gmail.com](hamin971203@gmail.com)
-    Research Areas : Biosignal analsysis,Digital Healthcare
+    [hamin971203@gmail.com](mailto:hamin971203@gmail.com)
+    Research Areas : Biosignal analsysis, Digital Healthcare
   contents: |
     ## Journal
     

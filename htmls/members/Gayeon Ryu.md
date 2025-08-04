@@ -9,7 +9,7 @@ member:
   role: 'Master Course'
   profile_description: |
     [rgy90257823@gmail.com](mailto:rgy90257823@gmail.com)
-    Research Areas : Data Analysis, Statistics, Signal Analysis
+    Research Areas : Data analysis, Statistics, Signal analysis
   contents: |
     ## Journal
     

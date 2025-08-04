@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_전경인.JPG'
   role: 'Administrative Assistant'
   profile_description: |
-    [dls7522@gmail.com](dls7522@gmail.com)
+    [dls7522@gmail.com](mailto:dls7522@gmail.com)
   contents: |
     ## Duty
     

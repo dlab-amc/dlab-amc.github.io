@@ -9,7 +9,7 @@ member:
   role: 'Researcher'
   profile_description: |
     [kyd5022@naver.com](mailto:kyd5022@naver.com)
-    Research Areas : Software development,TinyML,Digital Healthcare
+    Research Areas : Software development, TinyML, Digital Healthcare
   contents: |
     ## Journal
     

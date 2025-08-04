@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_진재욱.jpeg'
   role: 'Ph.D. Course'
   profile_description: |
-    [realwooook@gmail.com](realwooook@gmail.com)
+    [realwooook@gmail.com](mailto:realwooook@gmail.com)
     Research Areas : Biosignal analysis, Biomedical engineering
   contents: |
     ## Journal

@@ -9,7 +9,7 @@ member:
   role: 'Research Assistant'
   profile_description: |
     [shhs4695@gmail.com](mailto:shhs4695@gmail.com)
-    Research Areas : Biomedical Engineering,Digital Healthcare,Medical AI
+    Research Areas : Biomedical engineering, Digital Healthcare, Medical AI
   contents: |
     ## Journal
     

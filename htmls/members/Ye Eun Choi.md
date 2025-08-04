@@ -9,7 +9,7 @@ member:
   role: 'Master Course'
   profile_description: |
     [yechoi.amc@gmail.com](mailto:yechoi.amc@gmail.com)
-    Research Areas : Bioinformatics,Medical AI,Digital Healthcare
+    Research Areas : Bioinformatics, Medical AI, Digital Healthcare
   contents: |
     ## Conference
     
