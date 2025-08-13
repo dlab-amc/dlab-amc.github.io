@@ -48,4 +48,5 @@ member:
     3.  KMBES Awards, Korean Biomedical Engineering Society (KBMES)
     4.  Lutronic Young Investigator Awards, The Korean Society of Medical & Biological Engineering (KOSOMBE)
     5.  Young Investigator Award, Korean Institute of Intelligent Systems (KIIS)
+    6. 진재욱, 신항식, 2025 KIEE Summer Conference Paper Award, "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal"; RS-2024-00423853;RS-2022-00141473, 2025-07-18
 --- 
