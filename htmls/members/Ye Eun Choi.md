@@ -22,6 +22,14 @@ member:
     7.  Ye Eun Choi, Hangsik Shin, “Survival Analysis of Adult Sepsis Patients based on Demographics and Underlying Diseases,” The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024 - Conference poster
     8.  Ye Eun Choi, Hangsik Shin, “Analysis of Mortality Risk in Adult Sepsis Patients based on Demographics and Underlying Diseases,” The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024 - Conference poster
     
+    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
+    <!-- 0317a002-3c1e-44a2-a96a-3fc9634c429e -->
+    - Lee J, Kwon O, Choi YE, Pak H, Shin H. Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Malta; 2023.
+    <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
+    - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- d44f19e2-f948-4020-b594-07ed6bf19b42 -->
+    - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC. 2025 Jul 14-17; Copenhagen, Denmark; 2025.
     ## Award
     
     1.  2022 데이터 청년 캠퍼스 ‘우수 프로젝트 발표’ 장려상, 한국데이터산업진흥원(Korea Data Agency), Korea (Sep. 2022)

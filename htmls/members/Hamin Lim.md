@@ -16,6 +16,8 @@ member:
     1.  Haeun Yum, Hamin Lim et al. “Effects of shear-thickening polymer on force attenuation capacities in hip protectors. Proceedings of the Institution of Mechanical Engineers” Part C: Journal of Mechanical Engineering Science. 2022;236(8):3881-3885.
     2.  Hamin Lim, Hangsik Shin, “Clustering Analysis of Activity of Daily Living based on Accelerometry.” The Transactions of the Korean Institute of Electrical Engineers KIEE Vol. 72, No. 11, p.1427-1433
     
+    <!-- 88ab8925-715b-4300-9776-8b4240d4a652 -->
+    - 임하민, 신항식. 가속도 센서 기반 일상생활 활동 군집 특징 분석. 전기학회논문지(Domestic) 특집호. 2023 11; HI22C1668, HR20C0026.
     ## Conference
     
     1.  Changwon Wang, Hamin Lim, Sung Woo Joo, Jungsun Lee, Hangsik Shin, “Investigating Abnormal Behavior Patterns in Psychiatric Inpatients” IEEE-EMBS International Conference on Biomedical and Health Informatics, Pittsburgh, USA, 10-18 Sep 2023

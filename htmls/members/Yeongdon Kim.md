@@ -44,4 +44,8 @@ member:
     2.  강원 정밀의료 빅데이터 해커톤 최우수상, 강원정밀의료사업단, 2022.12
     3.  AI Hub 학습데이터 활용 사업화 아이디어 해커톤 장려상, 한국스마트미디어학회, 2022.04
     4.  강원 애니 데이터톤 우수상, 강원정보문화진흥원, 2022.01
+    
+    ## Conference
+    <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
+    - Kim Y, Han YJ, Shin H. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
 --- 

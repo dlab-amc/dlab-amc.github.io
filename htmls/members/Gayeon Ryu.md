@@ -17,6 +17,12 @@ member:
     2.  Gayeon Ryu, Jae Moon Choi, Jaehyung Lee, Hyeon Seok Seok, Hangsik Shin, Byung-Moon Choi, "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers", JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY (2024)
     3.  Jaehyung Lee, Oh-Seok Kwon, Gayeon Ryu, Hangsik Shin, Hui-Nam Pak, "Atrial Fibrillation Identification Using CNNs Based on Genomic Data", JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY (2024)
     
+    <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
+    - 류가연, 최재문, 이재형, 석현석, 신항식, 최병문. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 08; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
+    <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
+    - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
+    - Lee J, Kwon O, Ryu G, shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
     ## Conference
     
     4.  Gayeon Ryu, Ye Eun Choi, Hangsik Shin, "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation", The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Seoul, Korea (Nov. 2024)
@@ -35,6 +41,10 @@ member:
     17.  Ga Yeon Ryu, Hyeon Seok Seok, Changwon Wang, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Photoplethysmogram Feature Analysis for Surgical Pain Assessment", KOSOMBE autumn conference, Incheon, Korea (Nov. 2022)
     18.  Ga Yeon Ryu, Hyeon Seok Seok, Changwon Wang, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain", Conference on Information and Control Systems 2022 (CICS), Pyeongchang, Korea (Oct. 2022)
     
+    <!-- 35fe7426-b8bf-4fcb-a7f2-b8db79a47148 -->
+    - Seok HS, Ryu G, Choi JM, Choi B, Shin H. Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure. 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2023 Jul 24-27; Sydney International Convention Centre (ICC); 2023.
+    <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
+    - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     ## Award
     
     1.  대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상, 대한의용생체공학회, Korea (Nov. 2024)

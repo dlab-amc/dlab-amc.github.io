@@ -23,6 +23,8 @@ member:
     8.  Juho Park, Minseok Oh, Jiwon You, Hyoji Kang, Kyuri Jo. "Analysis on Prefrontal Cortex Activation During Musical Improvisation and Sight-Reading Using Multiple Linear Regression" Korea Computer Congress (KCC) 2023, June 2023 (2023): 1853-1855.
     9.  Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.
     
+    <!-- 841b7d8e-34dc-46ee-b032-b8a8cdd56a9b -->
+    - You J, Seok HS, Kim S, shin H. Advancing laboratory medicine practice with machine learning: swift yet exact. Annals of Laboratory Medicine. 2024 Nov; 45(1):22-35; IF:4@2023JIF; RS-2024-00335644, 2024IP0001.
     ## Award
     
     1.  KCC2023 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2023.07

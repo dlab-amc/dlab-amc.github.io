@@ -28,6 +28,10 @@ member:
     -  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
     
     
+    <!-- 2f8c8ab8-403f-4529-90ba-b413f389e033 -->
+    - Han YJ, Joo SW, Shin H. Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2025 Jul 14-17; Copenhagen, Denmark; 2025.
+    <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
+    - Kim Y, Han YJ, Shin H. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
     ## Award
     
     1.  대한의용생체공학회 춘계 학술대회 최우수 포스터상, 대한의용생체공학회, 2025.05
