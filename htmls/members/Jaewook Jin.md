@@ -21,5 +21,7 @@ member:
     
     ## Conference
     <!-- 4f2e1e24-4da0-44dc-9d7b-b3de65087e47 -->
-    - Jin J, Shin H. Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
+    - 진재욱, 신항식. 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- 8540829d-f74d-46b9-964b-55c3d4497911 -->
+    - 진재욱, 신항식. 수술 전 스트레스 평가를 통한 수술 후 통증 예측. 2025대한의용생체공학회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
 --- 

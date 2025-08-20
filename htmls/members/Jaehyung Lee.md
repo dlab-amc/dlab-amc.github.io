@@ -22,6 +22,8 @@ member:
     - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
     <!-- 0317a002-3c1e-44a2-a96a-3fc9634c429e -->
     - Lee J, Kwon O, Choi YE, Pak H, Shin H. Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Malta; 2023.
+    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     ## Award
     
     1.  Best Poster Awards, 2022 AMIST Annual Conference, 2022
@@ -33,7 +35,7 @@ member:
     
     ## Journal
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
-    - 류가연, 최재문, 이재형, 석현석, 신항식, 최병문. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 08; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->

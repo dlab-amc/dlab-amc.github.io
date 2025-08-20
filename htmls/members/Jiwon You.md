@@ -11,20 +11,18 @@ member:
     [71one.you@gmail.com](mailto:71one.you@gmail.com)
     Research Areas : Machine learning, Large Language Model, Bioinformatics
   contents: |
-    ## Journal
+    ## Papers & Conferences
     
-    1.  Jiwon You, Hyeon Seok Seok, Sollip Kim and Hangsik Shin. "Advancing Laboratory Medicine Practice with Machine Learning: Swift yet Exact" Annals of Laboratory Medicine, 45(1), 22-35, 2025.
-    2.  Jiwon You, Hangsik Shin. "Can Large Language Models Analyze Health Data?: For Multi-Stage Items" The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Jeju Lotte Hotel, Jeju Island, Republic of Korea, 8-10 May 2024
-    3.  Jiwon You, Hangsik Shin. "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations" The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024
-    4.  Hyeon Seok Seok, Jiwon You, Sollip Kim and Hangsik Shin. "Error Detection in Laboratory Tests using Machine Learning" The 55th KIEE Summer Conference 2024, ICC jeju, Jeju Island, Republic of Korea, 10-13 Jul 2024
-    5.  Jiwon You, Sollip Kim, Woochang Lee, Sail Chun and Hangsik Shin. "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory" 2024 Korean Society of Medical Informatics (KOSMI) Conference, June 2024
-    6.  Jiwon You, Yooeun Kim, Kwangsoo Kim, Kyuri Jo. MutTF: a Multi-omics Analysis for Detecting Mutational Signature-induced Gene Regulations by Transcription Factors. The 17th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2023), Dec 18-21, Okinawa, Japan.
-    7.  Jiwon You, Yooeun Kim, Kwangsoo Kim, Kyuri Jo. "An Integrated Analysis for Mutational Signatures and Gene Expression Data and Prioritizing Signature-specific Transcription Factors." The Journal of Next-generation Convergence Technology Association, 7.8 (2023):1209-1216.
-    8.  Juho Park, Minseok Oh, Jiwon You, Hyoji Kang, Kyuri Jo. "Analysis on Prefrontal Cortex Activation During Musical Improvisation and Sight-Reading Using Multiple Linear Regression" Korea Computer Congress (KCC) 2023, June 2023 (2023): 1853-1855.
-    9.  Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.
+    - Jiwon You, Hyeon Seok Seok, Sollip Kim and Hangsik Shin. "Advancing Laboratory Medicine Practice with Machine Learning: Swift yet Exact" Annals of Laboratory Medicine, 45(1), 22-35, 2025.
+    - Jiwon You, Hangsik Shin. "Can Large Language Models Analyze Health Data?: For Multi-Stage Items" The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Jeju Lotte Hotel, Jeju Island, Republic of Korea, 8-10 May 2024
+    - Jiwon You, Hangsik Shin. "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations" The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024
+    - Hyeon Seok Seok, Jiwon You, Sollip Kim and Hangsik Shin. "Error Detection in Laboratory Tests using Machine Learning" The 55th KIEE Summer Conference 2024, ICC jeju, Jeju Island, Republic of Korea, 10-13 Jul 2024
+    - Jiwon You, Sollip Kim, Woochang Lee, Sail Chun and Hangsik Shin. "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory" 2024 Korean Society of Medical Informatics (KOSMI) Conference, June 2024
+    - Jiwon You, Yooeun Kim, Kwangsoo Kim, Kyuri Jo. MutTF: a Multi-omics Analysis for Detecting Mutational Signature-induced Gene Regulations by Transcription Factors. The 17th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2023), Dec 18-21, Okinawa, Japan.
+    - Jiwon You, Yooeun Kim, Kwangsoo Kim, Kyuri Jo. "An Integrated Analysis for Mutational Signatures and Gene Expression Data and Prioritizing Signature-specific Transcription Factors." The Journal of Next-generation Convergence Technology Association, 7.8 (2023):1209-1216.
+    - Juho Park, Minseok Oh, Jiwon You, Hyoji Kang, Kyuri Jo. "Analysis on Prefrontal Cortex Activation During Musical Improvisation and Sight-Reading Using Multiple Linear Regression" Korea Computer Congress (KCC) 2023, June 2023 (2023): 1853-1855.
+    - Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.
     
-    <!-- 841b7d8e-34dc-46ee-b032-b8a8cdd56a9b -->
-    - You J, Seok HS, Kim S, shin H. Advancing laboratory medicine practice with machine learning: swift yet exact. Annals of Laboratory Medicine. 2024 Nov; 45(1):22-35; IF:4@2023JIF; RS-2024-00335644, 2024IP0001.
     ## Award
     
     1.  KCC2023 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2023.07

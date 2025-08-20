@@ -176,6 +176,8 @@ member:
     - Park JH, Wang C, Shin H. FDA-cleared home sleep apnea testing devices. npj Digital Medicine. 2024 May; 7(1):123; IF:15.2@2022JIF; RS-2023-00215716, HR20C0026.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
     ## Conference
     <!-- 69f04561-092e-4ac0-af64-b4090dec017a -->
     - 석현석, 김솔잎, 신항식. Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison. 대한의용생체공학회 2023년도 제62회 추계학술대회 및 IBEC 2023. 2023. 11. 9-11; 고려대학교 하나스퀘어; 2023..
@@ -223,9 +225,21 @@ member:
     <!-- d44f19e2-f948-4020-b594-07ed6bf19b42 -->
     - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC. 2025 Jul 14-17; Copenhagen, Denmark; 2025.
     <!-- 4f2e1e24-4da0-44dc-9d7b-b3de65087e47 -->
-    - Jin J, Shin H. Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
+    - 진재욱, 신항식. 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
     <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
-    - Kim Y, Han YJ, Shin H. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
+    - 김영돈, 한유진, 신항식. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- ee5a24ad-4c4e-466e-9e12-079c56ef5830 -->
+    - 최예은, 정지영, 신항식. 패혈증 사망 위험에 미치는 비만도와 나이 영향 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데 호텔; 2025.
+    <!-- 3a9e8f81-52f2-470e-800c-e9f1acbd3558 -->
+    - 정지영, 최예은, 신항식. 패혈증 조기 예측을 위한 머신러닝 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데 호텔; 2025.
+    <!-- ce676224-6524-494b-ac75-4af3b52d8fa9 -->
+    - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
+    <!-- 64a5c206-ab29-4a1d-8778-2999a0bf4df7 -->
+    - 김태현, 류가연, 최예은, 신항식. 관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
+    <!-- 8540829d-f74d-46b9-964b-55c3d4497911 -->
+    - 진재욱, 신항식. 수술 전 스트레스 평가를 통한 수술 후 통증 예측. 2025대한의용생체공학회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
     ## Patent
     <!-- 37dad17b-7342-427e-abc3-16bf38f67e38 -->
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 18/505,903, 2025 Mar 25.

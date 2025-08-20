@@ -28,7 +28,7 @@ member:
     <!-- 1488e88b-6109-4435-8b1e-12951f673d7f -->
     - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
-    - 류가연, 최재문, 이재형, 석현석, 신항식, 최병문. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 08; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- 6bca2b12-4451-4f75-9b60-106e908def25 -->

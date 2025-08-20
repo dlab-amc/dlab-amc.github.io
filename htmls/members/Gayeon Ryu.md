@@ -18,7 +18,7 @@ member:
     3.  Jaehyung Lee, Oh-Seok Kwon, Gayeon Ryu, Hangsik Shin, Hui-Nam Pak, "Atrial Fibrillation Identification Using CNNs Based on Genomic Data", JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY (2024)
     
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
-    - 류가연, 최재문, 이재형, 석현석, 신항식, 최병문. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 08; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
@@ -45,6 +45,10 @@ member:
     - Seok HS, Ryu G, Choi JM, Choi B, Shin H. Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure. 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2023 Jul 24-27; Sydney International Convention Centre (ICC); 2023.
     <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
     - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- ce676224-6524-494b-ac75-4af3b52d8fa9 -->
+    - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
+    <!-- 64a5c206-ab29-4a1d-8778-2999a0bf4df7 -->
+    - 김태현, 류가연, 최예은, 신항식. 관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
     ## Award
     
     1.  대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상, 대한의용생체공학회, Korea (Nov. 2024)

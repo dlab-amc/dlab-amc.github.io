@@ -47,5 +47,5 @@ member:
     
     ## Conference
     <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
-    - Kim Y, Han YJ, Shin H. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. The 56th KIEE Summer Conference 2025. 2025 Jul 16-19; Bexco, Busan, Republic of Korea; 2025.
+    - 김영돈, 한유진, 신항식. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
 --- 
