@@ -292,9 +292,12 @@ permalink: /publications_j/
           cls.key === 'ALL' ? [...data] : [...(byClass[cls.key] || [])]
         )
           .filter((d) => d.date)
-          .filter((d) =>
-            currentSearch ? buildJournalHTML(d).includes(currentSearch) : true
-          )
+          .filter((d) => {
+            if (!currentSearch) return true;
+            const q = currentSearch.toLocaleLowerCase();
+            const haystack = buildJournalHTML(d).toLocaleLowerCase();
+            return haystack.includes(q);
+          })
           .sort((a, b) => b.date.localeCompare(a.date));
 
         entries.forEach((entry) => {

@@ -268,9 +268,12 @@ permalink: /publications_s/
             : item.class === selectedClass
         )
         .filter((item) => item.patent_state === selectedState)
-        .filter((item) =>
-          currentSearch ? buildPatentHTML(item).includes(currentSearch) : true
-        )
+        .filter((item) => {
+          if (!currentSearch) return true;
+          const q = currentSearch.toLocaleLowerCase();
+          const haystack = buildPatentHTML(item).toLocaleLowerCase();
+          return haystack.includes(q);
+        })
         .sort((a, b) => b.date.localeCompare(a.date));
 
       filtered.forEach((entry) => {

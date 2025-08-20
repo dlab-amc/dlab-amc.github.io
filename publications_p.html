@@ -247,9 +247,15 @@ permalink: /publications_p/
               classFilter === 'ALL'
                 ? ALLOWED_CLASSES.includes(item.class)
                 : item.class === classFilter;
+
             const matchState = item.patent_state === stateFilter;
-            const matchSearch =
-              !currentSearch || buildPatentHTML(item).includes(currentSearch);
+
+            const matchSearch = !currentSearch
+              ? true
+              : buildPatentHTML(item)
+                  .toLocaleLowerCase()
+                  .includes(currentSearch.toLocaleLowerCase());
+
             return matchClass && matchState && matchSearch;
           });
 
