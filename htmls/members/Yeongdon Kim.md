@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_김영돈2.png'
   role: 'Researcher'
   profile_description: |
-    [kyd5022@naver.com](mailto:kyd5022@naver.com)
+    [E-mail](mailto:kyd5022@naver.com)
     Research Areas : Software development, TinyML, Digital Healthcare
   contents: |
     ## Journal
@@ -47,5 +47,9 @@ member:
     
     ## Conference
     <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
-    - 김영돈, 한유진, 신항식. Development of a Multi-Center Polysomnography Dataset for the Evaluation of Sleep Analysis Algorithms. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    - 김영돈, 한유진, 신항식. 수면 분석 알고리즘 평가를 위한 다기관 수면다원검사 데이터 세트 구축. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
+    - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
+    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
 --- 

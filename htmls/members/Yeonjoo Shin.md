@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_신연주.PNG'
   role: 'Researcher'
   profile_description: |
-    [shinyeonjoo98@gmail.com](mailto:shinyeonjoo98@gmail.com)
+    [E-mail](mailto:shinyeonjoo98@gmail.com)
     Research Areas : Machine learning, Natural Language Processing, Multi-Modal
   contents: |
     

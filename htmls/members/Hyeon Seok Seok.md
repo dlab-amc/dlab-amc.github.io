@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_석현석.JPG'
   role: 'Research Assistant'
   profile_description: |
-    [shhs4695@gmail.com](mailto:shhs4695@gmail.com)
+    [E-mail](mailto:shhs4695@gmail.com)
     Research Areas : Biomedical engineering, Digital Healthcare, Medical AI
   contents: |
     ## Journal
@@ -26,7 +26,7 @@ member:
     11.  Yoon La Yang, Hyeon Seok Seok, and Hangsik Shin, “Development of an application for correction and arrangement of pulse features of ECG and PPG,” Journal of the Korean Institute of Intelligent Systems (KIIS), 27(6), 566-572, 2017
     
     <!-- 1488e88b-6109-4435-8b1e-12951f673d7f -->
-    - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
+    - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, Shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
     - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
@@ -44,7 +44,7 @@ member:
     <!-- 2d2e4f4c-23d3-441d-b96d-af4cca4e3b92 -->
     - Kim JW, Seok HS, Shin H. Is Ultra-Short-Term Heart Rate Variability Valid in Non-static Conditions?. Frontiers in Physiology. 2021 Mar; 12(596060):; IF:3.367@2019JIF; 2018R1A4A1025704, 2018R1D1A3B07046442.
     <!-- 489f1270-d0c8-4c80-a6a3-d0cfc12e48c5 -->
-    - Seok HS, Choi B, Shin H. Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis. IEEE Journal of Biomedical and Health Informatics. 2019 Nov; 23(6):2317-2324; IF:4.217@2018JIF; 2018R1A4A1025704, 2016M3A9F1941328.
+    - Seok HS, Choi B, Noh G, Shin H. Postoperative Pain Assessment Model Based on Pulse Contour Characteristics Analysis. IEEE Journal of Biomedical and Health Informatics. 2019 Nov; 23(6):2317-2324; IF:4.217@2018JIF; 2018R1A4A1025704, 2016M3A9F1941328.
     <!-- 92c80d50-fd70-4273-a4b3-d70afca8d40d -->
     - 석현석, 신항식. 광용적맥파 미분 파형 기반 수술 후 통증 평가 지표. 전기학회논문지. 2019 10; 68(10):1258-1266; NRF-2018R1A4A1025704, NRF-2018R1D1A3B07046442.
     <!-- b72aa89b-39a6-45bf-8cac-78e67bd97ad4 -->
@@ -80,4 +80,8 @@ member:
     - Seok HS, Ryu G, Choi JM, Choi B, Shin H. Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure. 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2023 Jul 24-27; Sydney International Convention Centre (ICC); 2023.
     <!-- 4fde86c3-06f0-4b09-a500-dfcf59ba538e -->
     - Choi Y, Seok HS, Shin H, Lee S, Yu J, Kim S, Lee W, Chun S. Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers. Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation. 2024 Mar 20-22; The-K Hotel, Seoul, Korea; 2024.
+    <!-- 0c93716f-831c-4ee3-b4ee-415623b8bc47 -->
+    - Seok HS, Yim JY, Kwon D, Shin H. Postoperative Pain Assessment Using Convolutional Neural Network. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19). 2019 Oct 24-27; Berlin, Germany; 2019.
+    <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
+    - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
 --- 

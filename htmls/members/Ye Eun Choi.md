@@ -8,7 +8,7 @@ member:
   hover_image: '/data/members/images/members/hover_image-1754294732114-814035835.png'
   role: 'Master Course'
   profile_description: |
-    [yechoi.amc@gmail.com](mailto:yechoi.amc@gmail.com)
+    [E-mail](mailto:yechoi.amc@gmail.com)
     Research Areas : Bioinformatics, Medical AI, Digital Healthcare
   contents: |
     ## Conference
@@ -31,13 +31,13 @@ member:
     <!-- d44f19e2-f948-4020-b594-07ed6bf19b42 -->
     - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC. 2025 Jul 14-17; Copenhagen, Denmark; 2025.
     <!-- ee5a24ad-4c4e-466e-9e12-079c56ef5830 -->
-    - 최예은, 정지영, 신항식. 패혈증 사망 위험에 미치는 비만도와 나이 영향 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데 호텔; 2025.
+    - 최예은, 정지영, 신항식. 패혈증 사망 위험에 미치는 비만도와 나이 영향 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     <!-- 3a9e8f81-52f2-470e-800c-e9f1acbd3558 -->
-    - 정지영, 최예은, 신항식. 패혈증 조기 예측을 위한 머신러닝 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데 호텔; 2025.
+    - 정지영, 최예은, 신항식. 패혈증 조기 예측을 위한 머신러닝 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     <!-- ce676224-6524-494b-ac75-4af3b52d8fa9 -->
-    - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
+    - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     <!-- 64a5c206-ab29-4a1d-8778-2999a0bf4df7 -->
-    - 김태현, 류가연, 최예은, 신항식. 관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주도 롯데 호텔; 2025.
+    - 김태현, 류가연, 최예은, 신항식. 관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     ## Award
     
     1.  2022 데이터 청년 캠퍼스 ‘우수 프로젝트 발표’ 장려상, 한국데이터산업진흥원(Korea Data Agency), Korea (Sep. 2022)
