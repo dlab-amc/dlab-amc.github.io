@@ -2751,6 +2751,12 @@ a.paperclick:hover {
   opacity: 1;
 }
 
+/* Member Container */
+
+.member-container li {
+  list-style: disc;
+}
+
 /* Member Description */
 .member-description {
   white-space: pre-line;
