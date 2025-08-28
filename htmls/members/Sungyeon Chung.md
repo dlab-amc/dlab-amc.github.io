@@ -8,7 +8,7 @@ member:
   hover_image: '/data/members/images/members/hover_image-1754265859380-619228132.jpg'
   role: 'Research Intern'
   profile_description: |
-    [sungyeon.ch8@gmail.com](mailto:sungyeon.ch8@gmail.com)
+    [E-mail](mailto:sungyeon.ch8@gmail.com)
     Research Areas : Biosignal analysis, Medical AI
   contents: |
     

@@ -8,7 +8,7 @@ member:
   hover_image: '/data/members/images/members/hover_image-1753764975378-690029088.jpg'
   role: 'Web Developer'
   profile_description: |
-    [nowgn02@gmail.com](mailto:nowgn02@gmail.com)
+    [E-mail](mailto:nowgn02@gmail.com)
     Interesting Areas : IoT, Back-End
   contents: |
     

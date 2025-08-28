@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_한유진.jpg'
   role: 'Master Course'
   profile_description: |
-    [yujin.han.ds@gmail.com](mailto:yujin.han.ds@gmail.com)
+    [E-mail](mailto:yujin.han.ds@gmail.com)
     Research Areas : Statistics, Machine learning
   contents: |
     ## Journal
@@ -28,6 +28,18 @@ member:
     -  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
     
     
+    <!-- 2f8c8ab8-403f-4529-90ba-b413f389e033 -->
+    - Han Y, Joo SW, Shin H. Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2025 Jul 14-17; Copenhagen, Denmark; 2025.
+    <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
+    - 김영돈, 한유진, 신항식. 수면 분석 알고리즘 평가를 위한 다기관 수면다원검사 데이터 세트 구축. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- bc9325f2-deac-4a51-9d2f-aaf8cade661b -->
+    - 한유진, 신항식. 다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 2ba08e29-f55b-4c5c-9cf2-8f9991f04638 -->
+    - 한유진, 주성우, 신항식. Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
+    - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
+    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
     ## Award
     
     1.  대한의용생체공학회 춘계 학술대회 최우수 포스터상, 대한의용생체공학회, 2025.05

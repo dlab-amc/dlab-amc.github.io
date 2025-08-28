@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_유지원.JPG'
   role: 'Researcher'
   profile_description: |
-    [71one.you@gmail.com](mailto:71one.you@gmail.com)
+    [E-mail](mailto:71one.you@gmail.com)
     Research Areas : Machine learning, Large Language Model, Bioinformatics
   contents: |
     ## Papers & Conferences
@@ -37,4 +37,8 @@ member:
     4.  음악치료 VR 악기개발을 위한 암기연주와 즉흥연주에서의 뇌파분석 연구, 2022.10~2023.09
     5.  코로나 19 멀티오믹스 통합분석 및 예후 예측 모델 개발, 2023.04~2023.08
     6.  비음수 최소제곱법을 활용한 변이 패턴-유전자 발현 시계열 연관 분석, 2021.07~2023.02
+    
+    ## Conference
+    <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
+    - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
 --- 

@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_임하민.jpg'
   role: 'Researcher'
   profile_description: |
-    [hamin971203@gmail.com](mailto:hamin971203@gmail.com)
+    [E-mail](mailto:hamin971203@gmail.com)
     Research Areas : Biosignal analsysis, Digital Healthcare
   contents: |
     ## Journal
@@ -34,6 +34,10 @@ member:
     12.  Hamin Lim, Tae young Lee “Basic Study on the New Statistical Method of Electromyography Analysis” Korean Society for Precision Engineering, Online 14-16 Oct 2020
     
     
+    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
+    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
+    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
+    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     ## Registered SW
     
     1.  심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션, , Granted(NO: KRC- 2023-059443, Date: 2023/12/14)

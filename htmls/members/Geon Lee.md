@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_이건.jpeg'
   role: 'Researcher'
   profile_description: |
-    [az86028602@gmail.com](mailto:az86028602@gmail.com)
+    [E-mail](mailto:az86028602@gmail.com)
     Research Areas : Biosignal analysis, Medical AI, Machine learning
   contents: |
     ## Journal
