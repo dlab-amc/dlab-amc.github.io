@@ -8,7 +8,7 @@ member:
   hover_image: '/images/members/egg_왕창원.jpg'
   role: 'Researcher'
   profile_description: |
-    [lovelyiu315@gmail.com](mailto:lovelyiu315@gmail.com)  
+    [E-mail](mailto:lovelyiu315@gmail.com)  
     Research Areas : IoT, Smart Hospital, Digital Healthcare
   contents: |
     ## Papers & Conferences
