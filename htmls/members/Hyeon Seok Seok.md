@@ -1,9 +1,9 @@
----
-layout: member
-title: Hyeon Seok Seok
+--- 
+layout: member 
+title: Hyeon Seok Seok 
 member:
   name_eng: 'Hyeon Seok Seok'
-  degree: 'Ph.D.'
+  degree: 'Ph.D. Candidate (Chonnam National University)'
   profile_image: '/images/members/HyeonSeok_0.png'
   hover_image: '/images/members/egg_석현석.JPG'
   role: 'Research Assistant'
@@ -12,7 +12,7 @@ member:
     Research Areas : Biomedical engineering, Digital Healthcare, Medical AI
   contents: |
     ## Journal
-
+    
     1.  Hyeon Seok Seok, Sang Su Kim, Do-Won Kim, Hangsik Shin, “Toward Objectification of Subjective Chronic Pain based on Implicit Response in Biosignals,” IEEE Transactions on Biomedical Engineering, 2024.
     2.  Hyeon Seok Seok, Shinae Yu, Kyung-Hwa Shin, Woochang Lee, Sail Chun, Sollip Kim, Hangsik Shin, “Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study,” Clinical Chemistry, 70(10), 1256-1267, 2024.
     3.  Junyung Park, Hyeon Seok Seok, Sang-Su Kim, and Hangsik Shin, "Photoplethysmogram Analysis and Applications: An Integrative Review," Frontiers in Physiology, 12, pp.1-23, 2022
@@ -24,7 +24,7 @@ member:
     9.  Hyeon Seok Seok and Hangsik Shin, “Investigation of the pulse to pulse interval and amplitude variation of photoplethymogram as a pain assessment parameter during anesthesia,” Journal of the Korean Institute of Intelligent Systems (KIIS), 28(4), 328-334, 2018
     10.  Hyeon Seok Seok and Hangsik Shin, “Postoperative Pain Assessment based on Derivative Waveform of Photoplethysmogram,” The Transaction of Korean Institute of Electrical Engineering (KIEE), 67(7), 962-968, 2018
     11.  Yoon La Yang, Hyeon Seok Seok, and Hangsik Shin, “Development of an application for correction and arrangement of pulse features of ECG and PPG,” Journal of the Korean Institute of Intelligent Systems (KIIS), 27(6), 566-572, 2017
-
+    
     <!-- 1488e88b-6109-4435-8b1e-12951f673d7f -->
     - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, Shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
@@ -52,25 +52,25 @@ member:
     <!-- 9be77e6f-6aca-4cb3-871f-8c2f9fb5a96a -->
     - 양윤라, 석현석, 신항식. 심전도, 광용적맥파 박동 특징점 교정 및 매칭을 위한 어플리케이션 개발. 한국지능시스템학회 논문지. 2017 12; 27(6):556-572; 2015R1C1A1A02036535.
     ## Patent
-
+    
     1.  광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치, Filed (No: KR1020200066975, Date: 2020/06/03), Published (No: KR1020210150063, Date: 2021/12/10), Granted (No: KR102361725, Date: 2022/02/07)
-
+    
     ## Award
-
+    
     1.  Best Abstract Awards, Spring Conference, Korean Society for Anesthetic Pharmacology, 2023
     2.  Best Paper Awards, 53rd Conference on the Korean Institute of Electrical Engineering (KIEE), 2022
     3.  Best Poster Awards, 57th Korea Society of Medical and Biological Engineering Spring Conference 2021 (KOSOMBE), 2021
     4.  Best Paper Award, The Korean Institute of Electrical Engineers (KIEE), 2020
     5.  Best Paper Award, Autumn Conference, Korean Institute of Intelligent Systems (KIIS), 2017
     6.  Best Paper Award, Spring Conference, Korean Institute of Intelligent Systems (KIIS), 2017
-
+    
     ## Project
-
+    
     1.  2023.01-2023.12 (On-going): Research Student, Development of Autoverification Algorithm for Laboratory Results Using Artificial Intelligence, Asan Medical Center, South Korea
     2.  2023.04-2027.12 (On-going): Research Student, Development and Validation of M3DT for Electroceuticals and Wearable Bio-Signal Medical Device, Ministry of Food and Drug Safety, South Korea
     3.  2022.04-2025.12 (On-going): Research Student, Development of AI Software as a Medical Device for Management of Full-Cycle of Atrial Fibrillation Based on Cardiac Digital Twin, Korea Government Skills and Techniques (the Ministry of Science and ICT, the Ministry of Trade, the Ministry of Health & Welfare, the Ministry of Food and Drug Safety), South Korea
     4.  2021.04-2023.12 (On-going): Research Student, Development, Optimization, and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram, and Clinical Information Based on Artificial Intelligence, Ministry of Health and Welfare (MOHW), South Korea
-
+    
     ## Conference
     <!-- 69f04561-092e-4ac0-af64-b4090dec017a -->
     - 석현석, 김솔잎, 신항식. Deep Learning for Tumor Marker Misidentification Error Detection: inter-center model performance comparison. 대한의용생체공학회 2023년도 제62회 추계학술대회 및 IBEC 2023. 2023. 11. 9-11; 고려대학교 하나스퀘어; 2023..
@@ -84,4 +84,4 @@ member:
     - Seok HS, Yim JY, Kwon D, Shin H. Postoperative Pain Assessment Using Convolutional Neural Network. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society(EMBC'19). 2019 Oct 24-27; Berlin, Germany; 2019.
     <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
     - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
----
+--- 
