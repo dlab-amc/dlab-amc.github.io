@@ -120,18 +120,6 @@
     "is_alumni": false
   },
   {
-    "profile_image": "/images/members/신연주_0.jpg",
-    "hover_image": "/images/members/egg_신연주.PNG",
-    "role": "Researcher",
-    "name_eng": "Yeonjoo Shin",
-    "degree": "M.S.",
-    "email": "shinyeonjoo98@gmail.com",
-    "tags": "#Machine learning #Natural Language Processing #Multi-Modal",
-    "profile_description": "[E-mail](mailto:shinyeonjoo98@gmail.com)  \r\nResearch Areas : Machine learning, Natural Language Processing, Multi-Modal",
-    "contents": "\r\n",
-    "is_alumni": false
-  },
-  {
     "profile_image": "/data/members/images/members/profile_image-1754265859372-801784815.jpg",
     "hover_image": "/data/members/images/members/hover_image-1754265859380-619228132.jpg",
     "role": "Researcher",
@@ -141,18 +129,6 @@
     "tags": "#Biosignal analysis #Medical AI",
     "profile_description": "[E-mail](mailto:sungyeon.ch8@gmail.com)  \r\nResearch Areas : Biosignal analysis, Medical AI",
     "contents": "",
-    "is_alumni": false
-  },
-  {
-    "profile_image": "/images/members/전경인_0.png",
-    "hover_image": "/images/members/egg_전경인.JPG",
-    "role": "Administrative Assistant",
-    "name_eng": "Kyungin Jeon",
-    "degree": "B.A.",
-    "email": "dls7522@gmail.com",
-    "tags": "#Medical Welfare #Administration",
-    "profile_description": "[E-mail](mailto:dls7522@gmail.com)  ",
-    "contents": "## Duty\r\n\r\n1.  Management of National Research Agreement\r\n2.  Management of Research Budget & finance\r\n3.  Management of Researcher contract\r\n\r\n",
     "is_alumni": false
   },
   {
