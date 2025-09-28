@@ -11,10 +11,6 @@ member:
     [E-mail](mailto:kyd5022@naver.com)
     Research Areas : Software development, TinyML, Digital Healthcare
   contents: |
-    ## Journal
-    
-    1.  Gayeon Ryu, Yujin Han, Yeongdon Kim, Hangsik Shin, “Bio-signals and result feature analysis to leverage public polysomnography database integration,” The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Korea (Nov. 2024)
-    2.  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
     
     ## Skills
     

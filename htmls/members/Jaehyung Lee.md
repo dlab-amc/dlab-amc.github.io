@@ -13,37 +13,35 @@ member:
   contents: |
     ## Conference
     
-    1.  Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds," The 54th KIEE Summer Conference 2023, Yongpyong Resort, Pyeongchang, Republic of Korea, 12-15 Jul 2023
-    2.  Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study," KOSOMBE spring conference 2023, KMEDIhub, Daegu, Republic of Korea, 11-13 May 2023
-    3.  Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GWASbased Atrial Fibrillation Identification Using DCNN," KOSOMBE autumn conference 2022, Paradise city Hotel, Incheon, Republic of Korea, 3-5 Nov 2022
-    4.  Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GenomeWide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models," Conference on Information and Control Systems 2022(CICS), Alpensia Resort, Pyeongchang, Republic of Korea, 19-22 Oct 2022
-    
-    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - 이재형, 권오석, 박희남, 신항식. 다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측. 2025 대한의용생체공학회 춘계학술대회. 2025.05.08-10; 제주 롯데호텔; 2025.
     - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
-    <!-- 0317a002-3c1e-44a2-a96a-3fc9634c429e -->
-    - Lee J, Kwon O, Choi YE, Pak H, Shin H. Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Malta; 2023.
-    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
     - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
     - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
-    ## Award
+    - Lee J, Kwon O, Choi YE, Pak H, Shin H. Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Malta; 2023.
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측. 2023년 제62회 대한의용생체공학회 추계학술대회. 2023.11.09-11.11; 고려대학교 하나스퀘어; 2023
+    - Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds," The 54th KIEE Summer Conference 2023, Yongpyong Resort, Pyeongchang, Republic of Korea, 12-15 Jul 2023
+    - Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study," KOSOMBE spring conference 2023, KMEDIhub, Daegu, Republic of Korea, 11-13 May 2023
+    - Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GWASbased Atrial Fibrillation Identification Using DCNN," KOSOMBE autumn conference 2022, Paradise city Hotel, Incheon, Republic of Korea, 3-5 Nov 2022
+    - Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GenomeWide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models," Conference on Information and Control Systems 2022(CICS), Alpensia Resort, Pyeongchang, Republic of Korea, 19-22 Oct 2022
     
-    1.  Best Poster Awards, 2022 AMIST Annual Conference, 2022
+    ## **Award**
     
-    ## Project
+    1. Best Poster Awards, 2022 AMIST Annual Conference, 2022
     
-    1.  Development of AI Software as Medical Device for Management of Full-Cycle of Atrial Fibrillation Based on Cardiac Digital Twin
-    2.  Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram, and Clinical Information Based on Artificial Intelligence
+    ## **Project**
     
-    ## Journal
-    <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
+    1. Development of AI Software as Medical Device for Management of Full-Cycle of Atrial Fibrillation Based on Cardiac Digital Twin
+    2. Development  and  Commercialization  of  Next  Generation  Convergence  Care  Technology  for Optimization of High Risk Patient Treatment
+    3. Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram, and Clinical Information Based on Artificial Intelligence
+    
+    ## **Journal**
+    
     - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
-    <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
-    <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
     - Lee J, Kwon O, Ryu G, shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
     
-    ## Patent
-    <!-- 56050b92-dd16-4742-a9de-5a2530fed2c8 -->
+    ## **Patent**
+    
     - 신항식, 이재형. 복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램. KR C-2025-002262, 2025. 1. 15.
+    - 신항식, 이재형. 3차원 그래프 데이터 변환 프로그램. KR C-2023-060554. 2023. 12. 15.
 --- 
