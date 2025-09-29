@@ -173,4 +173,8 @@ member:
     - Ko J, Shin H, Park S. Method and divice for excuting application. US 9,277,576 B2, 2016 Mar 1.
     - Ko J, Shin H, Park S. Method and divice for excuting application. US 15/010,659, 2016 Jan 29.
     - 신항식, 이재형. 복수의 3차원 데이터를 3차원 그래프 정보로 통합 변환하는 프로그램. KR C-2025-002262, 2025. 1. 15.
+    
+    ## Patent
+    <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
+    - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.
 --- 
