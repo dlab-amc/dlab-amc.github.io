@@ -142,17 +142,5 @@
     "profile_description": "[E-mail](mailto:thisisyjin@gmail.com)  \r\nInteresting Areas : Web Application Development, Product Development",
     "contents": "\n",
     "is_alumni": false
-  },
-  {
-    "profile_image": "/data/members/images/members/profile_image-1753764975368-745258052.jpg",
-    "hover_image": "/data/members/images/members/hover_image-1753764975378-690029088.jpg",
-    "role": "Web Developer",
-    "name_eng": "Jangwon Seong",
-    "degree": "B.Sc.",
-    "email": "nowgn02@gmail.com",
-    "tags": "#IoT #Back-End",
-    "profile_description": "[E-mail](mailto:nowgn02@gmail.com)\r\nInteresting Areas : IoT, Back-End",
-    "contents": "",
-    "is_alumni": false
   }
 ]
