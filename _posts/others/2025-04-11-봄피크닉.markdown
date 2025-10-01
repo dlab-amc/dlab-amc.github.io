@@ -1,23 +1,21 @@
 ---
-layout: post 
-title:  "D.Lab. 봄 피크닉 [Cherry Blossom Picnic]"
-date:   2025-04-11 13:36:23
-featured-img: "/images/posts/2504/피크닉 (1).JPG"
-short-content: "25년 봄맞이 연구실 벚꽃놀이"
-comments : true
+layout: post
+title: 'D.Lab. 봄 피크닉 [Cherry Blossom Picnic]'
+date: 2025-04-11 13:36:23
+featured-img: '/images/posts/2504/피크닉 (1).JPG'
+short-content: '25년 봄맞이 연구실 벚꽃놀이'
+comments: true
 ---
-
 
 따스한 봄볕과 만개한 벚꽃이 어우러진 4월의 하루, D.Lab.이 봄맞이 벚꽃놀이를 다녀왔습니다!🌸
 
 연구실원 모두가 모여 올림픽 공원에서 맛있는 것도 먹고, 게임도 하고, 사진도 찍으며 즐거운 시간을 보낸 뜻깊은 하루였습니다✨🥰
 
-
 <div style="display: flex; justify-content: center;">
-    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2504/피크닉 (1).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
-    <span class="image featured"><img src="/images/posts/2504/피크닉 (2).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured" style="margin-right: 10px;"><img src="{{ site.baseurl }}/images/posts/2504/피크닉 (1).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2504/피크닉 (2).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
 </div>
 <div style="display: flex; justify-content: center;">
-    <span class="image featured" style="margin-right: 10px;"><img src="/images/posts/2504/피크닉 (3).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
-    <span class="image featured"><img src="/images/posts/2504/피크닉 (4).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured" style="margin-right: 10px;"><img src="{{ site.baseurl }}/images/posts/2504/피크닉 (3).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2504/피크닉 (4).JPG" alt="" style='height: 400px; object-fit: contain;'></span>
 </div>

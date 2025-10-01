@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "우수 논문상 [Best Paper]" 
-date:   2024-10-23 10:00:00
-featured-img: "/images/posts/2412/kieeaward2.jpeg"
-short-content: "정보 및 제어 학술대회 우수 논문상 수상" 
+title: '우수 논문상 [Best Paper]'
+date: 2024-10-23 10:00:00
+featured-img: '/images/posts/2412/kieeaward2.jpeg'
+short-content: '정보 및 제어 학술대회 우수 논문상 수상'
 comments: true
 ---
 
@@ -12,5 +12,5 @@ comments: true
 류가연, 최예은 학생이 2024년 정보 및 제어 학술대회에서 발표한 '광용적맥파 기반 혈관 나이 추정 모델의 평가'로 우수 논문상을 수상하였습니다🎊
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2412/kieeaward2.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2412/kieeaward2.jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

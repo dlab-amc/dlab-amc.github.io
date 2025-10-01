@@ -1,0 +1,52 @@
+name: Deploy Members
+
+on:
+  push:
+    paths:
+      - 'data/members/members.zip'
+
+jobs:
+  unzip-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Unzip members.zip
+        run: |
+          unzip -o data/members/members.zip -d temp_members
+
+      - name: Clear old member files
+        run: |
+          rm -rf data/members/images/members/*
+          rm -rf htmls/members/*
+
+      - name: Move files to final locations
+        run: |
+          mkdir -p data/members/images/members
+          mkdir -p htmls/members
+
+          # JSON
+          mv -f temp_members/member.json data/members/member.json
+
+          # Images (only if exist)
+          if ls temp_members/images/members/* 1> /dev/null 2>&1; then
+            mv -f temp_members/images/members/* data/members/images/members/
+          else
+            echo "No member images to move."
+          fi
+
+          # Markdown files (only if exist)
+          if ls temp_members/htmls/members/*.md 1> /dev/null 2>&1; then
+            mv -f temp_members/htmls/members/*.md htmls/members/
+          else
+            echo "No member markdowns to move."
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git add data/members/ htmls/members/
+          git commit -m "[AUTO] Deployed members.zip (json + images + md)" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/dlab-amc/dlab-amc.github.io.git HEAD:main

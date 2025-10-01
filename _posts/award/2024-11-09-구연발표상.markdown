@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "우수 논문상 [Best Paper]" 
-date:   2024-11-09 10:00:00
-featured-img: "/images/posts/2411/의공포스터수상(2).jpeg"
-short-content: "의용생체공학회 우수 논문상 수상" 
+title: '우수 논문상 [Best Paper]'
+date: 2024-11-09 10:00:00
+featured-img: '/images/posts/2411/의공포스터수상(2).jpeg'
+short-content: '의용생체공학회 우수 논문상 수상'
 comments: true
 ---
 
@@ -11,7 +11,6 @@ comments: true
 <p>
 류가연, 최예은 학생이 학생구연발표에서 '인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향'을 발표하여 우수 논문상 (silver)를 수상하였습니다🎊
 
-
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2411/의공포스터수상(2).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2411/의공포스터수상(2).jpeg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

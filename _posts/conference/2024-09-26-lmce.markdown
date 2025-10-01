@@ -1,10 +1,10 @@
 ---
-layout: post 
-title:  "초청강연 [Invited Lecture]"
-date:   2024-09-26 13:36:23
-featured-img: "/images/posts/2409/lmce1.JPG"
-short-content: "LMCE 2024 신항식교수님 강연 진행"
-comments : true
+layout: post
+title: '초청강연 [Invited Lecture]'
+date: 2024-09-26 13:36:23
+featured-img: '/images/posts/2409/lmce1.JPG'
+short-content: 'LMCE 2024 신항식교수님 강연 진행'
+comments: true
 ---
 
 9월 25일부터 27일까지 코엑스에서 진행된 [LMCE 2024](https://www.lmce-kslm.org/html/?pmode=Welcome)에 참여하였습니다.
@@ -14,5 +14,5 @@ comments : true
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2409/lmce1.JPG" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2409/lmce1.JPG" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>

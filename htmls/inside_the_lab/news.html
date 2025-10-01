@@ -7,31 +7,30 @@ layout: default
     <h2>News</h2>
   </header>
 
-
   <section class="wrapper style1 container">
-
     {% for post in site.posts %}
     <div class="blog-card">
       <div class="meta">
+        <div
+          class="photo"
+          style="background-image: url('{{ site.baseurl }}{{ post.featured-img }}')"
+        ></div>
 
-        <div class="photo" style="background-image: url('{{ post.featured-img }}')"></div>
-
-        <a href="{{ post.url }}">
+        <a href="{{ site.baseurl }}{{ post.url }}">
           <ul class="details">
             <li class="date">{{ post.date | date: "%B %d, %Y" }}</li>
           </ul>
         </a>
       </div>
       <div class="description">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
         <p>{{ post.short-content }}</p>
         <p class="read-more">
-          <a href="{{ post.url }}">Read More</a>
+          <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
         </p>
       </div>
     </div>
     {% endfor %}
-
   </section>
 </article>

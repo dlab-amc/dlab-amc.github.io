@@ -1,30 +1,30 @@
-@import url("font-awesome.css");
+@import url('font-awesome.css');
 /* @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900"); */
 
 @font-face {
-  font-family: "NanumSquare_acEB";
-  src: url("\\fonts\\NanumSquare_acEB.ttf") format("truetype");
+  font-family: 'NanumSquare_acEB';
+  src: url('/dlab-amc.github.io/fonts/NanumSquare_acEB.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "NanumSquare_acL";
-  src: url("\\fonts\\NanumSquare_acL.ttf") format("truetype");
+  font-family: 'NanumSquare_acL';
+  src: url('/dlab-amc.github.io/fonts/NanumSquare_acL.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "NanumSquare_acR";
-  src: url("\\fonts\\NanumSquare_acR.ttf") format("truetype");
+  font-family: 'NanumSquare_acR';
+  src: url('/dlab-amc.github.io/fonts/NanumSquare_acR.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "NanumSquare_acB";
-  src: url("\\fonts\\NanumSquare_acB.ttf") format("truetype");
+  font-family: 'NanumSquare_acB';
+  src: url('/dlab-amc.github.io/fonts/NanumSquare_acB.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -61,7 +61,7 @@ input,
 select,
 textarea {
   color: #515455;
-  font-family: "NanumSquare_acL";
+  font-family: 'NanumSquare_acL';
   font-size: 15pt;
   font-weight: 900;
   /* letter-spacing: 0.025em; */
@@ -139,7 +139,7 @@ h1 {
   margin-top: 0.5em;
   /* letter-spacing: 0.025em; */
   font-size: 4em;
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
   margin-bottom: 0px;
 }
 
@@ -151,13 +151,13 @@ h2 {
 }
 
 h3 {
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
   font-size: 1.15em;
   letter-spacing: -0.025em;
 }
 
 h4 {
-  font-family: "NanumSquare_acL";
+  font-family: 'NanumSquare_acL';
   font-weight: 800;
   font-size: 1.8em;
   /* letter-spacing: 0.1em; */
@@ -186,6 +186,15 @@ blockquote {
   border-left: solid 0.5em rgba(124, 128, 129, 0.2);
   font-style: italic;
   padding: 1em 0 1em 2em;
+}
+
+em {
+  font-style: italic !important;
+}
+
+.ack {
+  color: #999;
+  font-size: 14px;
 }
 
 /* Section/Article */
@@ -266,7 +275,7 @@ header.special .icon:before {
 }
 
 #re_header h2 {
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
 }
 
 footer > :last-child {
@@ -279,9 +288,9 @@ footer.major {
 
 /* Form */
 
-input[type="text"],
-input[type="password"],
-input[type="email"],
+input[type='text'],
+input[type='password'],
+input[type='email'],
 textarea {
   -moz-transition: background-color 0.2s ease-in-out,
     border-color 0.2s ease-in-out;
@@ -307,16 +316,16 @@ textarea {
   outline: 0;
 }
 
-input[type="text"]:focus,
-input[type="password"]:focus,
-input[type="email"]:focus,
+input[type='text']:focus,
+input[type='password']:focus,
+input[type='email']:focus,
 textarea:focus {
   border-color: #83d3c9ff;
 }
 
-input[type="text"],
-input[type="password"],
-input[type="email"] {
+input[type='text'],
+input[type='password'],
+input[type='email'] {
   line-height: 1em;
 }
 
@@ -354,7 +363,7 @@ input[type="email"] {
 }
 
 .image:before {
-  content: "";
+  content: '';
   height: 100%;
   left: 0;
   position: absolute;
@@ -595,9 +604,9 @@ table.default thead {
 
 /* Button */
 
-input[type="button"],
-input[type="submit"],
-input[type="reset"],
+input[type='button'],
+input[type='submit'],
+input[type='reset'],
 .button {
   -moz-appearance: none;
   -webkit-appearance: none;
@@ -630,41 +639,41 @@ input[type="reset"],
   text-transform: uppercase;
 }
 
-input[type="button"]:hover,
-input[type="submit"]:hover,
-input[type="reset"]:hover,
+input[type='button']:hover,
+input[type='submit']:hover,
+input[type='reset']:hover,
 .button:hover {
   background: rgba(188, 202, 206, 0.15);
   border-color: inherit;
 }
 
-input[type="button"].special,
-input[type="submit"].special,
-input[type="reset"].special,
+input[type='button'].special,
+input[type='submit'].special,
+input[type='reset'].special,
 .button.special {
   background: #83d3c9ff;
   border-color: #83d3c9ff;
   color: white !important;
 }
 
-input[type="button"].special:hover,
-input[type="submit"].special:hover,
-input[type="reset"].special:hover,
+input[type='button'].special:hover,
+input[type='submit'].special:hover,
+input[type='reset'].special:hover,
 .button.special:hover {
   background: #96dad1 !important;
   border-color: #96dad1 !important;
 }
 
-input[type="button"].fit,
-input[type="submit"].fit,
-input[type="reset"].fit,
+input[type='button'].fit,
+input[type='submit'].fit,
+input[type='reset'].fit,
 .button.fit {
   width: 100%;
 }
 
-input[type="button"].small,
-input[type="submit"].small,
-input[type="reset"].small,
+input[type='button'].small,
+input[type='submit'].small,
+input[type='reset'].small,
 .button.small {
   font-size: 0.7em;
   min-width: 14em;
@@ -890,9 +899,9 @@ a.mail:hover {
   text-decoration: none;
 }
 
-#header nav ul li input[type="button"],
-#header nav ul li input[type="submit"],
-#header nav ul li input[type="reset"],
+#header nav ul li input[type='button'],
+#header nav ul li input[type='submit'],
+#header nav ul li input[type='reset'],
 #header nav ul li .button {
   font-size: 1em;
   min-width: 0;
@@ -901,7 +910,7 @@ a.mail:hover {
 
 #header nav ul li.submenu > a:before {
   font-family: FontAwesome;
-  content: "\f107";
+  content: '\f107';
   margin-right: 0.65em;
   color: #f57c13;
   /* 화살표에 색 추가해봄 */
@@ -978,7 +987,7 @@ a.mail:hover {
   border-bottom: solid 0.5em #fff;
   border-left: solid 0.5em transparent;
   border-right: solid 0.5em transparent;
-  content: "";
+  content: '';
   left: 0.75em;
   position: absolute;
   top: -0.45em;
@@ -1069,8 +1078,8 @@ a.mail:hover {
 #banner {
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
-  background-image: url("images/light-bl.svg"), url("images/light-br.svg"),
-    url("images/overlay.png"), url("../images/banner15.jpeg");
+  background-image: url('images/light-bl.svg'), url('images/light-br.svg'),
+    url('images/overlay.png'), url('../images/banner15.webp');
   background-position: bottom left, bottom right, top left, top center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
@@ -1189,8 +1198,8 @@ body.index #main {
 #cta {
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
-  background-image: url("images/light-tl.svg"), url("images/light-tr.svg"),
-    url("images/overlay.png"), url("../images/banner15.jpeg");
+  background-image: url('images/light-tl.svg'), url('images/light-tr.svg'),
+    url('images/overlay.png'), url('../images/banner15.jpeg');
   background-position: top left, top right, top left, bottom center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
@@ -1257,7 +1266,7 @@ body.index #main {
 
 #topButton .toggle:before {
   color: white;
-  content: "\f039";
+  content: '\f039';
   font-size: 0.75em;
   height: 30px;
   left: 0;
@@ -1271,7 +1280,7 @@ body.index #main {
 #topButton .toggle:after {
   background: rgba(163, 169, 170, 0.75);
   border-radius: 0 0 4px 4px;
-  content: "";
+  content: '';
   height: 30px;
   left: 50%;
   margin-left: -40px;
@@ -1300,7 +1309,7 @@ body.index #main {
 
 #sideButton .toggle:before {
   color: white;
-  content: "\f039";
+  content: '\f039';
   font-size: 1em;
   height: 40px;
   left: 10px;
@@ -1315,7 +1324,7 @@ body.index #main {
 #sideButton .toggle:after {
   background: rgba(163, 169, 170, 0.75);
   border-radius: 2px;
-  content: "";
+  content: '';
   height: 40px;
   left: 10px;
   position: absolute;
@@ -1415,18 +1424,18 @@ body.index #main {
 }
 
 .sub-title {
-  font: 14px/1 "arial";
+  font: 14px/1 'arial';
   color: gray;
 }
 
 .nums {
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
   font-size: 80px;
   color: #343048;
 }
 
 #num-unit {
-  font: bold 30px/1 "arial";
+  font: bold 30px/1 'arial';
   color: dimgray;
 }
 
@@ -1517,15 +1526,15 @@ a.small-button.clicked {
 }
 
 a.paperclick,
-span.paperclick {
+span.paperclick,
+div.paperclick {
   color: #515455;
   font-size: 0.9em;
   text-decoration: none;
   border: none;
   text-align: justify;
-  font-family: "NanumSquare_acL";
+  font-family: 'NanumSquare_acL';
 }
-
 
 #my_div a.paperclick:hover {
   color: #f57c13;
@@ -1567,7 +1576,7 @@ a.paperclick:hover {
 
 /* "papers-list" ID 아래의 ::before 선택자에만 스타일 적용 */
 #member-list li::before {
-  content: "•";
+  content: '•';
   display: inline-block;
   margin-right: 5px;
   font-size: 1em;
@@ -1578,29 +1587,27 @@ a.paperclick:hover {
 .nav-container {
   display: flex;
   justify-content: center;
-  margin-bottom: 5px;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0;
+  list-style: none;
+  margin-bottom: 1em;
 }
 
 .nav-link {
-  display: block;
   display: flex;
-  text-align: center;
-  text-decoration: none;
   flex-direction: column;
-  padding: 10px;
-  border-radius: 12px;
   align-items: center;
+  text-decoration: none;
   color: #445353;
-  transition: background-color 0.3s, color 0.3s;
-  width: 200px;
-  /* Set a fixed width for all nav-link boxes */
-  margin: 5px;
-  box-sizing: border-box;
-  /* Use border-box to include padding and border in width calculation */
+  background: #fff;
   border: 1px solid rgba(201, 188, 206, 0.15);
-  padding: 20px;
-  height: 100%;
-  box-shadow: 0px 0px 10px 5px rgba(201, 188, 206, 0.15);
+  border-radius: 12px;
+  box-shadow: 0 0 10px 5px rgba(201, 188, 206, 0.15);
+  width: 170px;
+  justify-content: center;
+  padding: 15px;
+  transition: all 0.3s;
 }
 
 .nav-link:hover {
@@ -1654,7 +1661,7 @@ a.paperclick:hover {
   color: #fff;
   /* Button text color */
   font-size: 16px;
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
   /* Button font size */
   padding: 10px 20px;
   /* Button padding */
@@ -1689,7 +1696,7 @@ a.paperclick:hover {
 
 #upButton .toggle:before {
   color: white;
-  content: "\f039";
+  content: '\f039';
   font-size: 0.75em;
   height: 30px;
   left: 0;
@@ -1703,7 +1710,7 @@ a.paperclick:hover {
 #upButton .toggle:after {
   background: rgba(163, 169, 170, 0.75);
   border-radius: 0 0 4px 4px;
-  content: "";
+  content: '';
   height: 30px;
   left: 50%;
   margin-left: -40px;
@@ -1714,7 +1721,7 @@ a.paperclick:hover {
 
 #upButton span {
   display: block;
-  font-family: "NanumSquare_acR"; /* Ensures the span inherits the font family */
+  font-family: 'NanumSquare_acR'; /* Ensures the span inherits the font family */
   font-size: inherit; /* Inherit the size from the button */
 }
 
@@ -1952,7 +1959,7 @@ a.paperclick:hover {
   font-weight: 100;
   font-size: 0.9em;
   margin-left: 0; /* Remove left margin for proper alignment */
-  font-family: "NanumSquare_acR";
+  font-family: 'NanumSquare_acR';
   margin-bottom: 1em;
 }
 
@@ -2336,18 +2343,18 @@ a.paperclick:hover {
 .blog-card .details .author:before {
   font-family: FontAwesome;
   margin-right: 10px;
-  content: "\f007";
+  content: '\f007';
 }
 
 .blog-card .details .date:before {
   font-family: FontAwesome;
   margin-right: 10px;
-  content: "\f133";
+  content: '\f133';
 }
 
 .blog-card .details .tags ul:before {
   font-family: FontAwesome;
-  content: "\f02b";
+  content: '\f02b';
   margin-right: 10px;
 }
 
@@ -2363,7 +2370,7 @@ a.paperclick:hover {
 }
 
 .blog-card .read-more a::after {
-  content: "\f061";
+  content: '\f061';
   font-family: FontAwesome;
   margin-left: -10px;
   opacity: 0;
@@ -2386,7 +2393,7 @@ a.paperclick:hover {
 }
 
 .blog-card p:first-of-type:before {
-  content: "";
+  content: '';
   position: absolute;
   height: 5px;
   background: #f57c13;
@@ -2416,7 +2423,7 @@ a.paperclick:hover {
 
   .blog-card .description:before {
     transform: skewX(-3deg);
-    content: "";
+    content: '';
     background: #fff;
     width: 30px;
     position: absolute;
@@ -2507,18 +2514,18 @@ a.paperclick:hover {
 .main-card .details .author:before {
   font-family: FontAwesome;
   margin-right: 10px;
-  content: "\f007";
+  content: '\f007';
 }
 
 .main-card .details .date:before {
   font-family: FontAwesome;
   margin-right: 10px;
-  content: "\f133";
+  content: '\f133';
 }
 
 .main-card .details .tags ul:before {
   font-family: FontAwesome;
-  content: "\f02b";
+  content: '\f02b';
   margin-right: 10px;
 }
 
@@ -2534,7 +2541,7 @@ a.paperclick:hover {
 }
 
 .main-card .read-more a::after {
-  content: "\f061";
+  content: '\f061';
   font-family: FontAwesome;
   margin-left: -10px;
   opacity: 0;
@@ -2557,7 +2564,7 @@ a.paperclick:hover {
 }
 
 .main-card p:first-of-type:before {
-  content: "";
+  content: '';
   position: absolute;
   height: 5px;
   background: #f57c13;
@@ -2599,7 +2606,7 @@ a.paperclick:hover {
 
   .main-card .description:before {
     transform: skewX(-3deg);
-    content: "";
+    content: '';
     background: #fff;
     width: 30px;
     position: absolute;
@@ -2744,12 +2751,24 @@ a.paperclick:hover {
   opacity: 1;
 }
 
+/* Member Container */
+
+.member-container li {
+  list-style: disc;
+}
+
+/* Member Description */
+.member-description {
+  white-space: pre-line;
+  line-height: 1.5;
+}
+
 /*Members 직급 기재 서식*/
 .rank {
   font-size: 30px;
   text-align: center;
   margin-bottom: 20px;
-  font-family: "NanumSquare_acEB";
+  font-family: 'NanumSquare_acEB';
 }
 
 hr {
@@ -2845,4 +2864,29 @@ hr {
 .collaborator-container p {
   width: 48%; /* Adjust the width to fit two columns */
   margin: 0;
+}
+
+/* Search Input */
+.search-input {
+  width: 12rem;
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: #eee;
+  padding: 0.6rem 1.2rem;
+  line-height: 1.5;
+  font-size: 15px;
+  height: 2.5rem;
+  outline: none;
+}
+
+.search-input:focus {
+  outline: none;
+  border: none;
+}
+
+.search-input::placeholder {
+  font-size: 15px;
+  line-height: normal;
+  vertical-align: middle;
 }

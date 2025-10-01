@@ -1,17 +1,15 @@
 ---
-layout: post 
-title:  "npj Digital Medicine 논문 게재 [New paper published]"
-date:   2025-01-24 13:36:23
-featured-img: "/images/posts/2501/npj2.png"
-short-content: "류가연, 석현석, 이재형 학생 논문 게재"
-comments : true
+layout: post
+title: 'npj Digital Medicine 논문 게재 [New paper published]'
+date: 2025-01-24 13:36:23
+featured-img: '/images/posts/2501/npj2.png'
+short-content: '류가연, 석현석, 이재형 학생 논문 게재'
+comments: true
 ---
 
+류가연(석사과정), 석현석(박사과정), 이재형(석사과정) 학생의 [**'Machine Learning Based Quantitative Pain Assessment for the Perioperative Period'**](https://www.nature.com/articles/s41746-024-01362-8) 논문이 _npj Digital Medicine_ 에 게재되었습니다!🎊
 
-류가연(석사과정), 석현석(박사과정), 이재형(석사과정) 학생의 [**'Machine Learning Based Quantitative Pain Assessment for the Perioperative Period'**](https://www.nature.com/articles/s41746-024-01362-8) 논문이 *npj Digital Medicine* 에 게재되었습니다!🎊
-
-[*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/) 의 IF(Impact Factor)는 **12.4**로 의료 정보 분야 상위 0.5% 저널입니다.
-
+[_npj Digital Medicine_](https://www.nature.com/npjdigitalmed/) 의 IF(Impact Factor)는 **12.4**로 의료 정보 분야 상위 0.5% 저널입니다.
 
 논문 게재를 축하드립니다🥳🎉
 <br>
@@ -20,7 +18,4 @@ comments : true
 <br>
 <br>
 
-<span class="image featured"><img src="/images/posts/2501/npj.png" alt="" style='height: 500px; object-fit: contain;'></span>
-
-
-
+<span class="image featured"><img src="{{ site.baseurl }}/images/posts/2501/npj.png" alt="" style='height: 500px; object-fit: contain;'></span>

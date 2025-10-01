@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<!-- Main -->
+<article id="main">
+  <header class="special container">
+    <h2>members</h2>
+  </header>
+
+  <!-- One -->
+  <section class="wrapper style4 container member-container">
+    <div class="row oneandhalf">
+      <div class="4u">
+        <!-- Sidebar -->
+        <div class="sidebar">
+          <section>
+            <header>
+              <div class="egg_img">
+                <img
+                  src="{{ site.baseurl }}{{ page.member.profile_image }}"
+                  alt="프로필 이미지"
+                  class="egg_0"
+                />
+                <img
+                  src="{{ site.baseurl }}{{ page.member.hover_image }}"
+                  alt="호버 이미지"
+                  class="egg_1"
+                />
+              </div>
+              <p>
+                <strong
+                  ><span style="font-size: 2rem"
+                    >{{ page.member.name_eng }},</span
+                  ></strong
+                >
+                {{ page.member.degree }}
+              </p>
+            </header>
+
+            <div class="member-description">
+              <strong>{{ page.member.role }}</strong><br />
+              {{ page.member.profile_description | replace: "\r\n", "\n" |
+              replace: "\r", "\n" | replace: "\n", " \n" | markdownify }}
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <div class="8u skel-cell-important">
+        <!-- Content -->
+        <div class="content">
+          <section>
+            {{ page.member.contents | replace: "\r\n", " \n" | replace: "\r", "
+            \n" | replace: "\n", " \n" | markdownify }}
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+</article>

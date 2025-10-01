@@ -1,23 +1,18 @@
 ---
-layout: post 
-title:  "Annals of Laboratory Medicine 논문 게재 [New paper published]"
-date:   2024-11-26 13:36:23
-featured-img: "/images/posts/2411/paper3.png"
-short-content: "유지원 연구원, 석현석 학생 논문 게재"
-comments : true
+layout: post
+title: 'Annals of Laboratory Medicine 논문 게재 [New paper published]'
+date: 2024-11-26 13:36:23
+featured-img: '/images/posts/2411/paper3.png'
+short-content: '유지원 연구원, 석현석 학생 논문 게재'
+comments: true
 ---
 
+유지원 연구원과 석현석 학생(박사과정)의 [**'Advancing Laboratory Medicine Practice With Machine Learning: Swift yet Exact'**](https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full) 논문이 _Annals of Laboratory Medicine_ 에 게재되었습니다!🎊
 
-유지원 연구원과 석현석 학생(박사과정)의 [**'Advancing Laboratory Medicine Practice With Machine Learning: Swift yet Exact'**](https://www.annlabmed.org/journal/view.html?uid=3598&vmd=Full) 논문이 *Annals of Laboratory Medicine* 에 게재되었습니다!🎊
-
-[*Annals of Laboratory Medicine*](https://www.annlabmed.org/main.html) 의 IF(Impact Factor)는 **4.0**로 MEDICAL LABORATORY TECHNOLOGY 분야의 Q1 저널입니다.
-
+[_Annals of Laboratory Medicine_](https://www.annlabmed.org/main.html) 의 IF(Impact Factor)는 **4.0**로 MEDICAL LABORATORY TECHNOLOGY 분야의 Q1 저널입니다.
 
 논문 게재를 축하드립니다🥳🎉
 
 <br>
 
-<span class="image featured"><img src="/images/posts/2411/paper2.png" alt="" style='height: 500px; object-fit: contain;'></span>
-
-
-
+<span class="image featured"><img src="{{ site.baseurl }}/images/posts/2411/paper2.png" alt="" style='height: 500px; object-fit: contain;'></span>

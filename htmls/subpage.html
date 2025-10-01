@@ -1,34 +1,53 @@
 <!DOCTYPE html>
 <html lang="eng">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>File Upload and Download</title>
-</head>
-<body>
-
+  </head>
+  <body>
     <h2>Download a file</h2>
     <ul>
-        <li><a href="/data/18370469.csv" download>18370469.csv</a></li>
-        <li><a href="/data/20589989.csv" download>20589989.csv</a></li>
-        <li><a href="/data/22457175.csv" download>22457175.csv</a></li>
-        <li><a href="/data/22428800.csv" download>22428800.csv</a></li>
-        <li><a href="/data/22800697.csv" download>22800697.csv</a></li>
-        <li><a href="/data/23636743.csv" download>23636743.csv</a></li>
-        <li><a href="/data/24087089.csv" download>24087089.csv</a></li>
-        <li><a href="/data/27315846.csv" download>27315846.csv</a></li>
-        <li><a href="/data/27344541.csv" download>27344541.csv</a></li>
-        <li><a href="/data/27444186.csv" download>27444186.csv</a></li>
+      <li>
+        <a href="{{ site.baseurl }}/data/18370469.csv" download>18370469.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/20589989.csv" download>20589989.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/22457175.csv" download>22457175.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/22428800.csv" download>22428800.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/22800697.csv" download>22800697.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/23636743.csv" download>23636743.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/24087089.csv" download>24087089.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/27315846.csv" download>27315846.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/27344541.csv" download>27344541.csv</a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/data/27444186.csv" download>27444186.csv</a>
+      </li>
     </ul>
 
     <script>
-        function downloadFile(url, fileName) {
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = fileName;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-        }
+      function downloadFile(url, fileName) {
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+      }
     </script>
-</body>
+  </body>
 </html>

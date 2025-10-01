@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "젊은 연구자 학술대상 [Young Researcher Academic Award]" 
-date:   2023-12-08 10:00:00
-featured-img: "/images/posts/2312/젊은연구자상_231208.jpg"
-short-content: "대한전기학회 젊은 연구자 학술대상 수상" 
+title: '젊은 연구자 학술대상 [Young Researcher Academic Award]'
+date: 2023-12-08 10:00:00
+featured-img: '/images/posts/2312/젊은연구자상_231208.jpg'
+short-content: '대한전기학회 젊은 연구자 학술대상 수상'
 comments: true
 ---
 
 <br> 
 <p>
-신항식 교수님께서 2023년 대한전기학회로부터 우수한 연구 성과를 인정받아 "젊은 연구자 학술대상"을 수상하였습니다. 
+신항식 교수님께서 2023년 대한전기학회로부터 우수한 연구 성과를 인정받아 "젊은 연구자 학술대상"을 수상하였습니다.
 
 교수님 축하드립니다!
 
 <div style="display: flex; justify-content: center;">
-    <span class="image featured"><img src="/images/posts/2312/젊은연구자상_231208.jpg" alt="" style='height: 500px; object-fit: contain;'></span>
+    <span class="image featured"><img src="{{ site.baseurl }}/images/posts/2312/젊은연구자상_231208.jpg" alt="" style='height: 500px; object-fit: contain;'></span>
 </div>
