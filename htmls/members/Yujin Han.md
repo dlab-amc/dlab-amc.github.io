@@ -4,7 +4,7 @@ title: Yujin Han
 member:
   name_eng: 'Yujin Han'
   degree: 'B.Sc.'
-  profile_image: '/images/members/한유진_0.png'
+  profile_image: '/data/members/images/members/profile_image-1760500606315-672307507.jpg'
   hover_image: '/images/members/egg_한유진.jpg'
   role: 'Master Course'
   profile_description: |
