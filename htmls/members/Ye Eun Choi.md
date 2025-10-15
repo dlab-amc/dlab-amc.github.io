@@ -3,7 +3,7 @@ layout: member
 title: Ye Eun Choi 
 member:
   name_eng: 'Ye Eun Choi'
-  degree: 'B.Sc'
+  degree: 'B.Sc.'
   profile_image: '/images/members/최예은.jpg'
   hover_image: '/data/members/images/members/hover_image-1754294732114-814035835.png'
   role: 'Master Course'
