@@ -52,7 +52,7 @@
     "hover_image": "/data/members/images/members/hover_image-1754294732114-814035835.png",
     "role": "Master Course",
     "name_eng": "Ye Eun Choi",
-    "degree": "B.Sc",
+    "degree": "B.Sc.",
     "email": "yechoi.amc@gmail.com",
     "tags": "#Bioinformatics #Medical AI #Digital Healthcare",
     "profile_description": "[E-mail](mailto:yechoi.amc@gmail.com)  \r\nResearch Areas : Bioinformatics, Medical AI, Digital Healthcare",
@@ -132,6 +132,18 @@
     "is_alumni": false
   },
   {
+    "profile_image": "/data/members/images/members/profile_image-1760350593199-724054674.jpg",
+    "hover_image": "/data/members/images/members/hover_image-1760350430320-394474140.jpg",
+    "role": "Researcher",
+    "name_eng": "Minso Kim",
+    "degree": "B.Sc.",
+    "email": "rlaalsth1998@gmail.com",
+    "tags": "#Bioinformatics #Medical AI #Data Analysis",
+    "profile_description": "[E-mail](mailto:rlaalsth1998@gmail.com)  \r\nResearch Areas : Bioinformatics, Medical AI, Data Analysis",
+    "contents": "",
+    "is_alumni": false
+  },
+  {
     "profile_image": "/images/members/이연진_0.png",
     "hover_image": "/data/members/images/members/hover_image-1750746721518-353561026.png",
     "role": "Web Developer",
@@ -141,6 +153,18 @@
     "tags": "#Web Application Development #Product Development",
     "profile_description": "[E-mail](mailto:thisisyjin@gmail.com)  \r\nInteresting Areas : Web Application Development, Product Development",
     "contents": "\n",
+    "is_alumni": false
+  },
+  {
+    "profile_image": "/data/members/images/members/profile_image-1760492807636-41423540.jpg",
+    "hover_image": "/data/members/images/members/hover_image-1760492807636-519029047.jpg",
+    "role": "Administrative Assistant",
+    "name_eng": "Saenal Oh",
+    "degree": "B.Sc.",
+    "email": "dlab.amc@gmail.com",
+    "tags": "# Molecule Biotechnology # Administration",
+    "profile_description": "[E-mail](mailto:dlab.amc@gmail.com)  \r\nResearch Areas : Molecule biotechnology, Administration",
+    "contents": "",
     "is_alumni": false
   }
 ]
