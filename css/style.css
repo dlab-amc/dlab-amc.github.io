@@ -2716,6 +2716,7 @@ a.paperclick:hover {
   text-align: center;
   color: #949090;
   font-size: 18px;
+  display: block;
 }
 
 #tags:last-child {
