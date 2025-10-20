@@ -177,4 +177,8 @@ member:
     ## Patent
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
     - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.
+    
+    ## Journal
+    <!-- 0e4ccaf9-1e53-463e-85b2-8f90b79a5660 -->
+    - Shin H. From radial to aortic pressure: In silico data-driven estimation using an autoencoder. Biomedical Signal Processing and Control. 2026 Feb; IF:4.9@2024JIF; RS-2023-00215716, RS-2022-00141473, 2024IP0021.
 --- 
