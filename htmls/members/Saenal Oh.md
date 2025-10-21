@@ -4,7 +4,7 @@ title: Saenal Oh
 member:
   name_eng: 'Saenal Oh'
   degree: 'B.Sc.'
-  profile_image: '/data/members/images/members/profile_image-1760492807636-41423540.jpg'
+  profile_image: '/data/members/images/members/profile_image-1761016943378-342792022.png'
   hover_image: '/data/members/images/members/hover_image-1760492807636-519029047.jpg'
   role: 'Administrative Assistant'
   profile_description: |
