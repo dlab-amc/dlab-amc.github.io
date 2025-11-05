@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '우수 논문상 [Best Paper]'
-date: 2025-07-18 06:55:54
+date: 2025-08-13 06:55:54
 featured-img: '/images/posts/202508/thumbnail_image-1755068155846-285474001.png'
 short-content: '대한전기학회 우수 논문상 수상'
 comments: true
