@@ -3,7 +3,7 @@ layout: post
 title: '학술대회 [Academic Conference]'
 date: 2025-10-23 02:25:04
 featured-img: '/images/posts/202510/thumbnail_image-1762309505696-6095682.png'
-short-content: 'CICS'25 정보 및 제어 학술대회 참석'
+short-content: "CICS'25 정보 및 제어 학술대회 참석"
 comments: true
 ---
 
@@ -12,4 +12,3 @@ comments: true
 10월 22일부터 25일까지 고성 델피노 리조트에서 열린 CICS'25 정보 및 제어 학술대회에 참석하였습니다.
 
 구연 발표 (진재욱, 최예은)와 포스터 발표 (유지원)를 하여 학술대회에서 우리 팀의 성과를 발표하는 시간을 가졌습니다🤓📝
-
