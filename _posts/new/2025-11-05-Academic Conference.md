@@ -1,13 +1,13 @@
 ---
 layout: post
 title: '학술대회 [Academic Conference]'
-date: 2025-10-23 02:25:04
-featured-img: '/images/posts/202510/thumbnail_image-1762309505696-6095682.png'
+date: 2025-11-05 02:25:04
+featured-img: '/images/posts/202511/thumbnail_image-1762309505696-6095682.png'
 short-content: 'CICS'25 정보 및 제어 학술대회 참석'
 comments: true
 ---
 
-![](/images/posts/202510/5fc12501-649c-4e21-9515-7e61242572dc.png)
+![](/images/posts/202511/5fc12501-649c-4e21-9515-7e61242572dc.png)
 
 10월 22일부터 25일까지 고성 델피노 리조트에서 열린 CICS'25 정보 및 제어 학술대회에 참석하였습니다.
 
