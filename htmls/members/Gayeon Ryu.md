@@ -53,6 +53,10 @@ member:
     - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
     - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
+    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
+    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     ## Award
     
     1.  대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상, 대한의용생체공학회, Korea (Nov. 2024)
@@ -61,6 +65,8 @@ member:
     4.  Best Abstract Awards, Spring Conference, Korean Society for Anesthetic Pharmacology, Korea (Apr. 2023)
     5.  Paper of the Year Award, AMIST 종합학술대회, Korea (Nov. 2022)
     
+    <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 최우수포스터상, 대한의용생체공학회
     ## Patent
     
     1.  신항식ㆍ최병문 ㆍ 최재문ㆍ류가연, "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로 그램이 저장된 기록 매체", KR-Application No. 10-2024-0053680

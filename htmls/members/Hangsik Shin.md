@@ -50,6 +50,12 @@ member:
     5.  Young Investigator Award, Korean Institute of Intelligent Systems (KIIS)
     6. 진재욱, 신항식, 2025 KIEE Summer Conference Paper Award, "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal"; RS-2024-00423853;RS-2022-00141473, 2025-07-18
     
+    <!-- bdcfb609-561b-4759-a4ab-b2131804f634 -->
+    - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, [object Object],[object Object], 우수논문상, 대한의용생체공학회
+    <!-- 34dc931e-4d40-4ecd-be98-ec618d6339d4 -->
+    - 정성연; 유지원; 신항식(Sungyeon Chung; Jiwon You; Hangsik Shin), LLM 기반 임상화학검사 결과보고서 자동 생성(Clinical Chemistry Report Generation with a Large Language Model), Domestic, 2025-11-08, 2025IP0002; 2024IP0025; RS-2024-00335644, [object Object],[object Object],[object Object], 우수포스터상, 대한의용생체공학회
+    <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 최우수포스터상, 대한의용생체공학회
     ## **Journal**
     
     - Shin H. Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy. Computers in Biology and Medicine. 2024 Jul; 180(108952):; IF:7@2023JIF; HI22C1668, RS-2023-00215716.
@@ -181,4 +187,26 @@ member:
     ## Journal
     <!-- 0e4ccaf9-1e53-463e-85b2-8f90b79a5660 -->
     - Shin H. From radial to aortic pressure: In silico data-driven estimation using an autoencoder. Biomedical Signal Processing and Control. 2026 Feb; IF:4.9@2024JIF; RS-2023-00215716, RS-2022-00141473, 2024IP0021.
+    
+    ## Conference
+    <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
+    - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 865070f8-0286-4855-9c26-f82829b67952 -->
+    - 유지원, 신항식. Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
+    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 1b6c1fd8-e248-4317-aa24-a30e0e900b3f -->
+    - 최예은, 신항식. Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 2894dca4-39fd-49cc-a53f-ac43f94e66be -->
+    - 한유진, 신항식. Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 6f87124d-c4cc-44ad-a2ec-f3f99f170ef6 -->
+    - 이건, 신항식. 생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 3b6e71b3-7c19-4e21-8657-4f4a36e86f09 -->
+    - 김영돈, 신항식. 대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 953bc51d-de68-43ee-a4a5-cc10a73d427a -->
+    - 정성연, 유지원, 신항식. LLM 기반 임상화학검사 결과보고서 자동 생성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 0f8ca978-e12a-49e6-be3a-8fc5cf7da97b -->
+    - 유지원, 김솔잎, 신항식. LLM 기반 임상화학검사 재검사 판정 시스템. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
 --- 

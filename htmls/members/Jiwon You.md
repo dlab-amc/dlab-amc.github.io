@@ -26,12 +26,20 @@ member:
     - Jiwon You, Hangsik Shin. "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations" The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024
     - Jiwon You, Hangsik Shin. "Can Large Language Models Analyze Health Data?: For Multi-Stage Items" The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Jeju Lotte Hotel, Jeju Island, Republic of Korea, 8-10 May 2024
     
+    <!-- 865070f8-0286-4855-9c26-f82829b67952 -->
+    - 유지원, 신항식. Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 953bc51d-de68-43ee-a4a5-cc10a73d427a -->
+    - 정성연, 유지원, 신항식. LLM 기반 임상화학검사 결과보고서 자동 생성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 0f8ca978-e12a-49e6-be3a-8fc5cf7da97b -->
+    - 유지원, 김솔잎, 신항식. LLM 기반 임상화학검사 재검사 판정 시스템. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     ## Award
     
     1. KCC2023 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2023.07
     2. 2022 종합학술대회 우수논문상(창업 아이디어 부문), 한국스마트미디어학회, 2022.06
     3. KCC2021 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2021.07
     
+    <!-- 34dc931e-4d40-4ecd-be98-ec618d6339d4 -->
+    - 정성연; 유지원; 신항식(Sungyeon Chung; Jiwon You; Hangsik Shin), LLM 기반 임상화학검사 결과보고서 자동 생성(Clinical Chemistry Report Generation with a Large Language Model), Domestic, 2025-11-08, 2025IP0002; 2024IP0025; RS-2024-00335644, , 우수포스터상, 대한의용생체공학회
     ## Project
     
     1. 인공지능 기반 일반화학검사 수기 검증 Human Knowledge Transfer 모델 개발, 2025.01~

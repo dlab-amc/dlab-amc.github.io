@@ -26,6 +26,8 @@ member:
     - Gayeon Ryu, Yujin Han, Yeongdon Kim, Hangsik Shin, “Bio-signals and result feature analysis to leverage public polysomnography database integration”, The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Korea (Nov. 2024)
     - Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
     
+    <!-- 2894dca4-39fd-49cc-a53f-ac43f94e66be -->
+    - 한유진, 신항식. Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     ## Award
     
     1.  대한의용생체공학회 춘계 학술대회 최우수 포스터상, 대한의용생체공학회, 2025.05
