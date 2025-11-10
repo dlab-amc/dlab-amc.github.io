@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '우수포스터상 [Best Poster]'
+title: '최우수포스터상 [Best Poster]'
 date: 2025-11-08 06:33:40
 featured-img: '/images/posts/202511/251108_best_poster.dng'
 short-content: '대한의용생체공학회 최우수포스터상 수상'
