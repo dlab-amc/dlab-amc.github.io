@@ -2868,7 +2868,8 @@ hr {
 }
 
 /* Search Input */
-.search-input {
+.search-input,
+#searchInput {
   width: 12rem;
   display: flex;
   align-items: center;
@@ -2881,13 +2882,19 @@ hr {
   outline: none;
 }
 
-.search-input:focus {
+.search-input:focus,
+#searchInput:focus {
   outline: none;
   border: none;
 }
 
-.search-input::placeholder {
-  font-size: 15px;
+.search-input::placeholder,
+#searchInput:focus::placeholder {
   line-height: normal;
   vertical-align: middle;
+}
+
+#searchInput {
+  height: 3.5rem;
+  padding: 0.6rem 1.2rem;
 }

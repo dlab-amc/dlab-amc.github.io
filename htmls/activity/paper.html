@@ -1,0 +1,171 @@
+---
+layout: default
+---
+
+<article id="main">
+  <header class="special container">
+    <h2>PAPER</h2>
+  </header>
+
+  <section class="wrapper style1 container">
+    {%- assign base = site.baseurl -%} {%- assign items = site.posts | where:
+    "layout", "activity_post" | where: "type", "paper" -%}
+
+    <!-- 상단: 총 건수 + 검색 -->
+    <div
+      style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px 0 18px;
+      "
+    >
+      <div style="font-weight: 600">총 {{ items | size }}건</div>
+
+      <div style="position: relative">
+        <span
+          style="
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-40%);
+            opacity: 0.6;
+          "
+          ><i class="fa-solid fa-magnifying-glass"></i
+        ></span>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="검색어를 입력하세요."
+          style="
+            border-radius: 4px;
+            width: 260px;
+            background: #fff;
+            padding-left: 50px;
+          "
+        />
+      </div>
+    </div>
+
+    <div
+      style="
+        background: #fff;
+        border-radius: 4px;
+        padding: 26px;
+        min-height: 520px;
+      "
+    >
+      {%- if items and items.size > 0 -%}
+      <!-- 카드 그리드 -->
+      <div
+        id="grid"
+        style="
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 20px;
+        "
+      >
+        {%- for post in items -%} {%- assign url = post.video_url | default: ""
+        -%} {%- assign youtube_id = "" -%} {%- if url contains "youtu.be/" -%}
+        {%- assign tmp = url | split: "youtu.be/" -%} {%- assign youtube_id =
+        tmp[1] | split: "?" | first | split: "&" | first -%} {%- elsif url
+        contains "youtube.com/watch" -%} {%- assign tmp = url | split: "v=" -%}
+        {%- assign youtube_id = tmp[1] | split: "&" | first -%} {%- elsif url
+        contains "youtube.com/embed/" -%} {%- assign tmp = url | split:
+        "youtube.com/embed/" -%} {%- assign youtube_id = tmp[1] | split: "?" |
+        first | split: "&" | first -%} {%- endif -%}
+
+        <a
+          class="card"
+          href="{{ base }}{{ post.url }}"
+          data-title="{{ post.title | downcase }}"
+          data-author="{{ post.author | downcase }}"
+          data-extra="{{ post.extra_info | default:'' | downcase }}"
+          style="
+            display: block;
+            border: 1px solid #eee;
+            border-radius: 14px;
+            overflow: hidden;
+            background: #fff;
+            text-decoration: none;
+          "
+        >
+          <div style="aspect-ratio: 16/9; background: #f3f3f3">
+            <img
+              src="https://img.youtube.com/vi/{{ youtube_id }}/hqdefault.jpg"
+              alt="thumbnail"
+              style="
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+              "
+            />
+          </div>
+
+          <div style="padding: 14px 16px">
+            <div
+              style="
+                font-weight: 700;
+                color: #111;
+                line-height: 1.25;
+                margin-bottom: 10px;
+              "
+            >
+              {{ post.title }}
+            </div>
+
+            <div style="color: #666; font-size: 13px">
+              {{ post.date | date: "%Y-%m-%d" }}
+            </div>
+          </div>
+        </a>
+        {%- endfor -%}
+      </div>
+
+      <!-- 검색 결과가 0개일 때 표시 -->
+      <div
+        id="emptySearch"
+        style="display: none; text-align: center; color: #888; padding: 140px 0"
+      >
+        게시글이 존재하지 않습니다.
+      </div>
+
+      {%- else -%}
+      <div style="text-align: center; color: #888; padding: 180px 0">
+        게시글이 존재하지 않습니다.
+      </div>
+      {%- endif -%}
+    </div>
+  </section>
+</article>
+
+<script>
+  (function () {
+    const input = document.getElementById('searchInput');
+    const grid = document.getElementById('grid');
+    if (!input || !grid) return;
+
+    const cards = Array.from(grid.querySelectorAll('.card'));
+    const emptySearch = document.getElementById('emptySearch');
+
+    function apply() {
+      const q = (input.value || '').trim().toLowerCase();
+      let visible = 0;
+
+      cards.forEach((el) => {
+        const t = el.dataset.title || '';
+        const a = el.dataset.author || '';
+        const e = el.dataset.extra || '';
+        const ok = !q || t.includes(q) || a.includes(q) || e.includes(q);
+        el.style.display = ok ? 'block' : 'none';
+        if (ok) visible += 1;
+      });
+
+      if (emptySearch)
+        emptySearch.style.display = visible === 0 ? 'block' : 'none';
+    }
+
+    input.addEventListener('input', apply);
+  })();
+</script>

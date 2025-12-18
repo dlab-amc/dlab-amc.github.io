@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/github-markdown.css" />
+
+<article id="main">
+  <header class="special container"></header>
+
+  <section class="style4 wrapper container">
+    <div class="markdown-body">
+      <h3 class="post-title">{{ page.title }}</h3>
+
+      <p class="post-meta" style="margin-bottom: 4px">
+        {{ page.date | date: "%Y-%m-%d" }}
+      </p>
+
+      <script
+        async
+        src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+      ></script>
+      <p
+        class="post-views"
+        style="
+          font-size: 12px;
+          margin-top: -4px;
+          text-align: right;
+          color: gray;
+        "
+      >
+        Views: <span id="busuanzi_value_page_pv"></span>
+      </p>
+
+      <hr />
+
+      <!-- Information -->
+      <h4>Information</h4>
+      <table>
+        <tbody>
+          <tr>
+            <th style="text-align: left; padding-right: 12px">일자</th>
+            <td>{{ page.date | date: "%Y년 %m월 %d일" }}</td>
+          </tr>
+          <tr>
+            <th style="text-align: left; padding-right: 12px">저자</th>
+            <td>{{ page.author }}</td>
+          </tr>
+
+          {% if page.type == "paper" and page.extra_info %}
+          <tr>
+            <th style="text-align: left; padding-right: 12px">저널명</th>
+            <td>{{ page.extra_info }}</td>
+          </tr>
+          {% endif %} {% if page.type == "conference" and page.extra_info %}
+          <tr>
+            <th style="text-align: left; padding-right: 12px">학술대회</th>
+            <td>{{ page.extra_info }}</td>
+          </tr>
+          {% endif %}
+        </tbody>
+      </table>
+
+      <br />
+
+      <!-- Video -->
+      <h4>Video</h4>
+
+      {%- assign url = page.video_url | default: "" -%} {%- assign youtube_id =
+      "" -%} {%- if url contains "youtu.be/" -%} {%- assign tmp = url | split:
+      "youtu.be/" -%} {%- assign youtube_id = tmp[1] | split: "?" | first |
+      split: "&" | first -%} {%- elsif url contains "youtube.com/watch" -%} {%-
+      assign tmp = url | split: "v=" -%} {%- assign youtube_id = tmp[1] | split:
+      "&" | first -%} {%- elsif url contains "youtube.com/embed/" -%} {%- assign
+      tmp = url | split: "youtube.com/embed/" -%} {%- assign youtube_id = tmp[1]
+      | split: "?" | first | split: "&" | first -%} {%- endif -%}
+
+      <div
+        style="
+          position: relative;
+          padding-bottom: 56.25%;
+          height: 0;
+          overflow: hidden;
+          border-radius: 8px;
+        "
+      >
+        <iframe
+          src="https://www.youtube.com/embed/{{ youtube_id }}"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <br />
+
+      <!-- Overview -->
+      <h4>Overview</h4>
+      {{ content }}
+    </div>
+  </section>
+
+  {%- if page.comments -%}
+  <div id="post-disqus" class="container">
+    {%- include disqus_comments.html -%}
+  </div>
+  {%- endif -%}
+</article>
