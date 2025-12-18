@@ -90,6 +90,10 @@ a:hover {
   border-bottom-color: transparent;
 }
 
+a.card {
+  border-bottom-color: transparent;
+}
+
 strong,
 b {
   font-weight: 900;

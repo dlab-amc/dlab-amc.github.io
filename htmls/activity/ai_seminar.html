@@ -84,20 +84,24 @@ layout: default
           data-extra="{{ post.extra_info | default:'' | downcase }}"
           style="
             display: block;
-            border: 1px solid #eee;
             border-radius: 14px;
             overflow: hidden;
             background: #fff;
             text-decoration: none;
+            box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+            transition: box-shadow 0.2s ease, transform 0.2s ease;
           "
         >
-          <div style="aspect-ratio: 16/9; background: #f3f3f3">
+          <div
+            style="aspect-ratio: 16/9; background: #f3f3f3; overflow: hidden"
+          >
             <img
               src="https://img.youtube.com/vi/{{ youtube_id }}/hqdefault.jpg"
               alt="thumbnail"
               style="
-                width: 100%;
-                height: 100%;
+                width: calc(100% + 10px);
+                height: calc(100% + 10px);
+                margin: -5px;
                 object-fit: cover;
                 display: block;
               "
@@ -116,8 +120,31 @@ layout: default
               {{ post.title }}
             </div>
 
-            <div style="color: #666; font-size: 13px">
-              {{ post.date | date: "%Y-%m-%d" }}
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                color: #666;
+                font-size: 13px;
+              "
+            >
+              <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+              <span
+                style="
+                  width: 26px;
+                  height: 26px;
+                  border-radius: 999px;
+                  border: 1px solid #ddd;
+                  display: inline-flex;
+                  align-items: center;
+                  justify-content: center;
+                  color: #999;
+                  background: #fff;
+                "
+              >
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
+              </span>
             </div>
           </div>
         </a>
@@ -167,6 +194,12 @@ layout: default
         emptySearch.style.display = visible === 0 ? 'block' : 'none';
     }
 
-    input.addEventListener('input', apply);
+    // 검색어 입력 후 Enter를 눌렀을 때만 필터 적용
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        apply();
+      }
+    });
   })();
 </script>
