@@ -8,7 +8,8 @@ layout: default
   </header>
 
   <section class="wrapper style1 container">
-    {% for post in site.posts %}
+    {% assign items = site.posts | where: "layout", "post" %}
+    {% for post in items %}
     <div class="blog-card">
       <div class="meta">
         <div
