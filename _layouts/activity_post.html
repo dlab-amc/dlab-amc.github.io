@@ -11,31 +11,23 @@ layout: default
     <div class="markdown-body">
       <h3 class="post-title">{{ page.title }}</h3>
 
-      <p class="post-meta" style="margin-bottom: 4px">
-        {{ page.date | date: "%Y-%m-%d" }}
-      </p>
-
-      <script
-        async
-        src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
-      ></script>
-      <p
-        class="post-views"
-        style="
-          font-size: 12px;
-          margin-top: -4px;
-          text-align: right;
-          color: gray;
-        "
-      >
-        Views: <span id="busuanzi_value_page_pv"></span>
-      </p>
+      <div class="post-meta-container">
+        <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+        <span class="post-separator">|</span>
+        <script
+          async
+          src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+        ></script>
+        <span class="post-views"
+          >Views: <span id="busuanzi_value_page_pv"></span
+        ></span>
+      </div>
 
       <hr />
 
       <!-- Information -->
-      <h4>Information</h4>
-      <table>
+      <h4 class="section-title">Information</h4>
+      <table class="info-table">
         <tbody>
           <tr>
             <th style="text-align: left; padding-right: 12px">일자</th>
@@ -63,7 +55,7 @@ layout: default
       <br />
 
       <!-- Video -->
-      <h4>Video</h4>
+      <h4 class="section-title">Video</h4>
 
       {%- assign url = page.video_url | default: "" -%} {%- assign youtube_id =
       "" -%} {%- if url contains "youtu.be/" -%} {%- assign tmp = url | split:
@@ -95,7 +87,7 @@ layout: default
       <br />
 
       <!-- Overview -->
-      <h4>Overview</h4>
+      <h4 class="section-title">Overview</h4>
       {{ content }}
     </div>
   </section>
