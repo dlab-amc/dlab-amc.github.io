@@ -24,7 +24,6 @@ member:
     - Jiwon You, Sollip Kim, Woochang Lee, Sail Chun and Hangsik Shin. "Types and Frequencies of Errors in Clinical Chemistry Tests at the University Hospital Clinical Laboratory" 2024 Korean Society of Medical Informatics (KOSMI) Conference, June 2024
     - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
     - Jiwon You, Hangsik Shin. "Large Language Models and Health Checkup Report Interpretation: Possibilities and Limitations" The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Swiss Grand Hotel, Seoul, Republic of Korea, 07-09 Nov 2024
-    - Jiwon You, Hangsik Shin. "Can Large Language Models Analyze Health Data?: For Multi-Stage Items" The 65th Korea Society of Medical and Biological Engineering Spring Conference 2025, Jeju Lotte Hotel, Jeju Island, Republic of Korea, 8-10 May 2024
     - 유지원, 신항식. 대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로. 2025 대한의용생체공학회 춘계학술대회. 2025. 05. 08-10; 제주 롯데호텔; 2025.
     <!-- 865070f8-0286-4855-9c26-f82829b67952 -->
     - 유지원, 신항식. Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
