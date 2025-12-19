@@ -92,6 +92,12 @@ a:hover {
 
 a.card {
   border-bottom-color: transparent;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+a.card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 12px 16px rgba(0, 0, 0, 0.1);
 }
 
 strong,

@@ -63,7 +63,7 @@ layout: default
         style="
           display: grid;
           grid-template-columns: repeat(3, minmax(0, 1fr));
-          gap: 20px;
+          gap: 30px;
         "
       >
         {%- for post in items -%} {%- assign url = post.video_url | default: ""
@@ -84,67 +84,67 @@ layout: default
           data-extra="{{ post.extra_info | default:'' | downcase }}"
           style="
             display: block;
+            border: 1px solid #eee;
             border-radius: 14px;
             overflow: hidden;
             background: #fff;
             text-decoration: none;
-            box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
-            transition: box-shadow 0.2s ease, transform 0.2s ease;
           "
         >
-          <div
-            style="aspect-ratio: 16/9; background: #f3f3f3; overflow: hidden"
-          >
+          <div style="aspect-ratio: 16/9; background: #f3f3f3">
             <img
               src="https://img.youtube.com/vi/{{ youtube_id }}/hqdefault.jpg"
               alt="thumbnail"
               style="
-                width: calc(100% + 10px);
-                height: calc(100% + 10px);
-                margin: -5px;
+                width: 100%;
+                height: 100%;
                 object-fit: cover;
                 display: block;
               "
             />
           </div>
 
-          <div style="padding: 14px 16px">
-            <div
-              style="
-                font-weight: 700;
-                color: #111;
-                line-height: 1.25;
-                margin-bottom: 10px;
-              "
-            >
-              {{ post.title }}
+          <div
+            style="
+              padding: 14px 16px;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+            "
+          >
+            <div style="flex: 1">
+              <div
+                style="
+                  font-weight: 700;
+                  color: #111;
+                  line-height: 1.25;
+                  margin-bottom: 10px;
+                "
+              >
+                {{ post.title }}
+              </div>
+
+              <div style="color: #666; font-size: 13px">
+                <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+              </div>
             </div>
 
             <div
+              class="arrow-icon"
               style="
+                width: 26px;
+                height: 26px;
+                border-radius: 26px;
                 display: flex;
-                justify-content: space-between;
                 align-items: center;
-                color: #666;
-                font-size: 13px;
+                justify-content: center;
+                color: #999;
+                background: #ddd;
+                flex-shrink: 0;
+                margin-left: 16px;
               "
             >
-              <span>{{ post.date | date: "%Y-%m-%d" }}</span>
-              <span
-                style="
-                  width: 26px;
-                  height: 26px;
-                  border-radius: 999px;
-                  border: 1px solid #ddd;
-                  display: inline-flex;
-                  align-items: center;
-                  justify-content: center;
-                  color: #999;
-                  background: #fff;
-                "
-              >
-                <i class="fa fa-angle-right" aria-hidden="true"></i>
-              </span>
+              <i class="fa fa-angle-right" aria-hidden="true"></i>
             </div>
           </div>
         </a>
@@ -194,12 +194,6 @@ layout: default
         emptySearch.style.display = visible === 0 ? 'block' : 'none';
     }
 
-    // 검색어 입력 후 Enter를 눌렀을 때만 필터 적용
-    input.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter') {
-        e.preventDefault();
-        apply();
-      }
-    });
+    input.addEventListener('input', apply);
   })();
 </script>
