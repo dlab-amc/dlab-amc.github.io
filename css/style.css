@@ -93,6 +93,7 @@ a:hover {
 a.card {
   border-bottom-color: transparent;
   transition: box-shadow 0.3s ease, transform 0.3s ease;
+  border: 1px solid #ddd;
 }
 
 a.card:hover {
@@ -803,20 +804,16 @@ a.mail:hover {
   color: #666;
 }
 
-.post-date {
-  /* 좌측 정렬 */
-}
-
 .post-separator {
-  position: absolute;
+  /* position: absolute;
   left: 50%;
   transform: translateX(-50%);
   color: #ccc;
+  font-weight: 300; */
+  display: inline-block;
+  padding: 0 10px;
+  color: #ccc;
   font-weight: 300;
-}
-
-.post-views {
-  /* 우측 정렬 */
 }
 
 /* Section Title with Bar - Information, Video, Overview */
@@ -867,10 +864,122 @@ a.mail:hover {
 
 .wrapper.style4 .info-table tr {
   background: transparent;
+  border-top: none;
 }
 
 .wrapper.style4 .info-table tbody {
   background: transparent;
+}
+
+/* Activity Attachments */
+.attachment-title {
+  color: #999 !important;
+  font-size: 15px !important;
+  padding-left: 0 !important;
+  font-weight: 700 !important;
+  font-family: 'NanumSquare_acL' !important;
+  margin-top: 4rem;
+}
+
+.attachment-title::before {
+  display: none !important;
+}
+
+.activity-attachments {
+  border-top: 1px solid #e1e4e8;
+  margin-top: 8px;
+}
+
+.markdown-body .activity-attachment-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px;
+  text-decoration: none;
+  color: #24292e;
+  border-bottom: 1px solid #e1e4e8;
+  transition: background-color 0.2s ease;
+  font-size: 15px;
+  font-family: inherit;
+}
+
+.markdown-body .activity-attachment-item:hover {
+  background-color: #f6f8fa;
+  text-decoration: none;
+  color: #24292e;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.markdown-body .activity-attachment-item i {
+  font-style: normal;
+  font-size: 16px;
+  color: #24292e;
+  width: 20px;
+  text-align: center;
+}
+
+.markdown-body .activity-attachment-item span {
+  color: #24292e;
+  font-weight: 700;
+}
+
+/* Overview Body - 줄바꿈 처리 */
+.wrapper.style4 .overview-body {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  line-height: 1.6;
+  font-size: 16px !important;
+}
+
+.wrapper.style4 .overview-body p {
+  margin-bottom: 1em;
+  font-size: 16px !important;
+}
+
+.wrapper.style4 .overview-body br {
+  display: block;
+  content: '';
+  margin-top: 0.5em;
+}
+
+/* Responsive: Activity Detail (activity_post) */
+@media (max-width: 767px) {
+  .style4.wrapper.container {
+    padding: 0 1.2em;
+  }
+
+  .markdown-body {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  .post-meta-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .post-meta-container .post-views {
+    text-align: left;
+  }
+
+  .activity-buttons {
+    justify-content: flex-start;
+  }
+
+  .markdown-body .activity-link-btn {
+    font-size: 13px;
+    padding: 6px 12px;
+  }
+
+  .wrapper.style4 .info-table {
+    font-size: 14px;
+  }
+
+  .wrapper.style4 .overview-body,
+  .wrapper.style4 .overview-body p {
+    font-size: 14px !important;
+  }
 }
 
 /* Header */
@@ -2960,12 +3069,10 @@ hr {
   margin: 0;
 }
 
-/* Search Input */
+/* Search Input (News & Activity original behavior) */
 .search-input,
 #searchInput {
   width: 12rem;
-  display: flex;
-  align-items: center;
   border: none;
   background-color: #eee;
   padding: 0.6rem 1.2rem;
@@ -2988,6 +3095,190 @@ hr {
 }
 
 #searchInput {
+  width: 260px;
   height: 3.5rem;
   padding: 0.6rem 1.2rem;
+  padding-left: 50px;
+  background-color: #fff;
+  border-radius: 4px;
+  display: block;
+}
+
+/* Activity List Layout (Paper / Conference / AI Seminar) */
+.activity-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0 18px;
+  gap: 12px;
+}
+
+.activity-toolbar-count {
+  font-weight: 600;
+}
+
+.activity-search-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.activity-search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-40%);
+  opacity: 0.6;
+}
+
+.activity-search-input {
+  border-radius: 4px;
+  width: 260px;
+  background: #fff;
+  padding-left: 50px;
+  border: none;
+  height: 3rem;
+}
+
+.activity-container {
+  background: #fff;
+  border-radius: 4px;
+  padding: 26px;
+  min-height: 520px;
+}
+
+.activity-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 30px;
+}
+
+.activity-card {
+  display: block;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  text-decoration: none;
+}
+
+.activity-card-thumb {
+  aspect-ratio: 16 / 9;
+  background: #f3f3f3;
+}
+
+.activity-card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.activity-card-body {
+  padding: 14px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.activity-card-text {
+  flex: 1;
+}
+
+.activity-card-title {
+  font-weight: 700;
+  color: #111;
+  line-height: 1.25;
+  margin-bottom: 10px;
+}
+
+.activity-card-meta {
+  color: #666;
+  font-size: 13px;
+}
+
+.activity-card-arrow {
+  width: 26px;
+  height: 26px;
+  border-radius: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999;
+  background: #ddd;
+  flex-shrink: 0;
+  margin-left: 16px;
+}
+
+.activity-empty {
+  text-align: center;
+  color: #888;
+  padding: 140px 0;
+}
+
+.activity-empty-all {
+  text-align: center;
+  color: #888;
+  padding: 180px 0;
+}
+
+/* Responsive: Activity List */
+@media (max-width: 1023px) {
+  .activity-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
+
+  /* 태블릿 이하에서는 activity 검색 탭 숨김 */
+  .activity-search-wrapper {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .activity-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    margin: 10px 0 14px;
+  }
+
+  .activity-toolbar-count {
+    font-size: 0.95em;
+    padding: 4px 0;
+  }
+
+  .activity-search-wrapper,
+  .activity-search-input,
+  #searchInput.activity-search-input {
+    width: 100%;
+  }
+
+  .activity-container {
+    padding: 18px 16px;
+    min-height: 0;
+  }
+
+  .activity-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .activity-card-body {
+    padding: 10px 12px;
+  }
+
+  .activity-card-title {
+    font-size: 0.98em;
+    margin-bottom: 6px;
+  }
+
+  .activity-card-meta {
+    font-size: 12px;
+  }
+
+  .activity-card-arrow {
+    width: 22px;
+    height: 22px;
+    margin-left: 10px;
+  }
 }
