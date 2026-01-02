@@ -9,4 +9,5 @@ comments: true
 
 진재욱 학생 (박사과정)이 CICS'25에서 발표한 'PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측'로 우수논문상을 수상하였습니다🎊
 
-![](/images/posts/202510/a226ce59-6dd6-4f5d-ba0c-c20c4d252f6f.png)
+
+![](/images/posts/202510/a226ce59-6dd6-4f5d-ba0c-c20c4d252f6f.png) 
