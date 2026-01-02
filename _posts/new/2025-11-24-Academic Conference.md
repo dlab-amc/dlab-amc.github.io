@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '학술대회 [Academic Conference]'
+title: "학술대회 [Academic Conference]"
 date: 2025-11-24 00:00:00
 featured-img: '/images/posts/202511/thumbnail_image-1764642707100-113481640.png'
-short-content: '2025 대한의료정보학회 추계학술대회 참석'
+short-content: "2025 대한의료정보학회 추계학술대회 참석"
 comments: true
 ---
 

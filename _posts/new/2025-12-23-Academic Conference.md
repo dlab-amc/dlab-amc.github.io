@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '학술대회 [Academic Conference]'
+title: "학술대회 [Academic Conference]"
 date: 2025-12-23 00:00:00
 featured-img: '/images/posts/202512/thumbnail_image-1766554801501-794911923.png'
-short-content: 'ICABB 2025 참석'
+short-content: "ICABB 2025 참석"
 comments: true
 ---
 
