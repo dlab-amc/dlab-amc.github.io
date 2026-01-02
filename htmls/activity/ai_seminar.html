@@ -9,63 +9,31 @@ layout: default
 
   <section class="wrapper style1 container">
     {%- assign base = site.baseurl -%} {%- assign items = site.posts | where:
-    "layout", "activity_post" | where: "type", "ai_seminar" -%}
+    "layout", "activity_post" | where: "type", "ai_seminar" | sort: "date" |
+    reverse -%}
 
     <!-- 상단: 총 건수 + 검색 -->
-    <div
-      style="
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 10px 0 18px;
-      "
-    >
-      <div style="font-weight: 600">총 {{ items | size }}건</div>
+    <div class="activity-toolbar">
+      <div class="activity-toolbar-count">총 {{ items | size }}건</div>
 
-      <div style="position: relative">
-        <span
-          style="
-            position: absolute;
-            left: 14px;
-            top: 50%;
-            transform: translateY(-40%);
-            opacity: 0.6;
-          "
+      <div class="activity-search-wrapper">
+        <span class="activity-search-icon"
           ><i class="fa-solid fa-magnifying-glass"></i
         ></span>
         <input
           id="searchInput"
           type="text"
           placeholder="검색어를 입력하세요."
-          style="
-            border-radius: 4px;
-            width: 260px;
-            background: #fff;
-            padding-left: 50px;
-          "
+          class="activity-search-input"
         />
       </div>
     </div>
 
     <!-- ✅ 흰색 박스(컨테이너) -->
-    <div
-      style="
-        background: #fff;
-        border-radius: 4px;
-        padding: 26px;
-        min-height: 520px;
-      "
-    >
+    <div class="activity-container">
       {%- if items and items.size > 0 -%}
       <!-- 카드 그리드 -->
-      <div
-        id="grid"
-        style="
-          display: grid;
-          grid-template-columns: repeat(3, minmax(0, 1fr));
-          gap: 30px;
-        "
-      >
+      <div id="grid" class="activity-grid">
         {%- for post in items -%} {%- assign url = post.video_url | default: ""
         -%} {%- assign youtube_id = "" -%} {%- if url contains "youtu.be/" -%}
         {%- assign tmp = url | split: "youtu.be/" -%} {%- assign youtube_id =
@@ -77,73 +45,29 @@ layout: default
         first | split: "&" | first -%} {%- endif -%}
 
         <a
-          class="card"
+          class="card activity-card"
           href="{{ base }}{{ post.url }}"
           data-title="{{ post.title | downcase }}"
           data-author="{{ post.author | downcase }}"
           data-extra="{{ post.extra_info | default:'' | downcase }}"
-          style="
-            display: block;
-            border: 1px solid #eee;
-            border-radius: 14px;
-            overflow: hidden;
-            background: #fff;
-            text-decoration: none;
-          "
         >
-          <div style="aspect-ratio: 16/9; background: #f3f3f3">
+          <div class="activity-card-thumb">
             <img
               src="https://img.youtube.com/vi/{{ youtube_id }}/hqdefault.jpg"
               alt="thumbnail"
-              style="
-                width: 100%;
-                height: 100%;
-                object-fit: cover;
-                display: block;
-              "
             />
           </div>
 
-          <div
-            style="
-              padding: 14px 16px;
-              display: flex;
-              justify-content: space-between;
-              align-items: center;
-            "
-          >
-            <div style="flex: 1">
-              <div
-                style="
-                  font-weight: 700;
-                  color: #111;
-                  line-height: 1.25;
-                  margin-bottom: 10px;
-                "
-              >
-                {{ post.title }}
-              </div>
+          <div class="activity-card-body">
+            <div class="activity-card-text">
+              <div class="activity-card-title">{{ post.title }}</div>
 
-              <div style="color: #666; font-size: 13px">
+              <div class="activity-card-meta">
                 <span>{{ post.date | date: "%Y-%m-%d" }}</span>
               </div>
             </div>
 
-            <div
-              class="arrow-icon"
-              style="
-                width: 26px;
-                height: 26px;
-                border-radius: 26px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                color: #999;
-                background: #ddd;
-                flex-shrink: 0;
-                margin-left: 16px;
-              "
-            >
+            <div class="activity-card-arrow">
               <i class="fa fa-angle-right" aria-hidden="true"></i>
             </div>
           </div>
@@ -152,15 +76,12 @@ layout: default
       </div>
 
       <!-- 검색 결과가 0개일 때 표시 -->
-      <div
-        id="emptySearch"
-        style="display: none; text-align: center; color: #888; padding: 140px 0"
-      >
+      <div id="emptySearch" class="activity-empty" style="display: none">
         게시글이 존재하지 않습니다.
       </div>
 
       {%- else -%}
-      <div style="text-align: center; color: #888; padding: 180px 0">
+      <div class="activity-empty-all">
         게시글이 존재하지 않습니다.
       </div>
       {%- endif -%}
@@ -194,6 +115,12 @@ layout: default
         emptySearch.style.display = visible === 0 ? 'block' : 'none';
     }
 
-    input.addEventListener('input', apply);
+    // 검색어 입력 후 Enter를 눌렀을 때만 필터 적용
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        apply();
+      }
+    });
   })();
 </script>

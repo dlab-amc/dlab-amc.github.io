@@ -12,15 +12,17 @@ layout: default
       <h3 class="post-title">{{ page.title }}</h3>
 
       <div class="post-meta-container">
-        <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
-        <span class="post-separator">|</span>
-        <script
-          async
-          src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
-        ></script>
-        <span class="post-views"
-          >Views: <span id="busuanzi_value_page_pv"></span
-        ></span>
+        <div>
+          <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+          <span class="post-separator">|</span>
+          <script
+            async
+            src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+          ></script>
+          <span class="post-views"
+            >Views: <span id="busuanzi_value_page_pv"></span
+          ></span>
+        </div>
       </div>
 
       <hr />
@@ -34,7 +36,9 @@ layout: default
             <td>{{ page.date | date: "%Y년 %m월 %d일" }}</td>
           </tr>
           <tr>
-            <th style="text-align: left; padding-right: 12px">저자</th>
+            <th style="text-align: left; padding-right: 12px">
+              {% if page.type == "ai_seminar" %}발표자{% else %}저자{% endif %}
+            </th>
             <td>{{ page.author }}</td>
           </tr>
 
@@ -72,7 +76,6 @@ layout: default
           padding-bottom: 56.25%;
           height: 0;
           overflow: hidden;
-          border-radius: 8px;
         "
       >
         <iframe
@@ -88,13 +91,45 @@ layout: default
 
       <!-- Overview -->
       <h4 class="section-title">Overview</h4>
-      {{ content }}
+      <div class="overview-body">{{ content }}</div>
+
+      <!-- QnA
+      {% if page.type == "ai_seminar" and page.qna %}
+      <br />
+      <h4 class="section-title">QnA</h4>
+      <div class="overview-body">{{ page.qna | newline_to_br }}</div>
+      {% endif %}
+       -->
+
+      <!-- File Links -->
+      {% if page.file_url or (page.type == "ai_seminar" and page.ref_url) %}
+      <h4 class="section-title attachment-title">첨부 파일</h4>
+      <div class="activity-attachments">
+        {% if page.file_url %}
+        <a
+          href="{{ page.file_url }}"
+          target="_blank"
+          class="activity-attachment-item"
+        >
+          <i class="fa fa-file-o" aria-hidden="true"></i>
+          <span
+            >{% if page.type == "paper" %}Paper{% elsif page.type ==
+            "conference" %}Presentation{% elsif page.type == "ai_seminar"
+            %}Presentation{% endif %}</span
+          >
+        </a>
+        {% endif %} {% if page.type == "ai_seminar" and page.ref_url %}
+        <a
+          href="{{ page.ref_url }}"
+          target="_blank"
+          class="activity-attachment-item"
+        >
+          <i class="fa fa-link" aria-hidden="true"></i>
+          <span>Reference</span>
+        </a>
+        {% endif %}
+      </div>
+      {% endif %}
     </div>
   </section>
-
-  {%- if page.comments -%}
-  <div id="post-disqus" class="container">
-    {%- include disqus_comments.html -%}
-  </div>
-  {%- endif -%}
 </article>
