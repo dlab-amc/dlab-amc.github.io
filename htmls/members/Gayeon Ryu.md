@@ -4,7 +4,7 @@ title: Gayeon Ryu
 member:
   name_eng: 'Gayeon Ryu'
   degree: 'B.Sc.'
-  profile_image: '/data/members/images/members/profile_image-1766102548963-463778997.png'
+  profile_image: '/data/members/images/members/profile_image-1767665532558-733347958.png'
   hover_image: '/images/members/egg_류가연.JPG'
   role: 'Master Course'
   profile_description: |
