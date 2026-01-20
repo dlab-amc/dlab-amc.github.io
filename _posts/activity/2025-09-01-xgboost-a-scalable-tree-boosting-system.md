@@ -5,7 +5,6 @@ title: 'XGBoost:A Scalable Tree Boosting System'
 date: 2025-09-01 00:00:00
 author: '한유진'
 video_url: 'https://youtu.be/GYlV-LGRMAM'
-file_url: 'https://drive.google.com/file/d/1OWPF-z5F-8nYdioSCUdcgdLpSnP9AqvQ/view?usp=drive_link'
 ref_url: 'https://arxiv.org/pdf/1603.02754'
 views: 0
 comments: true

@@ -5,7 +5,6 @@ title: 'Learning Important Features Through Propagating Activation Differences'
 date: 2025-10-27 00:00:00
 author: '최예은'
 video_url: 'https://youtu.be/bKdCc5tNzss'
-file_url: 'https://docs.google.com/presentation/d/1zOxnwQwYItQhPucSPRy_123pudsEmqQE/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/1704.02685'
 views: 0
 comments: true

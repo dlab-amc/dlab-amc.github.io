@@ -5,7 +5,6 @@ title: 'Specialized ECG data augmentation method'
 date: 2025-08-18 00:00:00
 author: '진재욱'
 video_url: 'https://youtu.be/HqiUvjeRW_0'
-file_url: 'https://docs.google.com/presentation/d/1zybYgVYSoTz0JLLUxM2uLOYTxjFycSsz/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://link.springer.com/article/10.1007/s13534-024-00455-3'
 views: 0
 comments: true

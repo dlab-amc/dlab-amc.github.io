@@ -5,7 +5,6 @@ title: 'Multi-Scale and Multi-Modal Contrastive Learning Network for Biomedical 
 date: 2025-11-17 00:00:00
 author: '진재욱'
 video_url: 'https://youtu.be/6qTCakqUuwE'
-file_url: 'https://docs.google.com/presentation/d/1LqjdtHbSi0t_GctckTNLeukTfZabK-Td/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2312.03796'
 views: 0
 comments: true

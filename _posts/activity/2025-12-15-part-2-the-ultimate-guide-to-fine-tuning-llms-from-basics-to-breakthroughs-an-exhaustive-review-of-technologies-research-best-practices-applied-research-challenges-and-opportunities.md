@@ -5,7 +5,6 @@ title: '(Part 2) The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthro
 date: 2025-12-15 00:00:00
 author: '정성연'
 video_url: 'https://youtu.be/ONA6Hd_kCRw'
-file_url: 'https://docs.google.com/presentation/d/1_9f0oy1TN2mSkhb1D4VVmTBCurkPwTp5/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2408.13296'
 views: 0
 comments: true

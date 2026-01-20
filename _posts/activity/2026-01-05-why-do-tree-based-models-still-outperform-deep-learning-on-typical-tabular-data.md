@@ -5,7 +5,6 @@ title: 'Why do tree-based models still outperform deep learning on typical tabul
 date: 2026-01-05 00:00:00
 author: '한유진'
 video_url: 'https://youtu.be/QXW5bsOB5KM'
-file_url: 'https://docs.google.com/presentation/d/1TiOgyDcr19EfdiAHwasG89PCHwbdjQHW/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf'
 views: 0
 comments: true

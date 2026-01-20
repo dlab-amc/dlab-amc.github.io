@@ -5,7 +5,6 @@ title: 'Transformer-based time-series GAN for data augmentation in bridge digita
 date: 2025-09-29 00:00:00
 author: '진재욱'
 video_url: 'https://youtu.be/vITAVnNz-sE'
-file_url: 'https://docs.google.com/presentation/d/1rxCPpED2pmii3DFRlsQRb3WdpYk-g3hp/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://www.sciencedirect.com/science/article/pii/S0926580525002481'
 views: 0
 comments: true

@@ -5,7 +5,6 @@ title: 'A comparative analysis of gradient boosting algorithms'
 date: 2025-10-13 00:00:00
 author: '한유진'
 video_url: 'https://youtu.be/8nx1BeEAKtA'
-file_url: 'https://drive.google.com/file/d/10TIAo74uCOBrWI56W3vM23npKgNP1Djf/view?usp=drive_link'
 ref_url: 'https://link.springer.com/article/10.1007/s10462-020-09896-5'
 views: 0
 comments: true

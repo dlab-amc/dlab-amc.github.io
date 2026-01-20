@@ -5,7 +5,6 @@ title: 'Empowering biomedical discovery with AI agents'
 date: 2026-01-19 00:00:00
 author: '최예은'
 video_url: 'https://youtu.be/tG6L2oeLzRY'
-file_url: 'https://docs.google.com/presentation/d/1REmT6damCuHo_akDKWzUtjnQImjGCctv/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://www.cell.com/action/showPdf?pii=S0092-8674%2824%2901070-5'
 views: 0
 comments: true

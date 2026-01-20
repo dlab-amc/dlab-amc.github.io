@@ -5,7 +5,6 @@ title: ' TabNet:Attentive Interpretable Tabular Learning'
 date: 2025-11-24 00:00:00
 author: '한유진'
 video_url: 'https://youtu.be/NuNubxUjE9Q'
-file_url: 'https://docs.google.com/presentation/d/10RrZgCQ8SIkakFnW7ISuuGvF_M3b88qz/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/1908.07442'
 views: 0
 comments: true

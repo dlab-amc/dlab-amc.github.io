@@ -5,7 +5,6 @@ title: 'Toward expert-level medical question answering with large language model
 date: 2025-10-27 00:00:00
 author: '김영돈'
 video_url: 'https://youtu.be/3I1nPRPjj0Q'
-file_url: 'https://docs.google.com/presentation/d/1vNepCYPGmfRmtyE8RPi2hf4sY5JIMdpG/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2305.09617'
 views: 0
 comments: true

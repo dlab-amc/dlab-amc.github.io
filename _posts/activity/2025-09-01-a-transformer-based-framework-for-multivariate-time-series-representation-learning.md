@@ -5,7 +5,6 @@ title: 'A Transformer-based Framework for Multivariate Time Series Representatio
 date: 2025-09-01 00:00:00
 author: '최예은'
 video_url: 'https://youtu.be/26rh_oVi-kQ'
-file_url: 'https://docs.google.com/presentation/d/12yE3Xolpp9o78yu5bDVr4mh0E9hJGqBL/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2010.02803'
 views: 0
 comments: true

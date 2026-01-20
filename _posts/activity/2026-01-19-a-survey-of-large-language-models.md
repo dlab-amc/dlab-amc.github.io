@@ -5,7 +5,6 @@ title: 'A survey of Large Language Models'
 date: 2026-01-19 00:00:00
 author: '류가연'
 video_url: 'https://youtu.be/pfvFcD1vK4U'
-file_url: 'https://drive.google.com/file/d/1ziKaH4Rn5R6SzVVEHC33xXItbrb1Mx86/view?usp=drive_link'
 ref_url: 'https://arxiv.org/abs/2303.18223'
 views: 0
 comments: true

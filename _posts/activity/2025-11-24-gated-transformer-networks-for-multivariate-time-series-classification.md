@@ -5,7 +5,6 @@ title: 'Gated Transformer Networks for Multivariate Time Series Classification'
 date: 2025-11-24 00:00:00
 author: '최예은'
 video_url: 'https://youtu.be/wpXMWc36hF4'
-file_url: 'https://docs.google.com/presentation/d/1Wt2hDvXUEr-GzFcy_lmj-ps9hDW-_j-7/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2103.14438'
 views: 0
 comments: true

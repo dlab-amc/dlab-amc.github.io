@@ -5,7 +5,6 @@ title: 'A Multimodal Biomedical Foundation Model Trained from Fifteen Million Im
 date: 2026-01-12 00:00:00
 author: '진재욱'
 video_url: 'https://youtu.be/HIHp0NmCBpE'
-file_url: 'https://docs.google.com/presentation/d/1_DQnF5DPuhKBUjxy-1XGRKBA30DOSUsC/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://ai.nejm.org/doi/pdf/10.1056/AIoa2400640'
 views: 0
 comments: true

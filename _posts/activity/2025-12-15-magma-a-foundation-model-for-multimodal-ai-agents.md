@@ -5,7 +5,6 @@ title: 'Magma: A Foundation Model for Multimodal AI Agents'
 date: 2025-12-15 00:00:00
 author: '진재욱'
 video_url: 'https://youtu.be/4bL4YucZ4kU'
-file_url: 'https://docs.google.com/presentation/d/1q_ZbeXSsx5Gke5GXBNzTzODobCllz_U5/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://arxiv.org/pdf/2502.13130'
 views: 0
 comments: true

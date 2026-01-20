@@ -5,7 +5,6 @@ title: 'A multimodal sleep foundation model for disease prediction'
 date: 2026-01-12 00:00:00
 author: '이건'
 video_url: 'https://youtu.be/YQs5V8KYJAk'
-file_url: 'https://docs.google.com/presentation/d/1J3A9RA5iM5kUBhIRE03CDho37ljYaRwP/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://www.nature.com/articles/s41591-025-04133-4'
 views: 0
 comments: true

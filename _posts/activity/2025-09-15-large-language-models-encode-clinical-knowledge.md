@@ -5,7 +5,6 @@ title: 'Large Language Models Encode Clinical Knowledge'
 date: 2025-09-15 00:00:00
 author: '김영돈'
 video_url: 'https://youtu.be/ecspPQi1OK8'
-file_url: 'https://docs.google.com/presentation/d/1cEi1dooZJQpBmvv32S78g4XZzS8Z3qLs/edit?usp=drive_link&ouid=100241011738859459601&rtpof=true&sd=true'
 ref_url: 'https://www.nature.com/articles/s41586-023-06291-2'
 views: 0
 comments: true

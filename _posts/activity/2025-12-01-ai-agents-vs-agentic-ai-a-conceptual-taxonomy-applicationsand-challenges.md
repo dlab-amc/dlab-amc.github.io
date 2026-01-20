@@ -5,7 +5,6 @@ title: 'AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applicationsand Challen
 date: 2025-12-01 00:00:00
 author: '김영돈'
 video_url: 'https://youtu.be/v22eeursPs0'
-file_url: 'https://drive.google.com/file/d/1xbH8aKkeTicd2su-uQRJj4NeKkKOXF6T/view?usp=drive_link'
 ref_url: 'https://arxiv.org/pdf/2505.10468'
 views: 0
 comments: true
