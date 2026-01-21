@@ -10,7 +10,7 @@ views: 0
 comments: true
 ---
 
-이 발표는 “Ultimate guide to fine-tuning LLMs”의 2부로, 전이학습(transfer learning) 개념을 정리한 뒤 파인튜닝 실행 단계와 핵심 파인튜닝 기법(PFT/부분학습, HFT/백본학습, MoE, 정렬(Alignment), 프루닝)을 체계적으로 정리합니다.
+이 발표는 “The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities”의 2부로, 전이학습(transfer learning) 개념을 정리한 뒤 파인튜닝 실행 단계와 핵심 파인튜닝 기법(PFT/부분학습, HFT/백본학습, MoE, 정렬(Alignment), 프루닝)을 체계적으로 정리합니다.
 
 전이학습(Transfer Learning) 재정리
 - 핵심 개념: 제너럴리스트(사전학습) → 스페셜리스트(어댑테이션).

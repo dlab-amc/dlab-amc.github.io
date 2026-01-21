@@ -10,7 +10,7 @@ views: 0
 comments: true
 ---
 
-이 발표는 “Ultimate guide to fine-tuning LLMs”의 3부로, LLM 파인튜닝 이후 단계(평가·검증→배포→모니터링)를 체계적으로 정리하고, 멀티모달 LLM(VLM/오디오 LLM) 개요와 향후 연구 과제(효율·데이터·윤리/보안)를 키워드 중심으로 제시합니다.
+이 발표는 “The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities”의 3부로, LLM 파인튜닝 이후 단계(평가·검증→배포→모니터링)를 체계적으로 정리하고, 멀티모달 LLM(VLM/오디오 LLM) 개요와 향후 연구 과제(효율·데이터·윤리/보안)를 키워드 중심으로 제시합니다.
 
 모델 평가·검증(파인튜닝 직후)
 - 평가지표 설정: 크로스엔트로피 등으로 예측 분포 vs 실제 분포 차이를 정량화.

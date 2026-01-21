@@ -10,7 +10,7 @@ views: 0
 comments: true
 ---
 
-이 발표는 “Ultimate guide to fine-tuning LLMs”의 1부로, LLM 파인튜닝 리포트를 바탕으로, LLM 발전 흐름(통계→신경망→Transformer→정렬)과 파인튜닝 파이프라인 7단계 중 앞 3단계(데이터 준비→모델 선택/초기화→훈련 셋업)를 실무 관점에서 핵심 키워드로 정리합니다.
+이 발표는 “The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities”의 1부로, LLM 파인튜닝 리포트를 바탕으로, LLM 발전 흐름(통계→신경망→Transformer→정렬)과 파인튜닝 파이프라인 7단계 중 앞 3단계(데이터 준비→모델 선택/초기화→훈련 셋업)를 실무 관점에서 핵심 키워드로 정리합니다.
 
 LLM 배경(발전 흐름)
 - n-gram 기반 전통 LM 한계(희귀어/복잡패턴/과적합) → Transformer+Self-Attention으로 장거리 의존성 학습
