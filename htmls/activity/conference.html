@@ -4,7 +4,7 @@ layout: default
 
 <article id="main">
   <header class="special container">
-    <h2>CONFERENCE</h2>
+    <h2>Conference Talks</h2>
   </header>
 
   <section class="wrapper style1 container">
@@ -81,9 +81,7 @@ layout: default
       </div>
 
       {%- else -%}
-      <div class="activity-empty-all">
-        게시글이 존재하지 않습니다.
-      </div>
+      <div class="activity-empty-all">게시글이 존재하지 않습니다.</div>
       {%- endif -%}
     </div>
   </section>
@@ -97,6 +95,8 @@ layout: default
 
     const cards = Array.from(grid.querySelectorAll('.card'));
     const emptySearch = document.getElementById('emptySearch');
+    const countElement = document.querySelector('.activity-toolbar-count');
+    const totalCount = cards.length;
 
     function apply() {
       const q = (input.value || '').trim().toLowerCase();
@@ -113,6 +113,15 @@ layout: default
 
       if (emptySearch)
         emptySearch.style.display = visible === 0 ? 'block' : 'none';
+
+      // 검색 결과에 맞게 건수 업데이트
+      if (countElement) {
+        if (q) {
+          countElement.textContent = `총 ${visible}건`;
+        } else {
+          countElement.textContent = `총 ${totalCount}건`;
+        }
+      }
     }
 
     // 검색어 입력 후 Enter를 눌렀을 때만 필터 적용
