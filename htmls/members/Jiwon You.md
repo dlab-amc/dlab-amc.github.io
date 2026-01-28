@@ -15,6 +15,8 @@ member:
     
     - Jiwon You, Hyeon Seok Seok, Sollip Kim and Hangsik Shin. "Advancing Laboratory Medicine Practice with Machine Learning: Swift yet Exact" Annals of Laboratory Medicine, 45(1), 22-35, 2025.
     
+    <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
+    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
     ## Conference
     
     - Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.

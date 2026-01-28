@@ -188,10 +188,18 @@ member:
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
     - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.
     
+    <!-- 988763c0-0777-4788-bb2f-a54b835a668d -->
+    - 임하민, 신항식. 건물 내 사용자의 실시간 위치 추정 장치 및 방법. KR 10-2025-0216531, 2025. 12. 31.
+    <!-- c6afaed1-66e1-4f24-96b3-3a3a323defbb -->
+    - 신항식, 주성우, 이중선, 한유진. 뇌 질환 진단 장치 및 방법. KR 10-2025-0157997, 2025. 10. 28.
+    <!-- f691c0c4-7803-4650-8cd1-1c53f0ea5cb3 -->
+    - 이재형, 신항식, 임하민, 왕창원. 인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램. KR 10-2025-0154643, 2025. 10. 23.
     ## Journal
     <!-- 0e4ccaf9-1e53-463e-85b2-8f90b79a5660 -->
     - Shin H. From radial to aortic pressure: In silico data-driven estimation using an autoencoder. Biomedical Signal Processing and Control. 2026 Feb; IF:4.9@2024JIF; RS-2023-00215716, RS-2022-00141473, 2024IP0021.
     
+    <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
+    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
     ## Conference
     <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
     - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
