@@ -2,7 +2,7 @@
 layout: activity_post
 type: conference
 title: 'Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발'
-date: 2025-05-06 00:00:00
+date: 2025-11-06 00:00:00
 author: '최예은, 신항식'
 extra_info: '제66회 대한의용생체공학회 추계학술대회'
 video_url: 'https://youtu.be/pA0pbMG9YDs'
