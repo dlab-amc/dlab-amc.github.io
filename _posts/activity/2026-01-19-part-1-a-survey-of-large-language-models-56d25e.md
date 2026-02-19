@@ -1,7 +1,7 @@
 ---
 layout: activity_post
 type: ai_seminar
-title: 'A survey of Large Language Models'
+title: '(Part 1) A survey of Large Language Models'
 date: 2026-01-19 00:00:00
 author: '류가연'
 video_url: 'https://youtu.be/pfvFcD1vK4U'
