@@ -1,4 +1,4 @@
-name: Deploy Research Data
+name: Deploy Research ZIP
 
 on:
   push:
@@ -6,32 +6,30 @@ on:
       - 'data/research/research.zip'
 
 jobs:
-  deploy:
+  unzip-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-
-      - name: Extract Research ZIP
+      - name: 📦 Unzip research.zip
         run: |
           mkdir -p _data assets/img/research
           unzip -o data/research/research.zip -d .
-          ls -la _data/
-          ls -la assets/img/research/
 
-      - name: Build Jekyll
+      - name: 🧼 Clean up ZIP file (optional)
+        run: rm -f data/research/research.zip
+
+      - name: ✅ Commit extracted research data
         run: |
-          bundle install
-          bundle exec jekyll build
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add _data/research.json assets/img/research || true
+          if git diff --cached --quiet; then
+            echo "No research data changes to commit."
+            exit 0
+          fi
+          git commit -m "🔄 Unzipped research data"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/dlab-amc/dlab-amc.github.io.git HEAD:main
 
