@@ -1,0 +1,37 @@
+name: Deploy Research Data
+
+on:
+  push:
+    paths:
+      - 'data/research/research.zip'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Extract Research ZIP
+        run: |
+          mkdir -p _data assets/img/research
+          unzip -o data/research/research.zip -d .
+          ls -la _data/
+          ls -la assets/img/research/
+
+      - name: Build Jekyll
+        run: |
+          bundle install
+          bundle exec jekyll build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+

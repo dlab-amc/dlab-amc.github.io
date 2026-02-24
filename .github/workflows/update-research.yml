@@ -1,0 +1,53 @@
+name: Update Research Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *' # 매일 03:00 KST (18:00 UTC)
+
+jobs:
+  update-research:
+    runs-on: ubuntu-latest
+
+    env:
+      ADMIN_BASE_URL: ${{ secrets.DLAB_ADMIN_BASE_URL }}
+      ADMIN_API_TOKEN: ${{ secrets.DLAB_ADMIN_API_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download research.zip from admin
+        run: |
+          mkdir -p tmp
+          curl -L \
+            -H "Authorization: Bearer $ADMIN_API_TOKEN" \
+            "$ADMIN_BASE_URL/research-categories/download-research-zip" \
+            -o tmp/research.zip
+
+      - name: Unzip research data
+        run: |
+          mkdir -p _data
+          mkdir -p assets/img/research
+          unzip -o tmp/research.zip -d .
+
+      - name: Show extracted files (debug)
+        run: |
+          ls -R _data
+          ls -R assets/img/research || true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add _data/research.json assets/img/research || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update research data from admin"
+          git push
+
