@@ -69,15 +69,25 @@ textarea {
 }
 
 a {
-  -moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -moz-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -webkit-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -o-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -ms-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
   color: #f57c13;
   text-decoration: none;
@@ -92,7 +102,9 @@ a:hover {
 
 a.card {
   border-bottom-color: transparent;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  transition:
+    box-shadow 0.3s ease,
+    transform 0.3s ease;
   border: 1px solid #ddd;
 }
 
@@ -303,15 +315,21 @@ input[type='text'],
 input[type='password'],
 input[type='email'],
 textarea {
-  -moz-transition: background-color 0.2s ease-in-out,
+  -moz-transition:
+    background-color 0.2s ease-in-out,
     border-color 0.2s ease-in-out;
-  -webkit-transition: background-color 0.2s ease-in-out,
+  -webkit-transition:
+    background-color 0.2s ease-in-out,
     border-color 0.2s ease-in-out;
-  -o-transition: background-color 0.2s ease-in-out,
+  -o-transition:
+    background-color 0.2s ease-in-out,
     border-color 0.2s ease-in-out;
-  -ms-transition: background-color 0.2s ease-in-out,
+  -ms-transition:
+    background-color 0.2s ease-in-out,
     border-color 0.2s ease-in-out;
-  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  transition:
+    background-color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out;
   -moz-appearance: none;
   -webkit-appearance: none;
   -o-appearance: none;
@@ -624,15 +642,25 @@ input[type='reset'],
   -o-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  -moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -moz-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -webkit-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -o-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  -ms-transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+  transition:
+    color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out,
     background-color 0.2s ease-in-out;
   background: none;
   border: solid 1px;
@@ -728,7 +756,9 @@ a.mail:hover {
   padding: 0 0 0 0;
   background-color: #ffffff00;
   /*background-image: url("images/light-bl.svg"), url("images/light-br.svg");*/
-  background-position: bottom left, bottom right;
+  background-position:
+    bottom left,
+    bottom right;
   background-repeat: no-repeat, no-repeat;
   background-size: 25em, 25em;
   margin-bottom: 0;
@@ -782,6 +812,17 @@ a.mail:hover {
   padding-right: 30px;
   color: #3b5e69;
   font-size: 0.8em;
+}
+
+/* Research Topics (홈): 해시태그 줄 - 작은 글자, 자동 줄바꿈 */
+.research-topics-hashtags {
+  font-size: 0.8em;
+  line-height: 1.4;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  margin-top: 0.25em;
+  color: #999;
 }
 
 .wrapper.style4 .main-row {
@@ -1343,9 +1384,14 @@ a.mail:hover {
 #banner {
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
-  background-image: url('images/light-bl.svg'), url('images/light-br.svg'),
+  background-image:
+    url('images/light-bl.svg'), url('images/light-br.svg'),
     url('images/overlay.png'), url('../images/banner15.webp');
-  background-position: bottom left, bottom right, top left, top center;
+  background-position:
+    bottom left,
+    bottom right,
+    top left,
+    top center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
   color: white;
@@ -1463,9 +1509,14 @@ body.index #main {
 #cta {
   background-attachment: scroll, scroll, scroll, fixed;
   background-color: #645862;
-  background-image: url('images/light-tl.svg'), url('images/light-tr.svg'),
+  background-image:
+    url('images/light-tl.svg'), url('images/light-tr.svg'),
     url('images/overlay.png'), url('../images/banner15.jpeg');
-  background-position: top left, top right, top left, bottom center;
+  background-position:
+    top left,
+    top right,
+    top left,
+    bottom center;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: 25em, 25em, auto, cover;
   color: white;
@@ -1831,6 +1882,15 @@ a.paperclick:hover {
   margin-left: 1rem;
 }
 
+/* research-topics-grid 행만 80px 패딩 적용 */
+.row.research-topics-grid + .row.research-topics-grid > * {
+  padding: 80px 0 0 80px !important;
+}
+
+.row.research-topics-grid > * {
+  padding-left: 80px !important;
+}
+
 .content-container .row ul.research-tabs {
   display: flex;
   gap: 3rem;
@@ -2034,7 +2094,11 @@ a.paperclick:hover {
   padding: 20px;
   /* 글자 부분에 패딩 추가 */
   color: #ffffff;
-  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  text-shadow:
+    -1px 0 #000,
+    0 1px #000,
+    1px 0 #000,
+    0 -1px #000;
   height: 500px;
 
   display: flex;
@@ -2090,7 +2154,9 @@ a.paperclick:hover {
   height: 120px;
   width: 180px;
   min-width: 180px;
-  transition: background-color 0.3s, color 0.3s;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
   font-size: 0.9em;
   box-shadow: 0px 0px 10px 5px #92929222;
 }
@@ -2365,6 +2431,20 @@ a.paperclick:hover {
   /* 높이를 자동으로 조정하여 이미지의 비율을 유지 */
 }
 
+/* 이미지 위 반투명 검정 오버레이 (흰색 글자 가독용) */
+.image-with-text::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 560px;
+  background: #000;
+  opacity: 0.6;
+  pointer-events: none;
+  z-index: 1;
+}
+
 .image-with-text h3 {
   font-size: 2.8em;
   margin-bottom: 0;
@@ -2386,6 +2466,7 @@ a.paperclick:hover {
   padding: 100px;
   text-align: left; /* Aligns all text to the left */
   color: #ffffff;
+  z-index: 2;
 }
 
 .text-over-image h3 {
@@ -2404,13 +2485,17 @@ a.paperclick:hover {
 .hidden-header {
   opacity: 0;
   transform: translateY(-20px);
-  transition: opacity 0.8s ease, transform 0.8s ease;
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s ease;
 }
 
 .visible-header {
   opacity: 1;
   transform: translateY(0);
-  transition: opacity 0.8s ease, transform 0.8s ease;
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s ease;
 }
 
 /* 프로필 이미지 호버 */
@@ -2713,7 +2798,9 @@ a.paperclick:hover {
   margin-left: -10px;
   opacity: 0;
   vertical-align: middle;
-  transition: margin 0.3s, opacity 0.3s;
+  transition:
+    margin 0.3s,
+    opacity 0.3s;
 }
 
 .blog-card .read-more a:hover::after {
@@ -2884,7 +2971,9 @@ a.paperclick:hover {
   margin-left: -10px;
   opacity: 0;
   vertical-align: middle;
-  transition: margin 0.3s, opacity 0.3s;
+  transition:
+    margin 0.3s,
+    opacity 0.3s;
 }
 
 .main-card .read-more a:hover::after {
