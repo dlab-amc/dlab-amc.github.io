@@ -1,0 +1,188 @@
+{% if site.data.research %}
+  {% assign all_level1 = site.data.research | where: "level", "level1" | sort: "order" %}
+  {% assign current_level1 = all_level1 | where: "title", page.level1_title | first %}
+
+  {% if current_level1 == nil %}
+    <p>Research data for this page is not available. Please check level1_title.</p>
+  {% else %}
+  <article id="main">
+    <header class="special container" id="re_header">
+      <h2><strong>Research</strong></h2>
+    </header>
+
+    <section class="wrapper style1 container special nav-container">
+      <div class="row" id="research-row">
+        {% for l1 in all_level1 %}
+          <section class="{% if forloop.first %}nav-item{% endif %}">
+            <ul>
+              <li>
+                <a
+                  href="{{ site.baseurl }}/htmls/research/{{ l1.title | slugify }}.html"
+                  class="nav-link_re {% if l1.title == current_level1.title %}active{% endif %}"
+                >
+                  {% if l1.icon_image %}
+                    <img src="{{ site.baseurl }}/assets/img/research/{{ l1.icon_image }}" alt="{{ l1.title }}">
+                  {% endif %}
+                  <span id="span-one-line">{{ l1.title }}</span>
+                </a>
+              </li>
+            </ul>
+          </section>
+        {% endfor %}
+      </div>
+    </section>
+
+    <!-- Main banner -->
+    <section class="wrapper style1 container" style="margin-bottom: 2em;">
+      <div class="content">
+        <section class="image-with-text" id="animated-section">
+          {% if current_level1.main_banner_image %}
+            <img
+              src="{{ site.baseurl }}/assets/img/research/{{ current_level1.main_banner_image }}"
+              alt="{{ current_level1.title }}"
+              height="100%"
+            />
+          {% endif %}
+          <div class="text-over-image hidden-header">
+            <header>
+              <h3>{{ current_level1.title }}</h3>
+              {% if current_level1.main_banner_description %}
+                <p>{{ current_level1.main_banner_description }}</p>
+              {% endif %}
+            </header>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- Level 2 rows: 홀수=이미지 왼쪽/내용 오른쪽, 짝수=내용 왼쪽/이미지 오른쪽 (CSS row-reverse) -->
+    <section class="wrapper style2 container special">
+      {% for child in current_level1.children %}
+        {% assign index = forloop.index %}
+        {% assign is_odd = index | modulo: 2 %}
+        <div class="cutstom-row cutstom-row--{% if is_odd == 1 %}odd{% else %}even{% endif %}">
+          {% if child.description_image %}
+            <div class="image-container">
+              <a class="image featured">
+                <img
+                  src="{{ site.baseurl }}/assets/img/research/{{ child.description_image }}"
+                  alt="{{ child.title }}"
+                  height="100%"
+                />
+              </a>
+            </div>
+          {% endif %}
+
+          <div class="content-container">
+            <div class="lefty">
+              <header>
+                <h3>{{ child.title }}</h3>
+              </header>
+
+              {% if child.description_text %}
+                <div class="research-description">{{ child.description_text | markdownify }}</div>
+              {% endif %}
+
+              {% assign papers = child.achievements | where: "category", "journal" %}
+              {% assign conferences = child.achievements | where: "category", "conference" %}
+              {% assign patents = child.achievements | where: "category", "patent" %}
+
+              {% if papers.size > 0 or conferences.size > 0 or patents.size > 0 %}
+                <div class="row">
+                  <ul class="research-tabs">
+                    {% if papers.size > 0 %}
+                      <li>
+                        <a
+                          class="nav-link-research"
+                          onclick="toggleParagraph('{{ child._id }}', 'paper')"
+                          href="#"
+                        >
+                          <span class="icon fa-solid fa-book"></span> Papers
+                        </a>
+                      </li>
+                    {% endif %}
+                    {% if conferences.size > 0 %}
+                      <li>
+                        <a
+                          class="nav-link-research"
+                          onclick="toggleParagraph('{{ child._id }}', 'conference')"
+                          href="#"
+                        >
+                          <span class="icon fa fa-address-card-o" aria-hidden="true"></span> Conference
+                        </a>
+                      </li>
+                    {% endif %}
+                    {% if patents.size > 0 %}
+                      <li>
+                        <a
+                          class="nav-link-research"
+                          onclick="toggleParagraph('{{ child._id }}', 'patent')"
+                          href="#"
+                        >
+                          <span class="icon fa-regular fa-copyright"></span> Patent
+                        </a>
+                      </li>
+                    {% endif %}
+                  </ul>
+                </div>
+
+                {% if papers.size > 0 %}
+                  <div class="paper" id="{{ child._id }}-paper">
+                    <ul class="research-achievement-list">
+                      {% for a in papers %}
+                        <li class="research-block">
+                          {% if a.link %}
+                            <a target="_blank" class="paperclick" href="{{ a.link }}">{{ a.contents | default: a.title_eng | default: a.title_kor }}</a>
+                          {% else %}
+                            {{ a.contents | default: a.title_eng | default: a.title_kor }}
+                          {% endif %}
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                {% endif %}
+
+                {% if conferences.size > 0 %}
+                  <div class="conference" id="{{ child._id }}-conference">
+                    <ul class="research-achievement-list">
+                      {% for a in conferences %}
+                        <li class="research-block">
+                          {% if a.link %}
+                            <a target="_blank" class="paperclick" href="{{ a.link }}">{{ a.contents | default: a.title_eng | default: a.title_kor }}</a>
+                          {% else %}
+                            {{ a.contents | default: a.title_eng | default: a.title_kor }}
+                          {% endif %}
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                {% endif %}
+
+                {% if patents.size > 0 %}
+                  <div class="patent" id="{{ child._id }}-patent">
+                    <ul class="research-achievement-list">
+                      {% for a in patents %}
+                        <li class="research-block">{{ a.contents | default: a.patent_info | default: a.title_eng | default: a.title_kor }}</li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                {% endif %}
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </section>
+  </article>
+  {% endif %}
+{% else %}
+  <article id="main">
+    <header class="special container" id="re_header">
+      <h2><strong>Research</strong></h2>
+    </header>
+    <section class="wrapper style1 container">
+      <p>Research 데이터 파일(_data/research.json)이 아직 없습니다. 어드민에서 연구 데이터를 배포한 뒤 ZIP을 적용해 주세요.</p>
+    </section>
+  </article>
+{% endif %}
+
