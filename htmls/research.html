@@ -1,0 +1,280 @@
+---
+layout: default
+---
+
+<article id="main">
+  <header class="special container" id="re_header">
+    <h2><strong>Research</strong></h2>
+  </header>
+
+  {% assign research_data = site.data.research %}
+
+  <!-- Level 1 탭 네비게이션 -->
+  <section class="wrapper style1 container special nav-container">
+    <div class="row" id="research-row">
+      {% for level1 in research_data %}
+        <section {% if forloop.first %}id="nav-link-first"{% else %}class="nav-item"{% endif %}>
+          <ul>
+            <li>
+              <a href="#{{ level1.title | slugify }}" class="nav-link_re {% if forloop.first %}active{% endif %}">
+                {% if level1.icon_image %}
+                  <img src="{{ site.baseurl }}{{ level1.icon_image }}" alt="{{ level1.title }}">
+                {% endif %}
+                <span id="span-one-line">{{ level1.title }}</span>
+              </a>
+            </li>
+          </ul>
+        </section>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Level 1 콘텐츠 -->
+  {% for level1 in research_data %}
+    <span id="{{ level1.title | slugify }}"></span>
+    
+    <!-- 메인 배너 -->
+    {% if level1.main_banner_image %}
+      <section class="wrapper style1 container" style="margin-bottom: 2em;">
+        <div class="content">
+          <section class="image-with-text" id="animated-section">
+            <img src="{{ site.baseurl }}{{ level1.main_banner_image }}" alt="{{ level1.title }}" height="100%" />
+            {% if level1.main_banner_description %}
+              <div class="text-over-image hidden-header">
+                <header>
+                  <h3>{{ level1.title }}</h3>
+                  <p>{{ level1.main_banner_description }}</p>
+                </header>
+              </div>
+            {% endif %}
+          </section>
+        </div>
+      </section>
+    {% endif %}
+
+    <!-- Level 2 리스트 -->
+    <section class="wrapper style2 container special">
+      {% for level2 in level1.children %}
+        {% assign index_mod = forloop.index0 | modulo: 2 %}
+        <div class="cutstom-row">
+          {% if index_mod == 0 %}
+            <!-- 이미지 왼쪽, 콘텐츠 오른쪽 -->
+            <div class="image-container">
+              {% if level2.description_image %}
+                <a class="image featured">
+                  <img src="{{ site.baseurl }}{{ level2.description_image }}" alt="{{ level2.title }}" height="100%">
+                </a>
+              {% endif %}
+            </div>
+            <div class="content-container">
+              <div class="lefty">
+                <header>
+                  <h3>{{ level2.title }}</h3>
+                </header>
+                {% if level2.description_text %}
+                  <div class="markdown-content">
+                    {{ level2.description_text | markdownify }}
+                  </div>
+                {% endif %}
+                
+                <!-- Papers/Patent 버튼 -->
+                {% assign has_papers = false %}
+                {% assign has_patents = false %}
+                {% for ach in level2.achievements %}
+                  {% if ach.category == 'journal' or ach.category == 'conference' %}
+                    {% assign has_papers = true %}
+                  {% endif %}
+                  {% if ach.category == 'patent' %}
+                    {% assign has_patents = true %}
+                  {% endif %}
+                {% endfor %}
+
+                {% if has_papers or has_patents %}
+                  <div class="row">
+                    {% if has_papers %}
+                      <ul>
+                        <li>
+                          <a class="nav-link-research" onclick="toggleParagraph('{{ level2._id }}', 'paper')" href="#">
+                            <span class="icon fa-solid fa-book"></span> Papers
+                          </a>
+                        </li>
+                      </ul>
+                    {% endif %}
+                    {% if has_patents %}
+                      <ul>
+                        <li>
+                          <a class="nav-link-research" onclick="toggleParagraph('{{ level2._id }}', 'patent')" href="#">
+                            <span class="icon fa-regular fa-copyright"></span> Patent
+                          </a>
+                        </li>
+                      </ul>
+                    {% endif %}
+                  </div>
+                {% endif %}
+
+                <!-- Papers 목록 -->
+                {% if has_papers %}
+                  <div class="paper" id="{{ level2._id }}-paper">
+                    <p>
+                      {% for ach in level2.achievements %}
+                        {% if ach.category == 'journal' or ach.category == 'conference' %}
+                          <span class="research-block">
+                            &#8226; 
+                            {% if ach.link %}
+                              <a target="_blank" class="paperclick" href="{{ ach.link }}">
+                            {% endif %}
+                            {% if ach.authors_text %}{{ ach.authors_text }}.{% endif %}
+                            {% if ach.title_eng %}"{{ ach.title_eng }}"{% endif %}
+                            {% if ach.journal_eng %}{{ ach.journal_eng }}{% endif %}
+                            {% if ach.conference_eng %}{{ ach.conference_eng }}{% endif %}
+                            {% if ach.date %}{{ ach.date }}{% endif %}
+                            {% if ach.IF %}IF:{{ ach.IF }}{% endif %}
+                            {% if ach.link %}
+                              </a>
+                            {% endif %}
+                          </span>
+                          {% unless forloop.last %}<br><br>{% endunless %}
+                        {% endif %}
+                      {% endfor %}
+                    </p>
+                  </div>
+                {% endif %}
+
+                <!-- Patent 목록 -->
+                {% if has_patents %}
+                  <div class="patent" id="{{ level2._id }}-patent">
+                    <p>
+                      {% for ach in level2.achievements %}
+                        {% if ach.category == 'patent' %}
+                          <span class="research-block">
+                            &#8226; 
+                            {% if ach.title_eng %}{{ ach.title_eng }}{% endif %}
+                            {% if ach.patent_info %}
+                              {% for patent in ach.patent_info %}
+                                {{ patent.patent_status }} (No: {{ patent.patent_number }}, Date: {{ patent.patent_date }})
+                              {% endfor %}
+                            {% endif %}
+                          </span>
+                          {% unless forloop.last %}<br><br>{% endunless %}
+                        {% endif %}
+                      {% endfor %}
+                    </p>
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+          {% else %}
+            <!-- 콘텐츠 왼쪽, 이미지 오른쪽 -->
+            <div class="content-container">
+              <div class="lefty">
+                <header>
+                  <h3>{{ level2.title }}</h3>
+                </header>
+                {% if level2.description_text %}
+                  <div class="markdown-content">
+                    {{ level2.description_text | markdownify }}
+                  </div>
+                {% endif %}
+                
+                <!-- Papers/Patent 버튼 -->
+                {% assign has_papers = false %}
+                {% assign has_patents = false %}
+                {% for ach in level2.achievements %}
+                  {% if ach.category == 'journal' or ach.category == 'conference' %}
+                    {% assign has_papers = true %}
+                  {% endif %}
+                  {% if ach.category == 'patent' %}
+                    {% assign has_patents = true %}
+                  {% endif %}
+                {% endfor %}
+
+                {% if has_papers or has_patents %}
+                  <div class="row">
+                    {% if has_papers %}
+                      <ul>
+                        <li>
+                          <a class="nav-link-research" onclick="toggleParagraph('{{ level2._id }}', 'paper')" href="#">
+                            <span class="icon fa-solid fa-book"></span> Papers
+                          </a>
+                        </li>
+                      </ul>
+                    {% endif %}
+                    {% if has_patents %}
+                      <ul>
+                        <li>
+                          <a class="nav-link-research" onclick="toggleParagraph('{{ level2._id }}', 'patent')" href="#">
+                            <span class="icon fa-regular fa-copyright"></span> Patent
+                          </a>
+                        </li>
+                      </ul>
+                    {% endif %}
+                  </div>
+                {% endif %}
+
+                <!-- Papers 목록 -->
+                {% if has_papers %}
+                  <div class="paper" id="{{ level2._id }}-paper">
+                    <p>
+                      {% for ach in level2.achievements %}
+                        {% if ach.category == 'journal' or ach.category == 'conference' %}
+                          <span class="research-block">
+                            &#8226; 
+                            {% if ach.link %}
+                              <a target="_blank" class="paperclick" href="{{ ach.link }}">
+                            {% endif %}
+                            {% if ach.authors_text %}{{ ach.authors_text }}.{% endif %}
+                            {% if ach.title_eng %}"{{ ach.title_eng }}"{% endif %}
+                            {% if ach.journal_eng %}{{ ach.journal_eng }}{% endif %}
+                            {% if ach.conference_eng %}{{ ach.conference_eng }}{% endif %}
+                            {% if ach.date %}{{ ach.date }}{% endif %}
+                            {% if ach.IF %}IF:{{ ach.IF }}{% endif %}
+                            {% if ach.link %}
+                              </a>
+                            {% endif %}
+                          </span>
+                          {% unless forloop.last %}<br><br>{% endunless %}
+                        {% endif %}
+                      {% endfor %}
+                    </p>
+                  </div>
+                {% endif %}
+
+                <!-- Patent 목록 -->
+                {% if has_patents %}
+                  <div class="patent" id="{{ level2._id }}-patent">
+                    <p>
+                      {% for ach in level2.achievements %}
+                        {% if ach.category == 'patent' %}
+                          <span class="research-block">
+                            &#8226; 
+                            {% if ach.title_eng %}{{ ach.title_eng }}{% endif %}
+                            {% if ach.patent_info %}
+                              {% for patent in ach.patent_info %}
+                                {{ patent.patent_status }} (No: {{ patent.patent_number }}, Date: {{ patent.patent_date }})
+                              {% endfor %}
+                            {% endif %}
+                          </span>
+                          {% unless forloop.last %}<br><br>{% endunless %}
+                        {% endif %}
+                      {% endfor %}
+                    </p>
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+            <div class="image-container">
+              {% if level2.description_image %}
+                <a class="image featured">
+                  <img src="{{ site.baseurl }}{{ level2.description_image }}" alt="{{ level2.title }}" height="100%">
+                </a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </section>
+  {% endfor %}
+</article>
+
+<script src="{{ site.baseurl }}/js/research.js"></script>
+
