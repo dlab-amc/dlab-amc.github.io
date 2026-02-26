@@ -11,26 +11,23 @@ $(document).ready(function () {
 
 function toggleParagraph(sectionId, type) {
   var paperParagraph = $('#' + sectionId + '-paper');
+  var conferenceParagraph = $('#' + sectionId + '-conference');
   var patentParagraph = $('#' + sectionId + '-patent');
 
   var deferred = $.Deferred();
 
   if (type === 'paper') {
-    if (patentParagraph.is(':visible')) {
-      patentParagraph.slideUp(800, function () {
-        paperParagraph.slideToggle(800, deferred.resolve);
-      });
-    } else {
-      paperParagraph.slideToggle(800, deferred.resolve);
-    }
+    conferenceParagraph.slideUp(800);
+    patentParagraph.slideUp(800);
+    paperParagraph.slideToggle(800, deferred.resolve);
+  } else if (type === 'conference') {
+    paperParagraph.slideUp(800);
+    patentParagraph.slideUp(800);
+    conferenceParagraph.slideToggle(800, deferred.resolve);
   } else if (type === 'patent') {
-    if (paperParagraph.is(':visible')) {
-      paperParagraph.slideUp(800, function () {
-        patentParagraph.slideToggle(800, deferred.resolve);
-      });
-    } else {
-      patentParagraph.slideToggle(800, deferred.resolve);
-    }
+    paperParagraph.slideUp(800);
+    conferenceParagraph.slideUp(800);
+    patentParagraph.slideToggle(800, deferred.resolve);
   }
 
   // $.when(deferred).done(function () {
