@@ -180,7 +180,7 @@ layout: landing-page
 	</section>
 </article>
 
-<!-- Three -->
+<!-- Three: Research Topics (2x2, research.json Level1 기반) -->
 <div
 	style="background-color: white; margin-top: 40px; margin-bottom: 0; padding: 0 0 1px 0; ">
 	<section class="wrapper style1 container">
@@ -188,133 +188,38 @@ layout: landing-page
 			<h4>Research Topics</h4>
 		</header>
 
-		<div class="row">
-
-			<div class="4u">
-				<section>
-					<a href="htmls/research/PPG_analysis.html#PPGAnalysis"
-						class="image featured"><img
-							src="images/research/PPGAnal.png" alt class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">PPG Analysis
-						</h3>
-						<p class="RT">#Blood pressure #PTT #Vascular Aging</p>
-					</header>
-				</section>
-			</div>
-
-			<div class="4u">
-				<section>
-					<a href="htmls/research/disease_prediction.html#diseasePrediction"
-						class="image featured"><img
-							src="images/research/DiseasePrediction.png" alt
-							class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Disease Predictions
-						</h3>
-						<p class="RT">#Atrial Fibrillation #GWAS #AI</p>
-					</header>
-				</section>
-			</div>
-			<div class="4u">
-				<section>
-					<a href="htmls/research/heart_rhythm.html#heartRhythm"
-						class="image featured"><img
-							src="images/research/HeartRhythm.png" alt class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Heart Rhythm
-						</h3>
-						<p class="RT">#HRV #Arrhythmia</p>
-					</header>
-				</section>
-			</div>
+		{% assign level1_list = site.data.research | where: "level", "level1" | sort: "order" %}
+		{% if level1_list.size > 0 %}
+		<div class="row research-topics-grid">
+			{% for level1 in level1_list %}
+			{% if forloop.index0 == 2 %}
 		</div>
-
-		<div class="row">
-			<div class="4u">
+		<div class="row research-topics-grid">
+			{% endif %}
+			<div class="6u">
 				<section>
-					<a href="htmls/research/pain.html#pain" class="image featured"><img
-							src="images/research/Pain.png" alt class="image hover" loading="lazy" /></a>
+					<a href="{{ site.baseurl }}/htmls/research/{{ level1.title | slugify }}.html" class="image featured">
+						{% if level1.main_banner_image %}
+						<img src="{{ site.baseurl }}/assets/img/research/{{ level1.main_banner_image }}" alt="{{ level1.title }}" class="image hover" loading="lazy" />
+						{% else %}
+						<img src="{{ site.baseurl }}/images/research/PPGAnal.png" alt="{{ level1.title }}" class="image hover" loading="lazy" />
+						{% endif %}
+					</a>
 					<header>
-						<h3 class="RT">Pain
-						</h3>
-						<p class="RT">#Chronic pain #Severity #Recovery </p>
-					</header>
-
-				</section>
-
-			</div>
-			<div class="4u">
-
-				<section>
-					<a href="htmls/research/sleep.html#sleep" class="image featured"><img
-							src="images/research/Sleep.png" alt class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Sleep
-						</h3>
-						<p class="RT">#Monitoring #Device #Actigraphy</p>
+						<h3 class="RT">{{ level1.title }}</h3>
+						<p class="RT research-topics-hashtags">
+							{% for child in level1.children %}
+							#{{ child.title }}{% unless forloop.last %} {% endunless %}
+							{% endfor %}
+						</p>
 					</header>
 				</section>
 			</div>
-
-			<div class="4u">
-				<section>
-					<a href="htmls/research/wearable_IoT_&_platform.html#wearableIoT&Platform"
-						class="image featured"><img src="images/research/Wearable.png" alt
-							class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Wearable IoT & Platform
-						</h3>
-						<p class="RT">#Biosignal #Activity #Patient tracking</p>
-					</header>
-				</section>
-			</div>
+			{% endfor %}
 		</div>
-
-		<div class="row">
-			<div class="4u">
-
-				<section>
-					<a
-						href="htmls/research/biosignal_processing.html#bigmedicalSignalProcessing"
-						class="image featured"><img src="images/research/BiosignalProcessing.png"
-							alt
-							class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Biosignal Processing
-						</h3>
-						<p class="RT">#QA #Filtering #Reconstruction</p>
-
-					</header>
-				</section>
-
-			</div>
-
-			<div class="4u">
-				<section>
-					<a href="htmls/research/therapeutics.html#therapeutics"
-						class="image featured"><img
-							src="images/research/Therapeutics.png" alt class="image hover" loading="lazy" /></a>
-					<header>
-						<h3 class="RT">Therapeutics
-						</h3>
-						<p class="RT">#DTx #Software</p>
-					</header>
-				</section>
-			</div>
-
-			<div class="4u">
-				<section>
-					<a href="htmls/research/lab_test.html#labTest" class="image featured"><img
-							src="images/research/LabTests.png" alt class="image hover" loading="lazy"></a>
-					<header>
-						<h3 class="RT">Lab Tests
-						</h3>
-						<p class="RT">#Auto #Error Detection</p>
-					</header>
-				</section>
-			</div>
-		</div>
+		{% else %}
+		<p>Research 데이터가 없습니다.</p>
+		{% endif %}
 
 	</section>
 </div>
