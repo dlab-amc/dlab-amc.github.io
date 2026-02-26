@@ -7,9 +7,12 @@
     <ul>
       <li><a href="{{ site.baseurl }}/">Home</a></li>
       <li>
-        <a href="{{ site.baseurl }}/htmls/research/PPG_analysis.html"
-          >Research</a
-        >
+        {% assign first_level1 = site.data.research | where: "level", "level1" | sort: "order" | first %}
+        {% if first_level1 %}
+          <a href="{{ site.baseurl }}/htmls/research/{{ first_level1.title | slugify }}.html">Research</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/htmls/research/index.html">Research</a>
+        {% endif %}
       </li>
 
       <li>
