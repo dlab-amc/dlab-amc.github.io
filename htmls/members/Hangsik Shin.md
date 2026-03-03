@@ -194,12 +194,148 @@ member:
     - 신항식, 주성우, 이중선, 한유진. 뇌 질환 진단 장치 및 방법. KR 10-2025-0157997, 2025. 10. 28.
     <!-- f691c0c4-7803-4650-8cd1-1c53f0ea5cb3 -->
     - 이재형, 신항식, 임하민, 왕창원. 인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램. KR 10-2025-0154643, 2025. 10. 23.
+    <!-- f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7 -->
+    - 이재형, 신항식, 임하민, 왕창원. 블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법. KR 10-2024-0201045, 2024. 12. 30.
+    <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
+    - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.
+    <!-- e401d263-72e8-4304-a79d-d829488b7d8d -->
+    - 신항식, 왕창원, 이중선, 주성우, 임하민. 시설 내 대상자 모니터링 시스템. KR 10-2023-0197490, 2023. 12. 29.
+    <!-- fb68311e-5892-4acf-8beb-3903f421a8a0 -->
+    - 신항식. 이소성 박동 교정 프로그램. KR C-2023-060553, 2023. 12. 15.
+    <!-- d9faa601-2a16-4028-bf71-11ab78b22a2e -->
+    - 신항식, 왕창원, 임하민. 심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션. KR C-2023-059443, 2023. 12. 13.
+    <!-- 647f9bd0-aa84-41ba-a6c4-99eeb0554b61 -->
+    - 신항식, 왕창원, 임하민. 생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램. KR C-2023-059444, 2023. 12. 13.
+    <!-- 8b8fb1d8-4152-49c6-b141-74e4f4dc7e55 -->
+    - 신항식, 왕창원, 임하민. 사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램. KR C-2023-059445, 2023. 12. 13.
+    <!-- 7fece762-85cc-4c24-9624-c27843c785ef -->
+    - 신항식. 보간 위치 및 보간 샘플 수를 이용하여 심장 박동을 보간하는 전자 장치 및 이의 이소성 박동 교정 방법. KR 10-2023-0147182, 2023. 10. 30.
+    <!-- 8a4d751d-b46f-47e2-afbe-5e52dda4b5ed -->
+    - 신항식. 대동맥 압력 파형을 추정하는 방법 및 장치. KR 10-2023-0145004, 2023. 10. 26.
+    <!-- 3312af4f-0f30-450f-a561-5e27deb07417 -->
+    - 신항식. 준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치. KR 10-2023-0136907, 2023. 10. 13.
+    <!-- aa2c9aaf-e5d8-4595-9290-e5da3e26e0a0 -->
+    - 신항식, 왕창원, 최아영, 류관곤, 방근호, 황정연. 웹 기반 생체정보 디스플레이 프로그램. KR C-2023-023410, 2023. 5. 25.
+    <!-- 55078441-f6a7-4eac-ad08-c10488c2a1aa -->
+    - 신항식, 왕창원, 최아영, 방근호, 황정연, 류관곤. 웨어러블 기기용 심박수, 가속도 신호 측정, 전송 프로그램. KR C-2023-023411, 2023. 5. 25.
+    <!-- 62eac829-8ba2-4a31-9cbd-7b4f5a15db39 -->
+    - 신항식, 왕창원, 최아영, 방근호, 황정연, 류관곤. 심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램. KR C-2023-023409, 2023. 5. 25.
+    <!-- fc03d603-79e0-45f6-a92c-155613ea8fe1 -->
+    - 신항식. 연속맥파 도달시간 기반 혈압 추정 방법 및 그 방법을 수행 하는 서버. KR 10-2023-0012121, 2023. 1. 30.
+    <!-- 00c11128-93cb-42b0-b955-7e9d364d107c -->
+    - 신항식. 생체신호 품질 평가 방법 및 장치. KR 10-2023-0012122, 2023. 1. 30.
+    <!-- a21dc4b9-d781-4382-b08e-add9fedaf479 -->
+    - 신항식. 생리적 나이 추정 방법 및 장치. KR 10-2023-0007614, 2023. 1. 18.
+    <!-- 3eb391b0-6b48-4486-83bc-179300e01f6a -->
+    - 신항식, 박준영, 최용순, 정진. 공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치. KR 10-2021-0193739, 2021. 12. 31.
+    <!-- e4a56844-65c7-4f83-b203-e9362104a8a8 -->
+    - 신항식. 광용적맥파의 품질 평가 방법 및 장치. KR 10-2021-0193461, 2021. 12. 30.
+    <!-- fe8e7c61-da65-408b-a6a6-ac8ebcd4a82a -->
+    - 신항식, 박준영. 광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치. KR 10-2021-0193460, 2021. 12. 30.
+    <!-- 4173ebdb-f818-486d-bfb6-bee33fc3e13f -->
+    - 신항식, 노규정, 최병문. 광용적맥파를 이용한 통증 분류 방법 및 장치. KR 10-2321653, 2021. 10. 29.
+    <!-- 3fa1e816-8085-43a5-bdf6-7afda40f4bf9 -->
+    - 신항식, 박수지. 힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치. KR 10-2221370, 2021. 2. 23.
+    <!-- 72fa4a5f-5287-4140-a8ca-b20d3cb21184 -->
+    - 신항식, 임지연, 최병문, 노규정. PPG 기반 스펙트로그램 및 CNN에 기반하는 통증 평가 방법 및 장치. KR 10-2021-0017756, 2021. 2. 8.
+    <!-- 864acce6-7ca3-49af-89a9-6ef916f58d24 -->
+    - 신항식, 권단비. 허리밴드형 웨어러블 심전도 측정 장치 및 이를 이용한 심박 측정 방법 및 장치. KR 10-2021-0016604, 2021. 2. 5.
+    <!-- dfdea2b9-0376-4b00-a168-344daf816500 -->
+    - 신항식, 권단비. 휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크. KR 10-2021-0012631, 2021. 1. 28.
+    <!-- 2e52b971-68a6-477e-81f9-d75c4c9ab47a -->
+    - 신항식, 박준영, 노동근, 최용순, 김도유, 최아영. 다중배열 압력센서를 포함하는 장치 및 이를 포함하는 웨어러블 기기. KR 10-2021-0012642, 2021. 1. 28.
+    <!-- 8c017840-c738-43a1-8ad0-72a669d7fa9c -->
+    - Shin H. A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave. PCT 2020/012934, 2020 Sep 24.
+    <!-- e5b7bbbf-2106-47d0-8d53-0d704e0b2008 -->
+    - 신항식, 권단비. 마스크 부착형 호흡 모니터링 장치 및 시스템. KR 10-2020-0110037, 2020. 8. 31.
+    <!-- d0473652-65a1-4b2e-8e68-ecfb87d35d45 -->
+    - 신항식, 김도윤, 조재걸, 최병훈. 휴대 단말 장치를 이용한 수면 품질 측정 방법 및 장치. KR 10-2143499, 2020. 8. 5.
+    <!-- df4bdfc7-8f34-4d6c-b69b-803b326c48d2 -->
+    - 신항식, 박준영, 노동근, 최용순, 김도유, 최아영. 다중 배열 압력 센서를 포함하는 웨어러블 혈압 측정 장치. KR 10-2020-0072249, 2020. 6. 15.
+    <!-- f44cff49-ff09-409a-aed9-84d4cef727b3 -->
+    - 신항식, 석현석. 광용적맥파의 미분 지표를 이용한 수술 후 통증 평가 방법 및 장치. KR 10-2020-0066975, 2020. 6. 3.
+    <!-- 75328e09-2b24-4923-a6d5-419d6d7053c6 -->
+    - 신항식, 박수지. 필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템. KR 10-2095356, 2020. 3. 25.
+    <!-- 9894a82e-6c28-4113-a803-3064e7416304 -->
+    - 신항식, 이준석, 박수지. 상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법. KR 10-2199341, 2020. 12. 30.
     ## Journal
     <!-- 0e4ccaf9-1e53-463e-85b2-8f90b79a5660 -->
     - Shin H. From radial to aortic pressure: In silico data-driven estimation using an autoencoder. Biomedical Signal Processing and Control. 2026 Feb; IF:4.9@2024JIF; RS-2023-00215716, RS-2022-00141473, 2024IP0021.
     
     <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
     - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
+    <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
+    - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- 6bca2b12-4451-4f75-9b60-106e908def25 -->
+    - Seok HS, Kim SS, Kim D, Shin H. Toward Objectification of Subjective Chronic Pain Based on Implicit Response in Biosignals. IEEE Transactions on Biomedical Engineering. 2025 Jan; 72(1):337-345; IF:4.4@2023JIF; HI22C1668, 2023IP0133.
+    <!-- 841b7d8e-34dc-46ee-b032-b8a8cdd56a9b -->
+    - You J, Seok HS, Kim S, Shin H. Advancing laboratory medicine practice with machine learning: swift yet exact. Annals of Laboratory Medicine. 2024 Nov; 45(1):22-35; IF:4@2023JIF; RS-2024-00335644, 2024IP0001.
+    <!-- d7e4094d-cc2c-450b-8fa1-f74dd6ce9f09 -->
+    - Ryu SM, Shin K, Doh CH, Hui B, Park JY, Koh K, Shin H, Jeon I. Orthopedic surgeon level joint angle assessment with artificial intelligence based on photography: a pilot study. Biomedical Engineering Letters. 2024 Sep; 15(1):131-142; IF:3.2@2023JIF; RS2023-00214256, 2023IP0133.
+    <!-- 1488e88b-6109-4435-8b1e-12951f673d7f -->
+    - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, Shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
+    <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
+    - Lee J, Kwon O, Ryu G, Shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
+    <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
+    <!-- 25c744a8-0ba8-4012-9740-83157d327200 -->
+    - Shin H. Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy. Computers in Biology and Medicine. 2024 Jul; 180(108952):; IF:7@2023JIF; HI22C1668, RS-2023-00215716.
+    <!-- a9be57b4-b145-4ac1-880a-bd7b8bed3668 -->
+    - Park JH, Wang C, Shin H. FDA-cleared home sleep apnea testing devices. npj Digital Medicine. 2024 May; 7(1):123; IF:15.2@2022JIF; RS-2023-00215716, HR20C0026.
+    <!-- 748a314f-ee4c-4683-9e08-64b7bbe8287f -->
+    - Jo J, Shin H, Choi A. Calibration-free blood pressure estimation based on a convolutional neural network. Psychophysiology. 2024 Apr; 61(4):14480; IF:3.7@2022JIF; RS-2022-00141473, 2021R1F1A1062181.
+    <!-- 2825a808-457d-40e2-9103-6ac3f33e66ce -->
+    - Seok HS, Choi Y, Yu S, Shin K, Kim S, Shin H. Machine learning-based delta check method for detecting misidentification errors in tumor marker tests. Clinical Chemistry and Laboratory Medicine. 2023 Dec; 62(7):1421-1432; IF:6.8@2022JIF; HR20C0026, 2023IP0003-1.
+    <!-- 2eea3f4e-b474-41a6-acd2-3535c6441d2c -->
+    - Lee C, Shin H. The 2023 wearable photoplethysmography roadmap. Physiological measurement. 2023 Jul; 44(11):47-51; HR20C0026, HI22C1668.
+    <!-- ec82a1b1-9281-40fd-8592-925612fbb2ce -->
+    - Yu S, Shin K, Shin S, Lee H, Yoo SJ, Jun KR, Shin H, Kim S. Practical delta check limits for tumour markers in different clinical settings. Clinical Chemistry and Laboratory Medicine (CCLM). 2023 Mar; 61(10):1829-1840; IF:8.49@2021JIF; 2023IP0039-1.
+    <!-- 5ce419ea-4c49-4e0a-92be-9bd1345f3b9e -->
+    - Wang C, Lee C, Shin H. Digital therapeutics from bench to bedside. npj Digital Medicine. 2023 Mar; 6(1):38; IF:15.2@2021JIF; RS-2022-00141473, HI21C0011, HR20C0026.
+    <!-- 59b997d3-ff83-4c1b-8dcb-227f62bd2900 -->
+    - Kwon O, Lee J, Park J, Yang S, Hwang I, Yu HT, Shin H, Pak H. Three-Dimensional Atrial Wall Thickness Measurement Algorithm From a Segmented Atrial Wall Using a Partial Differential Equation. IEEE Access. 2022 Mar; IF:3.476@2020JIF; HI21C0011, NRF-2020R1A2B5B01001695.
+    <!-- 0caaad91-c8ef-44cd-ac06-05abbec19c25 -->
+    - Shin H. A novel method for non-invasive blood pressure estimation based on continuous pulse transit time: An observational study. Psychophysiology. 2023 Feb; 60(2):e14173-e14173; IF:4.348@2021JIF; HI21C0011, 2018R1D1A3B07046442.
+    <!-- d0f51bd8-b239-4860-8765-ee661208083b -->
+    - Shin H, Noh G, Choi B. Photoplethysmogram based vascular aging assessment using the deep convolutional neural network. Scientific Reports. 2022 Jul; 12(11377):; IF:4.997@2021JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- 9b70d127-4a0f-4580-891f-f572e5753cd4 -->
+    - Shin H. Deep convolutional neural network-based signal quality assessment for photoplethysmogram. Computers in Biology and Medicine. 2022 Jul; 145(105430):; IF:6.698@2021JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- 3f386c0f-e85d-4e89-a558-47011c2dca03 -->
+    - Shin H. XGBoost Regression of the Most Significant Photoplethysmogram Features for Assessing Vascular Aging. IEEE journal of biomedical and health informatics. 2022 Jul; 26(7):3354-3361; IF:7.021@2021JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- 044e9602-c69b-401f-b625-98e77912c0d0 -->
+    - Park J, Shin H. Vascular Aging Estimation Based on Artificial Neural Network Using Photoplethysmogram Waveform Decomposition: Retrospective Cohort Study. JMIR Medical Informatics. 2022 Mar; 10(3):1-17; IF:2.96@2020JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- c0670fd6-112e-47af-8ebb-4d267bdaa9fa -->
+    - Park J, Seok HS, Kim SS, Shin H. Photoplethysmogram Analysis and Applications: An Integrative Review. Frontiers in Physiology. 2022 Mar; IF:4.566@2020JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- 4ae1c12d-0145-4167-be66-c5d87d04c50c -->
+    - Shin H. Deep Convolutional Neural Network-Based Hemiplegic Gait Detection Using an Inertial Sensor Located Freely in a Pocket. Sensors. 2022 Mar; 22(5):1920; IF:3.576@2020JIF; 2018R1D1A3B07046442, HI21C0011.
+    <!-- aae2974e-7859-424b-888f-51b56626143a -->
+    - Kwon D, Cho H, Shin H. Feasibility of a Waistband-Type Wireless Wearable Electrocardiogram Monitoring System Based on a Textile Electrode: Development and Usability Study. JMIR mHealth and uHealth. 2021 May; IF:4.313@2019JIF; 2018R1D1A3B07046442, 2016M3A9F1941328.
+    <!-- 16ae8eca-e68c-46a5-a864-9569c956dd3a -->
+    - Seok HS, Shin H. Recommendation for Measuring Digital Volume Pulse in Mobile Application: For Healthy Normal Subject. IEEE Access. 2021 May; IF:3.745@2019JIF; 2016M3A9F1941328, 2018R1D1A3B07046442.
+    <!-- 1f5ed4e9-af3e-4970-9b10-ec6383e28cb2 -->
+    - 박준영, 신항식. 광용적맥파 입사파와 반사파 지표 기반 혈관 노화 추정 모델 개발. 전기학회논문지. 2021 04; 70(4):700-706; 2018R1D1A3B07046442, 2016M3A9F1941328.
+    <!-- 2d2e4f4c-23d3-441d-b96d-af4cca4e3b92 -->
+    - Kim JW, Seok HS, Shin H. Is Ultra-Short-Term Heart Rate Variability Valid in Non-static Conditions?. Frontiers in Physiology. 2021 Mar; 12(596060):; IF:3.367@2019JIF; 2018R1A4A1025704, 2018R1D1A3B07046442.
+    <!-- 1b478bb7-f683-457b-9b8e-77a084e2b405 -->
+    - Roh D, Shin H. Recurrence Plot and Machine Learning for Signal Quality Assessment of Photoplethysmogram in Mobile Environment. Sensors. 2021 Mar; 21(6):2188; IF:3.275@2019JIF; 2018R1A4A1025704, 2016M3A9F1941328.
+    <!-- 21fd7890-3ae3-42bf-8387-2b9b0d352c77 -->
+    - Choi B, Shin H, Lee J, Bang J, Lee E, Noh G. Performance of the Surgical Pleth Index and Analgesia Nociception Index in Healthy Volunteers and Parturients. Frontiers in Physiology. 2021 Mar; 12(554026):; IF:3.367@2019JIF; 10047988.
+    <!-- debca9ec-7109-4687-99f5-3c7c59444f33 -->
+    - Choi B, Yim JY, Shin H, Noh G. Novel Analgesic Index for Postoperative Pain Assessment Based on a Photoplethysmographic Spectrogram and Convolutional Neural Network: Observational Study. Journal of Medical Internet Research. 2021 Feb; 23(2):e23920; IF:5.03@2019JIF; 2018R1A4A1025704, 2018R1D1A3B07046442.
+    <!-- 479b87a7-0b1f-491c-8927-462e6d53f304 -->
+    - Shin H, Choi A. Calculation and Validation of Continuous Pulse Transit Time Based on Normalized Pulse Wave Velocity. IEEE Access. 2020 Dec; IF:3.745@2019JIF; 2018R1A4A1025704, 2016M3A9F1941328.
+    <!-- ca7e1b64-9f5a-48de-a0da-f17fa7f9cb4d -->
+    - Park J, Park S, Ahn S, Cho Y, Park J, Shin H. Wearable Strain Sensor Using Conductive Yarn Sewed on Clothing for Human Respiratory Monitoring. IEEE Sensors Journal. 2020 Nov; 20(21):12628-12636; IF:3.073@2019JIF; 2018R1A2B6005220, 2018R1A4A1025704.
+    <!-- bbf6b105-f35f-40ac-a8dc-ee9b859e0925 -->
+    - Park C, Yang M, Choi B, Jeon B, Lee Y, Shin H, Lee B, Choi B, Noh G. Performance of the nasal photoplethysmographic index as an analgesic index during surgery under general anaesthesia. Scientific Reports. 2020 Apr; IF:4.011@2018JIF; 10047088.
+    <!-- 2091d4d2-b362-473a-a712-09e9cb3caac2 -->
+    - Choi A, Noh S, Shin H. Internet-Based Unobtrusive Tele-Monitoring System for Sleep and Respiration. IEEE Access. 2020 Apr; IF:3.745@2018JIF; 2016M3A9F1941328, GCU-2019-0386.
+    <!-- 9f6b3f60-d479-4f1f-ac82-ce63e7a03c3d -->
+    - 김진웅, 신항식. 운동 후 회복 조건에서 초단기 심박변이도 활용 가능성 연구. 전기학회논문지. 2020 01; 69(1):114-119; 2018R1A4A1025704, 2018R1D1A3B07046442.
+    <!-- c4f6d95c-ea6d-4eba-abe8-2e4d704a9999 -->
+    - Elgendi M, Haugg F, Fletcher RR, Allen J, Shin H, Alian A, Menon C. Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment. Communications Medicine. 2024 Jul; 4(1):140; IF:5.8@2023JIF.
+    <!-- 88ab8925-715b-4300-9776-8b4240d4a652 -->
+    - 임하민, 신항식. 가속도 센서 기반 일상생활 활동 군집 특징 분석. 전기학회논문지(Domestic) 특집호. 2023 11; HI22C1668, HR20C0026.
     ## Conference
     <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
     - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
@@ -223,4 +359,82 @@ member:
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     <!-- 8cd9638b-94ac-4ee4-9283-6266d38535cb -->
     - Jin J, Ryu G, Sim J, Shin H. PubMedBERT-Based Terminology Mapping for Surgical Procedure Types. The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering. 2025 Dec 21-23; Tokyo, Japan; 2025.
+    <!-- 214ed0bc-e135-4f8e-b4bf-db4de9a273db -->
+    - 김영돈, 한유진, 신항식. 수면 분석 알고리즘 평가를 위한 다기관 수면다원검사 데이터 세트 구축. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- 4f2e1e24-4da0-44dc-9d7b-b3de65087e47 -->
+    - 진재욱, 신항식. 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
+    <!-- d44f19e2-f948-4020-b594-07ed6bf19b42 -->
+    - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC. 2025 Jul 14-17; Copenhagen, Denmark; 2025.
+    <!-- 2f8c8ab8-403f-4529-90ba-b413f389e033 -->
+    - Han Y, Joo SW, Shin H. Evaluating Feature Selection Methods for Radiomic Tractometry in Schizophrenia. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2025 Jul 14-17; Copenhagen, Denmark; 2025.
+    <!-- bc9325f2-deac-4a51-9d2f-aaf8cade661b -->
+    - 한유진, 신항식. 다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- b928a941-79da-4486-b9f0-02b3b6e86c9a -->
+    - 석현석, 이건, 류가연, 신항식. 광용적맥파 기반 정신적 피로 평가 가능성 연구. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff -->
+    - 이건, 신항식. 다중 작업 학습 기반 심잡음 특징 반영 심음도 잡음 제거 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- bf623bcc-ddfb-48e7-a65d-18dd48f3cf7b -->
+    - 유지원, 신항식. 대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 2ba08e29-f55b-4c5c-9cf2-8f9991f04638 -->
+    - 한유진, 주성우, 신항식. Radiomic Tractometry 기반 조현병 환자군 분류 인공지능 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 3a9e8f81-52f2-470e-800c-e9f1acbd3558 -->
+    - 정지영, 최예은, 신항식. 패혈증 조기 예측을 위한 머신러닝 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 8540829d-f74d-46b9-964b-55c3d4497911 -->
+    - 진재욱, 신항식. 수술 전 스트레스 평가를 통한 수술 후 통증 예측. 2025대한의용생체공학회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 6131572d-f63a-4a5c-b2c5-9c3f82d68059 -->
+    - 이재형, 권오석, 박희남, 신항식. 다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 64a5c206-ab29-4a1d-8778-2999a0bf4df7 -->
+    - 김태현, 류가연, 최예은, 신항식. 관상동맥질환 치료제의 심방세동 발생에 대한 영향: 후향적 코호트 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- ce676224-6524-494b-ac75-4af3b52d8fa9 -->
+    - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- ee5a24ad-4c4e-466e-9e12-079c56ef5830 -->
+    - 최예은, 정지영, 신항식. 패혈증 사망 위험에 미치는 비만도와 나이 영향 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- c9f92658-b039-43e6-b94b-b5ba3dd80d0b -->
+    - 임하민, 왕창원, 신항식. 폐쇄병동 환자 중증도에 따른 활동량 특징 분석. 2025년도 제 65회 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
+    - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- 0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9 -->
+    - 유지원, 신항식. 대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- 1e67b630-51dd-4fe6-8733-7b2b92cc7c37 -->
+    - 최예은, 신항식. 성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
+    <!-- 238412a7-3471-4e8a-81e9-f1f105eef065 -->
+    - 최예은, 신항식. 성인 패혈증 환자 생존율 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
+    <!-- f465d274-a2ed-447b-a17c-e9f8ade4cda7 -->
+    - 류가연, 최예은, 신항식. 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향. 2024년도 제 64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
+    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
+    - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- ff93bf0b-1866-43d0-b881-67b5400e47f3 -->
+    - 왕창원, 신항식. Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교. 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- 859d8bbf-e331-46e9-8de4-206c9f6291b6 -->
+    - Wang C, Shin H. Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
+    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
+    <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
+    - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
+    <!-- d0fd3ec9-d105-4dd3-abf3-c8b5a254ff66 -->
+    - 임하민, 왕창원, 신항식. 폐쇄병동 입원환자 위치 모니터링 플랫폼. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
+    <!-- 39e9c947-ff80-4433-8782-c1479e161d54 -->
+    - 왕창원, 임하민, 신항식. 병원 내 환자 위치 모니터링 모바일 어플리케이션 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
+    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
+    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
+    <!-- cfc8007b-d815-49b8-bfea-f66cf26e3dcc -->
+    - 유지원, 김솔잎, 이우창, 전사일, 신항식. 대학병원 임상화학검사에서 보고된 오류 유형과 빈도. 대한의료정보학회. 2024. 6. 19-21; 가톨릭대학교 성의교정; 2024.
+    <!-- cacc67b5-67ad-4753-b680-051c11d0c02f -->
+    - 왕창원, 임하민, 주성우, 이중선, 신항식. 폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례. 2024 대한의료정보학회 춘계학술대회. 2024. 6. 19-21; 가톨릭대학교 성의교정, 서울, 대한민국; 2024.
+    <!-- 7dd029f2-44c3-41a1-8e9d-f9d48a211273 -->
+    - 왕창원, 신항식. 전노쇠 단계 분류를 위한 신체기능 평가지표 탐색. 2024 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 연세대학교 미래캠퍼스, 원주, 대한민국; 2024.
+    <!-- 8df4115b-011f-4b42-afa6-33cb484115be -->
+    - 임하민, 신항식. Madgwick필터 기반 쿼터니언 회전 추정을 통한 가속도 센서 중력 보정. 2024 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 연세대학교 미래캠퍼스, 원주, 대한민국; 2024.
+    <!-- 17bf2ac9-95d2-4b28-af8b-f9b5bab02212 -->
+    - 류가연, 석현석, 최병문, 최재문, 신항식. 광용적맥파 기반 수술후 통증 중증도 평가지표 분석. 2024년 제63회 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 강원도 원주 연세대학교 미래캠퍼스 컨버전스홀; 2024.
+    <!-- 53d88ac1-e3ae-40ec-8c89-34f588b29266 -->
+    - Seok HS, Yu S, Shin K, Lee W, Kim S, Shin H. AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation. Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation. 2024 Mar 20-22; The-K Hotel, Seoul, Korea; 2024.
+    <!-- 4fde86c3-06f0-4b09-a500-dfcf59ba538e -->
+    - Choi Y, Seok HS, Shin H, Lee S, Yu J, Kim S, Lee W, Chun S. Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers. Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation. 2024 Mar 20-22; The-K Hotel, Seoul, Korea; 2024.
+    <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
+    - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
 --- 
