@@ -183,25 +183,16 @@ section:first-child {
 	margin-top: 20px;
 }
 
-/* research */
-
-.text-over-image {
-	padding: 20px;
-	top: 130px;
-	z-index: 2;
-}
+/* research: 상단 메인 배너 (모바일) */
 
 .image-with-text {
 	position: relative;
-	/* 부모 요소를 상대 위치로 설정 */
 }
-
 
 .image-with-text img {
 	width: 100%;
-	/* 이미지의 가로 너비를 100%로 설정하여 부모 요소에 꽉 채움 */
-	height: 30%;
-	/* 높이를 자동으로 조정하여 이미지의 비율을 유지 */
+	height: 260px;
+	object-fit: cover;
 }
 
 .image-with-text::after {
@@ -210,26 +201,37 @@ section:first-child {
 	top: 0;
 	left: 0;
 	right: 0;
-	height: 30%;
+	height: 260px;
 	background: #000;
-	opacity: 0.6;
+	opacity: 0.5;
 	pointer-events: none;
 	z-index: 1;
 }
 
-.image-with-text h3 {
-	font-size: 0.8em;
-	margin-bottom: 0;
-	font-weight: 300;
-	text-align: start;
+.text-over-image {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+	padding: 0 16px;
+	width: 100%;
+	box-sizing: border-box;
+	color: #fff;
+	z-index: 2;
 }
 
-.image-with-text p {
-	font-size: 0.8em;
-	text-align: start;
+.text-over-image h3 {
+	font-size: 1.3em;
+	margin-bottom: 0.3em;
+	font-weight: 500;
+	text-align: left;
+}
+
+.text-over-image p {
+	font-size: 0.9em;
 	margin-top: 0;
 	font-weight: 300;
-
+	text-align: left;
 }
 
 .custom-row {
@@ -369,14 +371,42 @@ ul.featured-icons li .icon {
 	cursor: pointer;
 }
 
+/* Research: 상단 탭 (level1) */
 #research-row {
 	display: flex;
-	font-size: 6px;
-	/* Adjust the font size as needed */
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 12px;
 	padding: 10px;
-	/* Adjust the padding as needed */
 }
 
+/* Research: 본문 레이아웃 (level2 blocks) */
+.cutstom-row {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	margin-bottom: 60px;
+}
+
+.cutstom-row--even {
+	flex-direction: column;
+}
+
+.image-container {
+	flex: 0 0 auto;
+	max-width: 100%;
+	margin-bottom: 12px;
+	padding: 12px;
+}
+
+.content-container {
+	padding: 12px 8px;
+}
+
+.content-container .row ul.research-tabs {
+	flex-wrap: wrap;
+	gap: 1rem;
+}
 
 /* putblication */
 .nav-link {
@@ -411,19 +441,21 @@ ul.featured-icons li .icon {
 	align-items: center;
 	text-align: center;
 	color: #1c2021;
-	padding: 10px;
+	padding: 10px 8px;
 	border: 1px solid #ddd;
 	border-radius: 10px;
-	height: 56px;
-	width: 56px;
+	width: 150px;
+	min-width: 120px;
+	min-height: 120px;
+	box-sizing: border-box;
+	font-size: 0.8em;
+	line-height: 1.2em;
 	transition: background-color 0.3s, color 0.3s;
-	font-size: 7px;
-	line-height: 0.9em;
 }
 
 .nav-link_re img {
-	width: 17px;
-	height: 17px;
+	width: 32px;
+	height: 32px;
 }
 
 
