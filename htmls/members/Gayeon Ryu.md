@@ -22,7 +22,7 @@ member:
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
-    - Lee J, Kwon O, Ryu G, shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
+    - Lee J, Kwon O, Ryu G, Shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
     ## Conference
     
     4.  Gayeon Ryu, Ye Eun Choi, Hangsik Shin, "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation", The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Seoul, Korea (Nov. 2024)
@@ -59,6 +59,14 @@ member:
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     <!-- 8cd9638b-94ac-4ee4-9283-6266d38535cb -->
     - Jin J, Ryu G, Sim J, Shin H. PubMedBERT-Based Terminology Mapping for Surgical Procedure Types. The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering. 2025 Dec 21-23; Tokyo, Japan; 2025.
+    <!-- b928a941-79da-4486-b9f0-02b3b6e86c9a -->
+    - 석현석, 이건, 류가연, 신항식. 광용적맥파 기반 정신적 피로 평가 가능성 연구. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- f465d274-a2ed-447b-a17c-e9f8ade4cda7 -->
+    - 류가연, 최예은, 신항식. 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향. 2024년도 제 64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- 17bf2ac9-95d2-4b28-af8b-f9b5bab02212 -->
+    - 류가연, 석현석, 최병문, 최재문, 신항식. 광용적맥파 기반 수술후 통증 중증도 평가지표 분석. 2024년 제63회 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 강원도 원주 연세대학교 미래캠퍼스 컨버전스홀; 2024.
+    <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
+    - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
     ## Award
     
     1.  대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상, 대한의용생체공학회, Korea (Nov. 2024)
@@ -75,6 +83,8 @@ member:
     
     1.  신항식ㆍ최병문 ㆍ 최재문ㆍ류가연, "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로 그램이 저장된 기록 매체", KR-Application No. 10-2024-0053680
     
+    <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
+    - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.
     ## Project
     
     1.  Development and Commercialization of Next Generation Convergence Care Technology for Optimization of High Risk Patient Treatment, Ministry of Health and Welfare (MOHW), Korea (Jul. 2020 ~ Present)

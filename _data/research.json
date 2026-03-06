@@ -853,14 +853,14 @@
     "_id": "82ec6856-c7ef-48cf-96fd-ee7c75488036",
     "level": "level1",
     "title": "Biosignal Clinical Data Intelligence",
-    "icon_image": "icon_image-1771911499486-902453846.png",
+    "icon_image": "icon_image-1772166440297-531523264.png",
     "main_banner_image": "main_banner_image-1771911499486-547118925.png",
     "main_banner_description": "Biosignals and complex clinical data are converted into robust, interpretable intelligence that models and clinicians can trust.",
     "parent_id": "",
     "description_text": "",
     "order": 1,
     "created_at": "2026-02-24T05:38:19.648Z",
-    "updated_at": "2026-02-25T00:55:55.968Z",
+    "updated_at": "2026-02-27T04:27:20.301Z",
     "__v": 0,
     "children": [
       {

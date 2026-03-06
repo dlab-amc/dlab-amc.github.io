@@ -24,6 +24,14 @@ member:
     - Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GWASbased Atrial Fibrillation Identification Using DCNN," KOSOMBE autumn conference 2022, Paradise city Hotel, Incheon, Republic of Korea, 3-5 Nov 2022
     - Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GenomeWide Association Studies and Electronic Medical Record based Atrial Fibrillation Discriminat ion Using Ensemble Models," Conference on Information and Control Systems 2022(CICS), Alpensia Resort, Pyeongchang, Republic of Korea, 19-22 Oct 2022
     
+    <!-- 6131572d-f63a-4a5c-b2c5-9c3f82d68059 -->
+    - 이재형, 권오석, 박희남, 신항식. 다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
+    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
+    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
     ## **Award**
     
     1. Best Poster Awards, 2022 AMIST Annual Conference, 2022
@@ -48,4 +56,14 @@ member:
     ## Patent
     <!-- f691c0c4-7803-4650-8cd1-1c53f0ea5cb3 -->
     - 이재형, 신항식, 임하민, 왕창원. 인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램. KR 10-2025-0154643, 2025. 10. 23.
+    
+    <!-- f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7 -->
+    - 이재형, 신항식, 임하민, 왕창원. 블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법. KR 10-2024-0201045, 2024. 12. 30.
+    ## Journal
+    <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
+    - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- a88dd95e-adb0-46cb-a2ae-ab50f1b56c45 -->
+    - Lee J, Kwon O, Ryu G, Shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
+    <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
+    - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
 --- 

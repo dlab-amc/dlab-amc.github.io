@@ -17,6 +17,8 @@ member:
     
     <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
     - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
+    <!-- 841b7d8e-34dc-46ee-b032-b8a8cdd56a9b -->
+    - You J, Seok HS, Kim S, Shin H. Advancing laboratory medicine practice with machine learning: swift yet exact. Annals of Laboratory Medicine. 2024 Nov; 45(1):22-35; IF:4@2023JIF; RS-2024-00335644, 2024IP0001.
     ## Conference
     
     - Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.
@@ -35,6 +37,14 @@ member:
     - 유지원, 김솔잎, 신항식. LLM 기반 임상화학검사 재검사 판정 시스템. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     
     
+    <!-- bf623bcc-ddfb-48e7-a65d-18dd48f3cf7b -->
+    - 유지원, 신항식. 대규모 언어 모델의 건강 데이터 해석 능력: 다단계 평가 항목을 중심으로. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    <!-- 0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9 -->
+    - 유지원, 신항식. 대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
+    - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
+    <!-- cfc8007b-d815-49b8-bfea-f66cf26e3dcc -->
+    - 유지원, 김솔잎, 이우창, 전사일, 신항식. 대학병원 임상화학검사에서 보고된 오류 유형과 빈도. 대한의료정보학회. 2024. 6. 19-21; 가톨릭대학교 성의교정; 2024.
     ## Award
     
     1. 2025 대한의용생체공학회 추계학술대회 우수포스터상, 대한의용생체공학회, 2025.11 (논문명: LLM 기반 임상화학검사 결과보고서 자동 생성)
