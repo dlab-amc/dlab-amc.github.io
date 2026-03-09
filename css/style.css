@@ -2149,7 +2149,7 @@ a.paperclick:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #1c2021;
+  color: #445353;
   padding: 10px;
   border: 1px solid rgba(201, 188, 206, 0.15);
   border-radius: 10px;
@@ -2190,6 +2190,8 @@ a.paperclick:hover {
 .nav-link_re img {
   width: 46px;
   height: 46px;
+  /* 비활성 탭 아이콘 색상을 폰트와 맞춤 (어두운 톤) */
+  filter: brightness(0) saturate(100%) invert(25%) sepia(12%) saturate(1000%) hue-rotate(152deg) brightness(85%) contrast(95%);
 }
 
 .nav-link_re span {
