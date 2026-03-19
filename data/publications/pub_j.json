@@ -37407,7 +37407,7 @@
     "IF": 4.6,
     "JIF": 2024,
     "acknowledgements": "RS-2024-00335644; 2025IP0016",
-    "contents": "You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.",
+    "contents": "You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; 33(3):732–742; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.",
     "state": "complete",
     "link": "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf230/8419921?login=true",
     "authors": [
@@ -38168,7 +38168,13 @@
         "updated_at": "2026-01-02T06:45:49.057Z"
       }
     ],
-    "__v": 0
+    "__v": 0,
+    "isResearchVisible": true,
+    "issue": 3,
+    "page": "732–742",
+    "volume": 33,
+    "researchCategoryLevel1": "f093a061-b2e8-41ab-994e-7ad2eaf87e22",
+    "researchCategoryLevel2": "dac4e49b-2413-4cce-ac43-8096851b6c24"
   },
   {
     "_id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
