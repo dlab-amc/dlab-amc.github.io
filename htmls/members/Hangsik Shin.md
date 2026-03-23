@@ -263,7 +263,7 @@ member:
     - Shin H. From radial to aortic pressure: In silico data-driven estimation using an autoencoder. Biomedical Signal Processing and Control. 2026 Feb; IF:4.9@2024JIF; RS-2023-00215716, RS-2022-00141473, 2024IP0021.
     
     <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
-    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
+    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; 33(3):732–742; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- 6bca2b12-4451-4f75-9b60-106e908def25 -->
@@ -336,6 +336,8 @@ member:
     - Elgendi M, Haugg F, Fletcher RR, Allen J, Shin H, Alian A, Menon C. Recommendations for evaluating photoplethysmography-based algorithms for blood pressure assessment. Communications Medicine. 2024 Jul; 4(1):140; IF:5.8@2023JIF.
     <!-- 88ab8925-715b-4300-9776-8b4240d4a652 -->
     - 임하민, 신항식. 가속도 센서 기반 일상생활 활동 군집 특징 분석. 전기학회논문지(Domestic) 특집호. 2023 11; HI22C1668, HR20C0026.
+    <!-- aa9ed85d-9d96-49ab-9897-a99041cc0389 -->
+    - Wang C, Elgendi M, Shin H. Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation. Scientific Reports. 2026 Mar; IF:4.3@2024JIF; RS-2022-00141473, HR20C0026, RS-2023-00255005.
     ## Conference
     <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
     - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.

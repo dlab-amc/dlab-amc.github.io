@@ -16,7 +16,7 @@ member:
     - Jiwon You, Hyeon Seok Seok, Sollip Kim and Hangsik Shin. "Advancing Laboratory Medicine Practice with Machine Learning: Swift yet Exact" Annals of Laboratory Medicine, 45(1), 22-35, 2025.
     
     <!-- 7766f561-9076-4a25-bfc5-c9a5af6c0b3e -->
-    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
+    - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; 33(3):732–742; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
     <!-- 841b7d8e-34dc-46ee-b032-b8a8cdd56a9b -->
     - You J, Seok HS, Kim S, Shin H. Advancing laboratory medicine practice with machine learning: swift yet exact. Annals of Laboratory Medicine. 2024 Nov; 45(1):22-35; IF:4@2023JIF; RS-2024-00335644, 2024IP0001.
     ## Conference
