@@ -4,6 +4,7 @@ title: "JAMIA 논문 게재 [New paper published]"
 date: 2026-01-11 00:00:00
 featured-img: '/images/posts/202601/thumbnail_image-1768262082143-393436580.png'
 short-content: "유지원 연구원 논문 게재"
+views: 0
 comments: true
 ---
 
