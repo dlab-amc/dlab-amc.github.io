@@ -15,4 +15,4 @@ JAMIA 의 IF(Impact Factor)는 4.6입니다.
 
 논문 게재를 축하드립니다🥳🎉
 
-![](/images/posts/202601/74c6034b-f03b-48b6-82fb-6ad745eb1fbf.png)
+![]({{ '/images/posts/202601/74c6034b-f03b-48b6-82fb-6ad745eb1fbf.png' | relative_url }})

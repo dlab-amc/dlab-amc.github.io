@@ -13,5 +13,5 @@ comments: true
 
 진재욱 학생 (박사과정)이 "PubMedBERT-Based Terminology Mapping for Surgical Procedure Types”라는 주제로 구연 발표하였습니다 🤓📝!
 
-![](/images/posts/202512/7482bbc0-3447-4f8a-bc1e-df69565406d2.jpeg)
+![]({{ '/images/posts/202512/7482bbc0-3447-4f8a-bc1e-df69565406d2.jpeg' | relative_url }})
 
