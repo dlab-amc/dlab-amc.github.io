@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "학술대회  [Academic Conference ]"
+title: "학술대회 [Academic Conference]"
 date: 2026-05-09 00:00:00
+permalink: /2026/05/09/academic-conference-dc6fa1.html
 featured-img: '/images/posts/202605/thumbnail_image-1778647438220-56741399.png'
 short-content: "2026 ILTS Congress 참석"
 views: 0

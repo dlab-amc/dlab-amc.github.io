@@ -2,6 +2,7 @@
 layout: post
 title: "학술대회 [Academic Conference]"
 date: 2026-05-09 00:00:00
+permalink: /2026/05/09/academic-conference-dc6ed9.html
 featured-img: '/images/posts/202605/thumbnail_image-1778546902007-120072238.png'
 short-content: "2026 대한의용생체공학회 춘계학술대회 참석"
 views: 0
