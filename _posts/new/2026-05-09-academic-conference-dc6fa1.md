@@ -9,9 +9,9 @@ views: 0
 comments: true
 ---
 
-5월 6일부터 9일까지 스위스 제네바에서 열린 2026 ILTS Congress에 참석하였습니다.
+5월 6일부터 9일까지 스위스 제네바에서 열린 2026 ILTS Congress에 참석하였습니다. 
 
-한유진 학생 (석사과정)이 “Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation” 주제로 e포스터 발표를 하였습니다 🤓📝!
+한유진 학생 (석사과정)이 “Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation” 주제로 e포스터 발표를 하였습니다 🤓📝! 
 
 <p align="center">
 <img src="http://172.25.83.169:8000/uploads/editor/263c6589-de63-4211-a3ad-8cf45a93f10c.jpg" width="45%">
