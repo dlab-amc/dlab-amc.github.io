@@ -17,15 +17,17 @@ jobs:
         run: |
           unzip -o data/news/news.zip -d temp_news
 
-      # ZIP에는 항상 전체 .md가 들어 있음 → 기존 글 삭제·갱신 반영
-      - name: Clear old news markdown files
-        run: |
-          rm -rf _posts/new/*
-
-      - name: Move markdown files to _posts/new/
+      - name: Deploy markdown files
         run: |
           mkdir -p _posts/new
-          mv -f temp_news/_posts/new/*.md _posts/new/ || true
+          if [ -f temp_news/partial-deploy.json ]; then
+            echo "Partial deploy — merge markdown (keep existing posts)"
+            cp -f temp_news/_posts/new/*.md _posts/new/ 2>/dev/null || true
+          else
+            echo "Full deploy — replace all news markdown"
+            rm -rf _posts/new/*
+            mv -f temp_news/_posts/new/*.md _posts/new/ || true
+          fi
 
       # ZIP에 없는 이미지는 레포에 그대로 유지 (신규·수정분만 temp에 포함)
       - name: Move image files preserving folder structure
