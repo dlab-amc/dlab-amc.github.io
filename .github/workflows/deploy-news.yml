@@ -1,3 +1,4 @@
+# news.zip: 마크다운은 전체 교체, 이미지는 ZIP에 포함된 변경분만 rsync 병합
 name: Deploy News
 
 on:
@@ -16,6 +17,7 @@ jobs:
         run: |
           unzip -o data/news/news.zip -d temp_news
 
+      # ZIP에는 항상 전체 .md가 들어 있음 → 기존 글 삭제·갱신 반영
       - name: Clear old news markdown files
         run: |
           rm -rf _posts/new/*
@@ -25,13 +27,14 @@ jobs:
           mkdir -p _posts/new
           mv -f temp_news/_posts/new/*.md _posts/new/ || true
 
+      # ZIP에 없는 이미지는 레포에 그대로 유지 (신규·수정분만 temp에 포함)
       - name: Move image files preserving folder structure
         run: |
           if [ -d "temp_news/images/posts" ]; then
             mkdir -p images/posts
             rsync -a temp_news/images/posts/ images/posts/
           else
-            echo "⚠️ No image directory found. Skipping image sync."
+            echo "ℹ️ No new/changed images in zip. Markdown-only deploy."
           fi
 
       - name: Commit and Push
