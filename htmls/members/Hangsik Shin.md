@@ -60,6 +60,12 @@ member:
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 우수논문상, 대한전기학회
     <!-- 08ca5407-b74a-405a-8314-43f496d08c68 -->
     - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-12-12, RS-2024-00423853; RS-2022-00141473, [object Object],[object Object], 우수논문상, 한국수력원자력(주)
+    <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 (Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
+    <!-- 90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4 -->
+    - 유지원; 정성연; 최유나; 김솔잎; 신항식(Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin), 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가(Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests), Domestic, 2026-05-09, RS-2024-00335644; 2025IP0002, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
+    <!-- 34089715-f049-42ae-a9da-1225439e002a -->
+    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, [object Object],[object Object],[object Object],[object Object],[object Object],[object Object], 최우수논문상, 대한의용생체공학회
     ## **Journal**
     
     - Shin H. Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy. Computers in Biology and Medicine. 2024 Jul; 180(108952):; IF:7@2023JIF; HI22C1668, RS-2023-00215716.
@@ -439,4 +445,28 @@ member:
     - Choi Y, Seok HS, Shin H, Lee S, Yu J, Kim S, Lee W, Chun S. Applying Machine Learning for Result Verification: Analysis of Five Tumor Markers. Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation. 2024 Mar 20-22; The-K Hotel, Seoul, Korea; 2024.
     <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
     - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
+    <!-- 6f180265-2c3c-4b38-a172-38af22a4c516 -->
+    - 정성연, 유지원, 최유나, 김솔잎, 신항식. 귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 92bae902-8be2-4c2d-9da6-5dc1164f9ba9 -->
+    - 김민소, 이건, 최예은, 이우형, 홍광표, 신항식. 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 16c444f7-bf32-4cfa-b971-e9dd9ab1b633 -->
+    - 이건, 김민소, 최예은, 이우형, 홍광표, 신항식. 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 0bd7ed03-073b-4f54-8e3c-efbead217078 -->
+    - 한유진, 류가연, 김영돈, 신항식. 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 6757496c-84b9-4b4a-a3da-785e7e957188 -->
+    - 김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- eac5ba27-d43a-430f-81bf-49f7c6ab8d7c -->
+    - 남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 93d0f6a3-536d-46ce-a41d-c29557550ecb -->
+    - 류가연, 최예은, 신항식. 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 537dc980-c7f7-4b4b-a328-1f984c75a46c -->
+    - 김민소, 유지원, 최유나, 유신애, 박근열, 김솔잎, 신항식. 임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 03005087-f876-4af0-bd37-91cd199cbca5 -->
+    - 김민소, 신항식. 임상화학검사 수치 해석을 위한 규칙기반 엔진과 LLM 시너지 전략. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 65be53c6-9dd4-438b-91aa-03e3d8030132 -->
+    - 유지원, 정성연, 최유나, 김솔잎, 신항식. 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 948579a2-5419-4714-a232-4ac161d42c63 -->
+    - Han Y, Shin H, Won D, Yoon Y. Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation. 2026 ILTS Congress. 2026 May 6-9; GENEVA, SWITZERLAND; 2026.
 --- 

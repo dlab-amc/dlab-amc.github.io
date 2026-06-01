@@ -51,6 +51,12 @@ member:
     - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
     - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
+    <!-- 92bae902-8be2-4c2d-9da6-5dc1164f9ba9 -->
+    - 김민소, 이건, 최예은, 이우형, 홍광표, 신항식. 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 16c444f7-bf32-4cfa-b971-e9dd9ab1b633 -->
+    - 이건, 김민소, 최예은, 이우형, 홍광표, 신항식. 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 93d0f6a3-536d-46ce-a41d-c29557550ecb -->
+    - 류가연, 최예은, 신항식. 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     ## Award
     
     1. 2022 데이터 청년 캠퍼스 ‘우수 프로젝트 발표’ 장려상, 한국데이터산업진흥원(Korea Data Agency), Korea (Sep 2022)
@@ -59,6 +65,8 @@ member:
     
     <!-- bdcfb609-561b-4759-a4ab-b2131804f634 -->
     - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
+    <!-- 34089715-f049-42ae-a9da-1225439e002a -->
+    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, [object Object],[object Object],[object Object],[object Object],[object Object],[object Object], 최우수논문상, 대한의용생체공학회
     ## Project
     
     1. Development, Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram and Clinical Information Based on Artificial Intelligence, Ministry of Health and Wellfare (MOHW), Korea (Apr 2021 - Dec 2023)

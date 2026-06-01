@@ -40,12 +40,20 @@ member:
     - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
     - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
+    <!-- 0bd7ed03-073b-4f54-8e3c-efbead217078 -->
+    - 한유진, 류가연, 김영돈, 신항식. 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 6757496c-84b9-4b4a-a3da-785e7e957188 -->
+    - 김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 948579a2-5419-4714-a232-4ac161d42c63 -->
+    - Han Y, Shin H, Won D, Yoon Y. Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation. 2026 ILTS Congress. 2026 May 6-9; GENEVA, SWITZERLAND; 2026.
     ## Award
     
     1.  대한의용생체공학회 춘계 학술대회 최우수 포스터상, 대한의용생체공학회, 2025.05
     2.  대한의용생체공학회 추계 학술대회 우수 포스터 논문상(금상), 대한의용생체공학회, 2024.11
     3.  2023 이브와 ICT멘토링 공모전 금상(과학기술정보통신부장관상), 과학기술정보통신부(주최), 정보통신기획평가원(주관), IT여성기업인협회(주관), 2023.12
     
+    <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 (Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
     ## Patent
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
     - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.

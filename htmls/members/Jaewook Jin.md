@@ -36,4 +36,6 @@ member:
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     <!-- 8cd9638b-94ac-4ee4-9283-6266d38535cb -->
     - Jin J, Ryu G, Sim J, Shin H. PubMedBERT-Based Terminology Mapping for Surgical Procedure Types. The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering. 2025 Dec 21-23; Tokyo, Japan; 2025.
+    <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
 --- 
