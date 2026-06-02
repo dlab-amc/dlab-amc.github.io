@@ -14,8 +14,7 @@ member:
     ## Journal
     
     1.  Gayeon Ryu,Jae Moon Choi,Hyeon Seok Seok,Jaehyung Lee,Eun-Kyung Lee,Hangsik Shin,Byung-Moon Choi, "Machine learning based quantitative pain assessment for the perioperative period", NPJ DIGITAL MEDICINE (2025)
-    2.  Gayeon Ryu, Jae Moon Choi, Jaehyung Lee, Hyeon Seok Seok, Hangsik Shin, Byung-Moon Choi, "Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers", JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY (2024)
-    3.  Jaehyung Lee, Oh-Seok Kwon, Gayeon Ryu, Hangsik Shin, Hui-Nam Pak, "Atrial Fibrillation Identification Using CNNs Based on Genomic Data", JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY (2024)
+    
     
     <!-- 6d8b5817-2a7b-4507-9d7f-21de5560f5a4 -->
     - Ryu G, Choi JM, Lee J, Seok HS, Shin H, Choi B. Analysis of Photoplethysmography-Based Surgical Pain Severity Assessment Markers. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3665-3674; IF:1.6@2023JIF; 2021-0100, KCT0005840.
@@ -67,6 +66,14 @@ member:
     - 류가연, 석현석, 최병문, 최재문, 신항식. 광용적맥파 기반 수술후 통증 중증도 평가지표 분석. 2024년 제63회 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 강원도 원주 연세대학교 미래캠퍼스 컨버전스홀; 2024.
     <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
     - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
+    <!-- 0bd7ed03-073b-4f54-8e3c-efbead217078 -->
+    - 한유진, 류가연, 김영돈, 신항식. 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 6757496c-84b9-4b4a-a3da-785e7e957188 -->
+    - 김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 93d0f6a3-536d-46ce-a41d-c29557550ecb -->
+    - 류가연, 최예은, 신항식. 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     ## Award
     
     1.  대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상, 대한의용생체공학회, Korea (Nov. 2024)
@@ -76,13 +83,12 @@ member:
     5.  Paper of the Year Award, AMIST 종합학술대회, Korea (Nov. 2022)
     
     <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
-    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 최우수포스터상, 대한의용생체공학회
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, 최우수포스터상, 대한의용생체공학회
     <!-- f2b46502-eba0-4b55-b98d-1b1f088f9869 -->
-    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 우수논문상, 대한전기학회
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, 우수논문상, 대한전기학회
+    <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     ## Patent
-    
-    1.  신항식ㆍ최병문 ㆍ 최재문ㆍ류가연, "통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로 그램이 저장된 기록 매체", KR-Application No. 10-2024-0053680
-    
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
     - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.
     ## Project
