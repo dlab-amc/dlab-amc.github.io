@@ -49,6 +49,8 @@ member:
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
     - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     
+    <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
+    - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
     ## Conference
     
     <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->

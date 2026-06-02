@@ -89,6 +89,14 @@ member:
     
     5.  Young Investigator Award, Korean Institute of Intelligent Systems (KIIS)
     
+    <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
+    <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
+    - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
+    <!-- d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2 -->
+    - 남윤찬; 강주현; 이연진; 김희영; 신항식(Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin), 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현(Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
+    <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
+    - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
     ## **Journal**
     
     - Yoon SW, Shin H, Min SD, Lee M. Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor. IEICE Electronics Express. 2007 May; 4(10):312-318; IF:0.436@2005JIF.
@@ -722,7 +730,6 @@ member:
     
     <!-- eac5ba27-d43a-430f-81bf-49f7c6ab8d7c -->
     - 남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
-    
     <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     

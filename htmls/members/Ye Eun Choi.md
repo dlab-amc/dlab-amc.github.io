@@ -98,6 +98,10 @@ member:
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
     - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
     
+    <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
+    <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
+    - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
     ## Project
     
     1. Development, Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram and Clinical Information Based on Artificial Intelligence, Ministry of Health and Wellfare (MOHW), Korea (Apr 2021 - Dec 2023)

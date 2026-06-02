@@ -128,6 +128,10 @@ member:
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
     - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     
+    <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
+    <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
+    - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
     ## Patent
     
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
