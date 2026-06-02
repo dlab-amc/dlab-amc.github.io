@@ -85,9 +85,9 @@ member:
     <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, 최우수포스터상, 대한의용생체공학회
     <!-- f2b46502-eba0-4b55-b98d-1b1f088f9869 -->
-    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 우수논문상, 대한전기학회
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, 우수논문상, 대한전기학회
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
-    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 (Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     ## Patent
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
     - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.

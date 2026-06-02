@@ -51,21 +51,21 @@ member:
     6. 진재욱, 신항식, 2025 KIEE Summer Conference Paper Award, "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal"; RS-2024-00423853;RS-2022-00141473, 2025-07-18
     
     <!-- bdcfb609-561b-4759-a4ab-b2131804f634 -->
-    - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, [object Object],[object Object], 우수논문상, 대한의용생체공학회
+    - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
     <!-- 34dc931e-4d40-4ecd-be98-ec618d6339d4 -->
-    - 정성연; 유지원; 신항식(Sungyeon Chung; Jiwon You; Hangsik Shin), LLM 기반 임상화학검사 결과보고서 자동 생성(Clinical Chemistry Report Generation with a Large Language Model), Domestic, 2025-11-08, 2025IP0002; 2024IP0025; RS-2024-00335644, [object Object],[object Object],[object Object], 우수포스터상, 대한의용생체공학회
+    - 정성연; 유지원; 신항식(Sungyeon Chung; Jiwon You; Hangsik Shin), LLM 기반 임상화학검사 결과보고서 자동 생성(Clinical Chemistry Report Generation with a Large Language Model), Domestic, 2025-11-08, 2025IP0002; 2024IP0025; RS-2024-00335644, 우수포스터상, 대한의용생체공학회
     <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
-    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 최우수포스터상, 대한의용생체공학회
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, 최우수포스터상, 대한의용생체공학회
     <!-- f2b46502-eba0-4b55-b98d-1b1f088f9869 -->
-    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, [object Object],[object Object],[object Object],[object Object], 우수논문상, 대한전기학회
+    - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, 우수논문상, 대한전기학회
     <!-- 08ca5407-b74a-405a-8314-43f496d08c68 -->
-    - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-12-12, RS-2024-00423853; RS-2022-00141473, [object Object],[object Object], 우수논문상, 한국수력원자력(주)
+    - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-12-12, RS-2024-00423853; RS-2022-00141473, 우수논문상, 한국수력원자력(주)
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
-    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 (Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     <!-- 90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4 -->
-    - 유지원; 정성연; 최유나; 김솔잎; 신항식(Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin), 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가(Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests), Domestic, 2026-05-09, RS-2024-00335644; 2025IP0002, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
+    - 유지원; 정성연; 최유나; 김솔잎; 신항식(Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin), 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가(Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests), Domestic, 2026-05-09, RS-2024-00335644; 2025IP0002, 우수논문상, 대한의용생체공학회
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
-    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, [object Object],[object Object],[object Object],[object Object],[object Object],[object Object], 최우수논문상, 대한의용생체공학회
+    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
     ## **Journal**
     
     - Shin H. Signal completion using generative adversarial networks for enhanced photoplethysmography measurement accuracy. Computers in Biology and Medicine. 2024 Jul; 180(108952):; IF:7@2023JIF; HI22C1668, RS-2023-00215716.

@@ -53,7 +53,7 @@ member:
     3.  2023 이브와 ICT멘토링 공모전 금상(과학기술정보통신부장관상), 과학기술정보통신부(주최), 정보통신기획평가원(주관), IT여성기업인협회(주관), 2023.12
     
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
-    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 (Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, [object Object],[object Object],[object Object],[object Object],[object Object], 우수논문상, 대한의용생체공학회
+    - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
     ## Patent
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
     - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.

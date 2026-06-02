@@ -59,6 +59,10 @@ member:
     5. KCC2021 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2021.07 (논문명: 돌연변이 시그니처와 유전자 발현량의 시계열 연관 분석 프레임워크)
     
     
+    <!-- 90c8f0ea-c4de-499e-b7a8-7e265e2cc8d4 -->
+    - 유지원; 정성연; 최유나; 김솔잎; 신항식(Jiwon You; Sungyeon Chung; Yuna Choi; Sollip Kim; Hangsik Shin), 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가(Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests), Domestic, 2026-05-09, RS-2024-00335644; 2025IP0002, 우수논문상, 대한의용생체공학회
+    <!-- 34dc931e-4d40-4ecd-be98-ec618d6339d4 -->
+    - 정성연; 유지원; 신항식(Sungyeon Chung; Jiwon You; Hangsik Shin), LLM 기반 임상화학검사 결과보고서 자동 생성(Clinical Chemistry Report Generation with a Large Language Model), Domestic, 2025-11-08, 2025IP0002; 2024IP0025; RS-2024-00335644, 우수포스터상, 대한의용생체공학회
     ## Project
     
     1. 인공지능 기반 일반화학검사 수기 검증 Human Knowledge Transfer 모델 개발, 2025.01~

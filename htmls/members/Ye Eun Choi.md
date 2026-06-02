@@ -66,7 +66,7 @@ member:
     <!-- bdcfb609-561b-4759-a4ab-b2131804f634 -->
     - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
-    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, [object Object],[object Object],[object Object],[object Object],[object Object],[object Object], 최우수논문상, 대한의용생체공학회
+    - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
     ## Project
     
     1. Development, Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram and Clinical Information Based on Artificial Intelligence, Ministry of Health and Wellfare (MOHW), Korea (Apr 2021 - Dec 2023)
