@@ -131,8 +131,6 @@ member:
     - Shin H, Min SD. Feasibility study for the non-invasive blood pressure estimation based on ppg morphology: normotensive subject study. BioMedical Engineering Online. 2017 Jan; 16(1):10; IF:1.683@2015JIF; IITP-2016-H8601-16-1009, No. 20130599.
     - Seok HS, Yu S, Shin K, Lee W, Chun S, Kim S, Shin H. Machine learning-based sample misidentification error detection in clinical laboratory tests: A retrospective multicenter study. Clinical Chemistry. 2024 Aug; 70(10):1256-1267; IF:7.1@2023JIF; RA-2024-00423853, 2024IP0001.
     
-    ## **Conference**
-    (변경 없음)
     
     
     ## **Patent**
