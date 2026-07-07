@@ -117,16 +117,11 @@ member:
     <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
     - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
     
+    <!-- 6ef31ff6-7f4f-41e4-957c-210113d5a3ef -->
+    - 류가연(Gayeon Ryu), 2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장, Domestic, 2026-05-09, 표창장, 한국의료기기안전정보원장
     ## Patent
     
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
     - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.
     
-    ## Project
-    
-    2.  Research of Photoplethysmography for Mobile Healthcare and Clinical Use, Ministry of Education (MOE), Korea (Jun. 2018 ~ May. 2023)
-    
-    1.  Development and Commercialization of Next Generation Convergence Care Technology for Optimization of High Risk Patient Treatment, Ministry of Health and Welfare (MOHW), Korea (Jul. 2020 ~ Present)
-    
-    3.  Development of a Wearable Device That Shows Pain Relief Using Complex Energy (Cold Razor + Ultrasound) and Pain Relief Using Photoplethysmography, Ministry of SMEs and Startups (MSS), Korea (Dec. 2020 ~ Dec. 2022)
 --- 

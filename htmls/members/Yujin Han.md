@@ -69,6 +69,8 @@ member:
     <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
     - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
     
+    <!-- 67a24a4a-f86d-4be9-82d7-b72d2d740b4c -->
+    - 한유진(Yujin Han), 2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장, Domestic, 2026-05-09, 표창장, 한국의료기기안전정보원장
     ## Patent
     
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
