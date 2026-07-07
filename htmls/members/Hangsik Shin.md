@@ -79,6 +79,18 @@ member:
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
     - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
     
+    <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
+    
+    <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
+    - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
+    
+    <!-- d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2 -->
+    - 남윤찬; 강주현; 이연진; 김희영; 신항식(Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin), 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현(Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
+    
+    <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
+    - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
+    
     1.  Best Editor Awards, Journal of Electrical Engineering & Technology
     
     2.  KIEE-Scholar Award, The Korean Institute of Electrical Engineers (KIEE)
@@ -89,14 +101,6 @@ member:
     
     5.  Young Investigator Award, Korean Institute of Intelligent Systems (KIIS)
     
-    <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
-    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
-    <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
-    - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
-    <!-- d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2 -->
-    - 남윤찬; 강주현; 이연진; 김희영; 신항식(Yunchan Nam; Juhyeon Kang; Yeonjin Lee; Heeyoung Kim; Hangsik Shin), 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현(Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
-    <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
-    - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
     ## **Journal**
     
     - Yoon SW, Shin H, Min SD, Lee M. Adaptive motion artifacts reduction algorithm for ECG signal in textile wearable sensor. IEICE Electronics Express. 2007 May; 4(10):312-318; IF:0.436@2005JIF.
@@ -229,27 +233,27 @@ member:
     
     - Ko J, Shin H, Park S. Method and divice for excuting application. US 9,277,576 B2, 2016 Mar 1.
     
-    - Ko J, Shin H, Park S. Method and device for executing application. RU 2585168 C1, 2016 May 27.
-    
     - Cho J, Kim K, Kim J, Min J, Baek H, Shin H. Method and apparatus for measuring bio signal. US 15/163,073, 2016 May 24.
     
-    - Ko J, Shin H, Park S. Method and device for executing application. EP 2706726 B1, 2016 Oct 12.
+    - Ko J, Shin H, Park S. Method and device for executing application. RU 2585168 C1, 2016 May 27.
     
     - Cho J, Kim K, Kim J, Min J, Baek H, Shin H. Method and apparatus for measuring bio signal. EP 3075310 A1, 2016 Oct 5.
     
-    - Ko J, Shin H, Park S. Method and device for executing application. US 15/471,832, 2017 Mar 28.
+    - Ko J, Shin H, Park S. Method and device for executing application. EP 2706726 B1, 2016 Oct 12.
     
-    - Shin H, Ko J, Park S. Method and apparatus for executing an application in a device. EP 2706734 B1, 2017 Apr 26.
+    - Ko J, Shin H, Park S. Method and device for executing application. US 15/471,832, 2017 Mar 28.
     
     - Ko J, Shin H, Park S. Method and device for executing application. US 09,635,499 B2, 2017 Apr 25.
     
-    - Ko J, Shin H, Park S, Kim Y, Chun H, Jung J. System and method of controlling external apparatus connected with device. US 15/654,829, 2017 Jul 20.
+    - Shin H, Ko J, Park S. Method and apparatus for executing an application in a device. EP 2706734 B1, 2017 Apr 26.
     
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. AU 2013364704 B2, 2017 Jul 6.
     
-    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 09,740,470 B2, 2017 Aug 22.
+    - Ko J, Shin H, Park S, Kim Y, Chun H, Jung J. System and method of controlling external apparatus connected with device. US 15/654,829, 2017 Jul 20.
     
     - Ko J, Shin H, Park S, Kim Y, Chun H, Jung J. System and method of controlling external apparatus connected with device. US 09,722,811 B2, 2017 Aug 1.
+    
+    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 09,740,470 B2, 2017 Aug 22.
     
     - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. US 15/801,417, 2017 Nov 2.
     
@@ -263,35 +267,35 @@ member:
     
     - Ko J, Shin H, Park S. Connecting two devices. EP 3101869, 2018 Aug 1.
     
-    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 10,114,631 B2, 2018 Oct 30.
-    
     - Ko J, Shin H, Park S. Method of executing application and terminal using the method. CN 103677257 B, 2018 Oct 19.
+    
+    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 10,114,631 B2, 2018 Oct 30.
     
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. CN 103870402 B, 2019 Feb 1.
     
-    - Ko J, Shin H, Park S. Method and device for executing application. US 10,244,570 B2, 2019 Mar 26.
-    
     - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. CN 104620597 B, 2019 Mar 8.
+    
+    - Ko J, Shin H, Park S. Method and device for executing application. US 10,244,570 B2, 2019 Mar 26.
     
     - Cho J, Kim K, Kim J, Min J, Baek H, Shin H. Method and apparatus for measuring bio signal. US 10,251,607 B2, 2019 Apr 9.
     
+    - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. US 16/535,748, 2019 Aug 8.
+    
     - Ko J, Shin H, Park S. Method and device for executing application. US 16/546,073, 2019 Aug 20.
     
-    - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. US 16/535,748, 2019 Aug 8.
+    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 16/654,266, 2019 Oct 16.
     
     - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. US 10,460,597 B2, 2019 Oct 29.
     
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 10,459,712 B2, 2019 Oct 29.
     
-    - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 16/654,266, 2019 Oct 16.
+    - Cho J, Kim K, Kim J, Min J, Baek H, Shin H. Method and apparatus for measuring bio signal. CN 105764414 B, 2019 Nov 15.
     
     - Ko J, Shin H, Park S. Method and device for executing application. US 10,485,041 B1, 2019 Nov 19.
     
-    - Cho J, Kim K, Kim J, Min J, Baek H, Shin H. Method and apparatus for measuring bio signal. CN 105764414 B, 2019 Nov 15.
+    - Ko J, Shin H, Park S, Kim D. Electronic apparatus and method of outputting content by the electronic apparatus. US 16/730,078, 2019 Dec 30.
     
     - Ko J, Shin H, Park S, Kim D. Electronic apparatus and method of outputting content by the electronic apparatus. US 10,524,100 B2, 2019 Dec 31.
-    
-    - Ko J, Shin H, Park S, Kim D. Electronic apparatus and method of outputting content by the electronic apparatus. US 16/730,078, 2019 Dec 30.
     
     - Ko J, Shin H, Park S, Kim Y, Chun H, Jung J. System and method of controlling external apparatus connected with device. US 10,567,189 B2, 2020 Feb 18.
     
@@ -303,9 +307,9 @@ member:
     
     - Shin H, Ko J, Park S. System and method of controlling external apparatus connected with device. US 10,847,024 B2, 2020 Nov 24.
     
-    - Shin H, Park J, Rho D, Choi Y, Kim D, Choi A. Wearable blood pressure measurement device comprising multi-array pressure sensor. PCT 2021/001864, 2021 Feb 15.
-    
     - Shin H, Kwon D. Portable wearable respiratory monitoring unit and mask comprising the same. PCT 2021/001632, 2021 Feb 8.
+    
+    - Shin H, Park J, Rho D, Choi Y, Kim D, Choi A. Wearable blood pressure measurement device comprising multi-array pressure sensor. PCT 2021/001864, 2021 Feb 15.
     
     - Shin H, Kwon D. Waistband-type wearable electrocardiogram measurement apparatus, and method and apparatus for measuring heartbeat using same. PCT 2021/002702, 2021 Mar 4.
     
@@ -313,9 +317,9 @@ member:
     
     - Ko J, Shin H, Park S, Kim Y, Chun H, Jung J. System and method of controlling external apparatus connected with device. US 10,991,462 B2, 2021 Apr 27.
     
-    - Ko J, Shin H, Park S, Kim D. Electronic apparatus and method of outputting content by the electronic apparatus. US 11,051,147 B2, 2021 Jun 29.
-    
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 17342860, 2021 Jun 9.
+    
+    - Ko J, Shin H, Park S, Kim D. Electronic apparatus and method of outputting content by the electronic apparatus. US 11,051,147 B2, 2021 Jun 29.
     
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 11,056,234 B2, 2021 Jul 6.
     
@@ -330,9 +334,6 @@ member:
     - Shin H. Method of managing external devices, method of operating external device, host device, management server, and external device. US 18/505,903, 2025 Mar 25.
     
     ## Patent
-    
-    <!-- 9894a82e-6c28-4113-a803-3064e7416304 -->
-    - 신항식, 이준석, 박수지. 상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법. KR 10-2199341, 2020. 12. 30.
     
     <!-- 75328e09-2b24-4923-a6d5-419d6d7053c6 -->
     - 신항식, 박수지. 필름형 다채널 압전 센서를 이용한 생체신호 측정 시스템. KR 10-2095356, 2020. 3. 25.
@@ -352,17 +353,8 @@ member:
     <!-- 8c017840-c738-43a1-8ad0-72a669d7fa9c -->
     - Shin H. A method and apparatus for estimating mean arterial pressure based on pressure and pulse wave. PCT 2020/012934, 2020 Sep 24.
     
-    <!-- 3eb391b0-6b48-4486-83bc-179300e01f6a -->
-    - 신항식, 박준영, 최용순, 정진. 공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치. KR 10-2021-0193739, 2021. 12. 31.
-    
-    <!-- e4a56844-65c7-4f83-b203-e9362104a8a8 -->
-    - 신항식. 광용적맥파의 품질 평가 방법 및 장치. KR 10-2021-0193461, 2021. 12. 30.
-    
-    <!-- fe8e7c61-da65-408b-a6a6-ac8ebcd4a82a -->
-    - 신항식, 박준영. 광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치. KR 10-2021-0193460, 2021. 12. 30.
-    
-    <!-- 4173ebdb-f818-486d-bfb6-bee33fc3e13f -->
-    - 신항식, 노규정, 최병문. 광용적맥파를 이용한 통증 분류 방법 및 장치. KR 10-2321653, 2021. 10. 29.
+    <!-- 9894a82e-6c28-4113-a803-3064e7416304 -->
+    - 신항식, 이준석, 박수지. 상태 분류기 생성 방법 및 이를 이용한 보행상태 판단 방법. KR 10-2199341, 2020. 12. 30.
     
     <!-- dfdea2b9-0376-4b00-a168-344daf816500 -->
     - 신항식, 권단비. 휴대용 웨어러블 호흡 모니터링 장치 및 이를 포함하는 마스크. KR 10-2021-0012631, 2021. 1. 28.
@@ -379,29 +371,17 @@ member:
     <!-- 3fa1e816-8085-43a5-bdf6-7afda40f4bf9 -->
     - 신항식, 박수지. 힘 센서에 기반하여 각성 및 호흡률을 검출하기 위한 방법 및 장치. KR 10-2221370, 2021. 2. 23.
     
-    <!-- e401d263-72e8-4304-a79d-d829488b7d8d -->
-    - 신항식, 왕창원, 이중선, 주성우, 임하민. 시설 내 대상자 모니터링 시스템. KR 10-2023-0197490, 2023. 12. 29.
+    <!-- 4173ebdb-f818-486d-bfb6-bee33fc3e13f -->
+    - 신항식, 노규정, 최병문. 광용적맥파를 이용한 통증 분류 방법 및 장치. KR 10-2321653, 2021. 10. 29.
     
-    <!-- fb68311e-5892-4acf-8beb-3903f421a8a0 -->
-    - 신항식. 이소성 박동 교정 프로그램. KR C-2023-060553, 2023. 12. 15.
+    <!-- e4a56844-65c7-4f83-b203-e9362104a8a8 -->
+    - 신항식. 광용적맥파의 품질 평가 방법 및 장치. KR 10-2021-0193461, 2021. 12. 30.
     
-    <!-- d9faa601-2a16-4028-bf71-11ab78b22a2e -->
-    - 신항식, 왕창원, 임하민. 심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션. KR C-2023-059443, 2023. 12. 13.
+    <!-- fe8e7c61-da65-408b-a6a6-ac8ebcd4a82a -->
+    - 신항식, 박준영. 광용적맥파의 입사파와 반사파를 사용한 혈관노화 평가 방법 및 장치. KR 10-2021-0193460, 2021. 12. 30.
     
-    <!-- 647f9bd0-aa84-41ba-a6c4-99eeb0554b61 -->
-    - 신항식, 왕창원, 임하민. 생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램. KR C-2023-059444, 2023. 12. 13.
-    
-    <!-- 8b8fb1d8-4152-49c6-b141-74e4f4dc7e55 -->
-    - 신항식, 왕창원, 임하민. 사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램. KR C-2023-059445, 2023. 12. 13.
-    
-    <!-- 7fece762-85cc-4c24-9624-c27843c785ef -->
-    - 신항식. 보간 위치 및 보간 샘플 수를 이용하여 심장 박동을 보간하는 전자 장치 및 이의 이소성 박동 교정 방법. KR 10-2023-0147182, 2023. 10. 30.
-    
-    <!-- 8a4d751d-b46f-47e2-afbe-5e52dda4b5ed -->
-    - 신항식. 대동맥 압력 파형을 추정하는 방법 및 장치. KR 10-2023-0145004, 2023. 10. 26.
-    
-    <!-- 3312af4f-0f30-450f-a561-5e27deb07417 -->
-    - 신항식. 준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치. KR 10-2023-0136907, 2023. 10. 13.
+    <!-- 3eb391b0-6b48-4486-83bc-179300e01f6a -->
+    - 신항식, 박준영, 최용순, 정진. 공기 진동 전달형 다중 배열 압력 센서 및 이를 포함하는 웨어러블 장치. KR 10-2021-0193739, 2021. 12. 31.
     
     <!-- a21dc4b9-d781-4382-b08e-add9fedaf479 -->
     - 신항식. 생리적 나이 추정 방법 및 장치. KR 10-2023-0007614, 2023. 1. 18.
@@ -421,23 +401,47 @@ member:
     <!-- 62eac829-8ba2-4a31-9cbd-7b4f5a15db39 -->
     - 신항식, 왕창원, 최아영, 방근호, 황정연, 류관곤. 심박수와 가속도 신호 저장 및 전송을 위한 서버 프로그램. KR C-2023-023409, 2023. 5. 25.
     
-    <!-- f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7 -->
-    - 이재형, 신항식, 임하민, 왕창원. 블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법. KR 10-2024-0201045, 2024. 12. 30.
+    <!-- 3312af4f-0f30-450f-a561-5e27deb07417 -->
+    - 신항식. 준주기적 생체 신호 파형을 복원하기 위한 파형 복원 모델 학습 방법 및 장치. KR 10-2023-0136907, 2023. 10. 13.
+    
+    <!-- 8a4d751d-b46f-47e2-afbe-5e52dda4b5ed -->
+    - 신항식. 대동맥 압력 파형을 추정하는 방법 및 장치. KR 10-2023-0145004, 2023. 10. 26.
+    
+    <!-- 7fece762-85cc-4c24-9624-c27843c785ef -->
+    - 신항식. 보간 위치 및 보간 샘플 수를 이용하여 심장 박동을 보간하는 전자 장치 및 이의 이소성 박동 교정 방법. KR 10-2023-0147182, 2023. 10. 30.
+    
+    <!-- d9faa601-2a16-4028-bf71-11ab78b22a2e -->
+    - 신항식, 왕창원, 임하민. 심박수, 가속도, 실내 위치 정보 측정을 위한 웨어러블 기기 어플리케이션. KR C-2023-059443, 2023. 12. 13.
+    
+    <!-- 647f9bd0-aa84-41ba-a6c4-99eeb0554b61 -->
+    - 신항식, 왕창원, 임하민. 생체정보 및 위치정보 수집, 사용자 위험 분석, 알람 제어를 위한 서버 프로그램. KR C-2023-059444, 2023. 12. 13.
+    
+    <!-- 8b8fb1d8-4152-49c6-b141-74e4f4dc7e55 -->
+    - 신항식, 왕창원, 임하민. 사용자 생체정보 및 위치정보 모니터링, 위험 알림을 위한 웹 응용프로그램. KR C-2023-059445, 2023. 12. 13.
+    
+    <!-- fb68311e-5892-4acf-8beb-3903f421a8a0 -->
+    - 신항식. 이소성 박동 교정 프로그램. KR C-2023-060553, 2023. 12. 15.
+    
+    <!-- e401d263-72e8-4304-a79d-d829488b7d8d -->
+    - 신항식, 왕창원, 이중선, 주성우, 임하민. 시설 내 대상자 모니터링 시스템. KR 10-2023-0197490, 2023. 12. 29.
     
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
     - 신항식, 최병문, 최재문, 류가연. 통증평가모델 생성 장치, 통증평가모델 생성 방법 및 이를 수행하는 프로그램이 저장된 기록 매체. KR 10-2024-0053680, 2024. 4. 22.
     
-    <!-- 988763c0-0777-4788-bb2f-a54b835a668d -->
-    - 임하민, 신항식. 건물 내 사용자의 실시간 위치 추정 장치 및 방법. KR 10-2025-0216531, 2025. 12. 31.
+    <!-- f6f4aaf9-2e48-49d7-8ee2-babcf0cb65b7 -->
+    - 이재형, 신항식, 임하민, 왕창원. 블루투스 기반 실내 위치 추정 정확도 향상을 위한 방법. KR 10-2024-0201045, 2024. 12. 30.
     
-    <!-- c6afaed1-66e1-4f24-96b3-3a3a323defbb -->
-    - 신항식, 주성우, 이중선, 한유진. 뇌 질환 진단 장치 및 방법. KR 10-2025-0157997, 2025. 10. 28.
+    <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
+    - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.
     
     <!-- f691c0c4-7803-4650-8cd1-1c53f0ea5cb3 -->
     - 이재형, 신항식, 임하민, 왕창원. 인공지능 보정 기반의 블루투스 위치 추정 방법, 장치 및 프로그램. KR 10-2025-0154643, 2025. 10. 23.
     
-    <!-- 44529fa4-e591-47bf-b088-15889379a27c -->
-    - 신항식, 한유진. 다기관에서 수집된 데이터를 전처리하는 장치 및 방법. KR 10-2025-0140516, 2025. 9. 26.
+    <!-- c6afaed1-66e1-4f24-96b3-3a3a323defbb -->
+    - 신항식, 주성우, 이중선, 한유진. 뇌 질환 진단 장치 및 방법. KR 10-2025-0157997, 2025. 10. 28.
+    
+    <!-- 988763c0-0777-4788-bb2f-a54b835a668d -->
+    - 임하민, 신항식. 건물 내 사용자의 실시간 위치 추정 장치 및 방법. KR 10-2025-0216531, 2025. 12. 31.
     
     ## Journal
     
@@ -563,33 +567,6 @@ member:
     <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
     - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
     
-    <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
-    - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
-    
-    <!-- 0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9 -->
-    - 유지원, 신항식. 대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
-    
-    <!-- 1e67b630-51dd-4fe6-8733-7b2b92cc7c37 -->
-    - 최예은, 신항식. 성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
-    
-    <!-- 238412a7-3471-4e8a-81e9-f1f105eef065 -->
-    - 최예은, 신항식. 성인 패혈증 환자 생존율 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
-    
-    <!-- f465d274-a2ed-447b-a17c-e9f8ade4cda7 -->
-    - 류가연, 최예은, 신항식. 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향. 2024년도 제 64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
-    
-    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
-    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
-    
-    <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
-    - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    
-    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
-    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    
-    <!-- ff93bf0b-1866-43d0-b881-67b5400e47f3 -->
-    - 왕창원, 신항식. Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교. 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    
     <!-- 53d88ac1-e3ae-40ec-8c89-34f588b29266 -->
     - Seok HS, Yu S, Shin K, Lee W, Kim S, Shin H. AI-based Approach for Detecting Sample Misidentification Errors in Alpha-fetoprotein with Multi-Center Validation. Cherry Blossom Symposium 2024 (CBS 2024) The 13th International Conference of Clinical Laboratory Automation. 2024 Mar 20-22; The-K Hotel, Seoul, Korea; 2024.
     
@@ -611,12 +588,6 @@ member:
     <!-- cacc67b5-67ad-4753-b680-051c11d0c02f -->
     - 왕창원, 임하민, 주성우, 이중선, 신항식. 폐쇄병동 환자 위치 모니터링 플랫폼 구축 사례. 2024 대한의료정보학회 춘계학술대회. 2024. 6. 19-21; 가톨릭대학교 성의교정, 서울, 대한민국; 2024.
     
-    <!-- 859d8bbf-e331-46e9-8de4-206c9f6291b6 -->
-    - Wang C, Shin H. Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
-    
-    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
-    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
-    
     <!-- bdba12ce-ab86-4285-8d84-180fd9189006 -->
     - 석현석, 유지원, 김솔잎, 신항식. 머신러닝을 사용한 진단검사 오류 감지. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제컨벤션센터(ICC제주); 2024.
     
@@ -629,35 +600,38 @@ member:
     <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
     - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
     
-    <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
-    - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 859d8bbf-e331-46e9-8de4-206c9f6291b6 -->
+    - Wang C, Shin H. Identify Pre-Frailty Among the Elderly Using Demographic, Physical Function, and Gait Data. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
     
-    <!-- 865070f8-0286-4855-9c26-f82829b67952 -->
-    - 유지원, 신항식. Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
     
-    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
-    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
+    - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     
-    <!-- 1b6c1fd8-e248-4317-aa24-a30e0e900b3f -->
-    - 최예은, 신항식. Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     
-    <!-- 2894dca4-39fd-49cc-a53f-ac43f94e66be -->
-    - 한유진, 신항식. Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- ff93bf0b-1866-43d0-b881-67b5400e47f3 -->
+    - 왕창원, 신항식. Positive and Negative Syndrome Scale 총점 및 K-means Clustering 기반 조현병 증상 중증도 평가방법 비교. 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     
-    <!-- 6f87124d-c4cc-44ad-a2ec-f3f99f170ef6 -->
-    - 이건, 신항식. 생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
+    - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
-    <!-- 3b6e71b3-7c19-4e21-8657-4f4a36e86f09 -->
-    - 김영돈, 신항식. 대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 0a3f5d13-1cc7-4cb3-8767-8f49665f1cf9 -->
+    - 유지원, 신항식. 대규모 언어 모델의 건강검진 결과 해석 능력: 가능성과 한계. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
-    <!-- 953bc51d-de68-43ee-a4a5-cc10a73d427a -->
-    - 정성연, 유지원, 신항식. LLM 기반 임상화학검사 결과보고서 자동 생성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 1e67b630-51dd-4fe6-8733-7b2b92cc7c37 -->
+    - 최예은, 신항식. 성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
     
-    <!-- 0f8ca978-e12a-49e6-be3a-8fc5cf7da97b -->
-    - 유지원, 김솔잎, 신항식. LLM 기반 임상화학검사 재검사 판정 시스템. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- 238412a7-3471-4e8a-81e9-f1f105eef065 -->
+    - 최예은, 신항식. 성인 패혈증 환자 생존율 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
     
-    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
-    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    <!-- f465d274-a2ed-447b-a17c-e9f8ade4cda7 -->
+    - 류가연, 최예은, 신항식. 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향. 2024년도 제 64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    
+    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
+    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
     <!-- bc9325f2-deac-4a51-9d2f-aaf8cade661b -->
     - 한유진, 신항식. 다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
@@ -707,6 +681,36 @@ member:
     <!-- 4f2e1e24-4da0-44dc-9d7b-b3de65087e47 -->
     - 진재욱, 신항식. 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발. 대한전기학회 제56회 하계학술대회. 2025. 7. 16-19; 부산 벡스코; 2025.
     
+    <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
+    - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    
+    <!-- 865070f8-0286-4855-9c26-f82829b67952 -->
+    - 유지원, 신항식. Instruction-tuning이 대규모 언어 모델의 건강검진 결과 해석에 미치는 영향. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    
+    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
+    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    
+    <!-- 1b6c1fd8-e248-4317-aa24-a30e0e900b3f -->
+    - 최예은, 신항식. Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 2894dca4-39fd-49cc-a53f-ac43f94e66be -->
+    - 한유진, 신항식. Cox를 넘어: 비선형 임상 변수 해석에서 드러난 인공지능 기반 생존분석의 가능성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 6f87124d-c4cc-44ad-a2ec-f3f99f170ef6 -->
+    - 이건, 신항식. 생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 3b6e71b3-7c19-4e21-8657-4f4a36e86f09 -->
+    - 김영돈, 신항식. 대규모 공개 수면다원검사(PSG) 데이터셋을 활용한 파운데이션 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 953bc51d-de68-43ee-a4a5-cc10a73d427a -->
+    - 정성연, 유지원, 신항식. LLM 기반 임상화학검사 결과보고서 자동 생성. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 0f8ca978-e12a-49e6-be3a-8fc5cf7da97b -->
+    - 유지원, 김솔잎, 신항식. LLM 기반 임상화학검사 재검사 판정 시스템. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
+    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
+    
     <!-- 8cd9638b-94ac-4ee4-9283-6266d38535cb -->
     - Jin J, Ryu G, Sim J, Shin H. PubMedBERT-Based Terminology Mapping for Surgical Procedure Types. The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering. 2025 Dec 21-23; Tokyo, Japan; 2025.
     
@@ -730,6 +734,7 @@ member:
     
     <!-- eac5ba27-d43a-430f-81bf-49f7c6ab8d7c -->
     - 남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    
     <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     

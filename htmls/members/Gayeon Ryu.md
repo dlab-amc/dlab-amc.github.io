@@ -22,7 +22,6 @@ member:
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
     - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     
-    1.  Gayeon Ryu,Jae Moon Choi,Hyeon Seok Seok,Jaehyung Lee,Eun-Kyung Lee,Hangsik Shin,Byung-Moon Choi, "Machine learning based quantitative pain assessment for the perioperative period", NPJ DIGITAL MEDICINE (2025)
     
     ## Conference
     
@@ -34,21 +33,23 @@ member:
     
     15.  Ga Yeon Ryu, Hyeon Seok Seok, Hangsik Shin, Byung-Moon Choi, Jae Moon Choi, "Development of photoplethysmogram based feature for intra- and post-operative pain", KOSOMBE spring conference, Daegu, Korea (May. 2023)
     
-    14.  Ga Yeon Ryu, Hyeon Seok Seok, Hangsik Shin, Byung-Moon Choi , Jae Moon Choi, "Analysis of a surgical pain severity assessment feature based on photoplethysmogram", The 54th KIEE Summer Conference, Pyeongchang, Korea (Jun. 2023)
-    
     12.  Gayeon Ryu, Hyeon Seok Seok, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Analysis of Surgical Pain Severity Assessment Feature based on Photoplethysmogram", The 54th KIEE Summer Conference, Pyeongchang, Korea (Jul. 2023)
-    
-    13.  Hyeon Seok Seok, Ga Yeon Ryu, Hangsik Shin, Byeong-mun Choi, Jae-moon Choi, "Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure", 43st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'21), EMBC, Sydney, Australia (Jul. 2023)
     
     <!-- 35fe7426-b8bf-4fcb-a7f2-b8db79a47148 -->
     - Seok HS, Ryu G, Choi JM, Choi B, Shin H. Arrival Times of Maximum Pain and Pain Suppression After Acute Pain Stimulation in Surgical Procedure. 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2023 Jul 24-27; Sydney International Convention Centre (ICC); 2023.
     
     11.  Gayeon Ryu, Hyeon Seok Seok, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Photoplethysmogram based on Surgical Pain Severity Assessment Feature Analysis", KOSOMBE autumn conference, Seoul, Korea (Nov. 2023)
     
-    10.  Gayeon Ryu, Hyeon Seok Seok, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis", IEEE EMBS, St. Julians, Malta (Dec. 2023)
-    
     <!-- eca439f7-9ff8-406a-9895-2437c3a9b420 -->
     - Ryu G, Seok HS, Shin H. Ectopic Beat Correction Strategies for Accurate Heart Rate Variability Analysis. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Portomaso, St. Julians, Malta; 2023.
+    
+    <!-- 17bf2ac9-95d2-4b28-af8b-f9b5bab02212 -->
+    - 류가연, 석현석, 최병문, 최재문, 신항식. 광용적맥파 기반 수술후 통증 중증도 평가지표 분석. 2024년 제63회 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 강원도 원주 연세대학교 미래캠퍼스 컨버전스홀; 2024.
+    
+    8.  Y.Kim, G.Y Ryu, H.H Jeong, J. H. Oh, M. Kim, S. A. Park, H. L. Yang, "Development of interoprative blood transfusion prediction model", CARS 2024 Computer Assisted Radiology and Surgery, Barcelona, Spain (Jun. 2024)
+    
+    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
+    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
     
     <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
     - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
@@ -59,30 +60,6 @@ member:
     <!-- f465d274-a2ed-447b-a17c-e9f8ade4cda7 -->
     - 류가연, 최예은, 신항식. 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향. 2024년도 제 64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
-    9.  Gayeon Ryu, Hyeon Seok Seok, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Photopletysmogram Features for Severity Assessment of Postoperative Pain", KOSOMBE spring conference, Wonju, Korea (May. 2024)
-    
-    <!-- 17bf2ac9-95d2-4b28-af8b-f9b5bab02212 -->
-    - 류가연, 석현석, 최병문, 최재문, 신항식. 광용적맥파 기반 수술후 통증 중증도 평가지표 분석. 2024년 제63회 대한의용생체공학회 춘계 학술대회. 2024. 5. 9-11; 강원도 원주 연세대학교 미래캠퍼스 컨버전스홀; 2024.
-    
-    8.  Y.Kim, G.Y Ryu, H.H Jeong, J. H. Oh, M. Kim, S. A. Park, H. L. Yang, "Development of interoprative blood transfusion prediction model", CARS 2024 Computer Assisted Radiology and Surgery, Barcelona, Spain (Jun. 2024)
-    
-    7.  Yeongdon Kim, Hamin Lim, Gayeon Ryu, Yujin Han, Hangsik Shin, "Development of a Real-Time Upper Limb Range of Motion Measurement Method Using a Single Depth Measurement Camera", The 55th KIEE Summer Conference, Jeju, Korea (Jul. 2024)
-    
-    <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->
-    - 김영돈, 임하민, 류가연, 한유진, 신항식. 단일 깊이측정 카메라를 활용한 실시간 상지 관절 가동범위 측정 방법 개발. 2024 대한전기학회 제55회 하계학술대회. 2024. 7. 10-13; 제주국제켄벤션센터, 부영호텔&리조트; 2024.
-    
-    6.  Gayeon Ryu, Ye Eun Choi, Hangsik Shin, "Evaluation of Photoplethysmogram-based Vascular Age Estimation Models", CICS'24 Conference on Information and Control Systems, Tongyeong, Korea (Oct. 2024)
-    
-    4.  Gayeon Ryu, Ye Eun Choi, Hangsik Shin, "The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation", The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Seoul, Korea (Nov. 2024)
-    
-    5.  Gayeon Ryu, Yujin Han, Yeongdon Kim, Hangsik Shin, "Bio-signals and result feature analysis to leverage public polysomnography database integration", The 64th Korea Society of Medical and Biological Engineering Fall Conference 2024, Seoul, Korea (Nov. 2024)
-    
-    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
-    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
-    
-    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
-    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
-    
     <!-- ce676224-6524-494b-ac75-4af3b52d8fa9 -->
     - 류가연, 최예은, 신항식. 건강검진 데이터 기반 심방세동 예측 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     
@@ -91,6 +68,12 @@ member:
     
     <!-- b928a941-79da-4486-b9f0-02b3b6e86c9a -->
     - 석현석, 이건, 류가연, 신항식. 광용적맥파 기반 정신적 피로 평가 가능성 연구. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    
+    <!-- e7f50914-9069-4843-a9e8-675b99ffc3a2 -->
+    - 진재욱, 류가연, 심지훈, 신항식. PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
+    
+    <!-- 7d64f21d-e836-4a19-adad-39e7a05d212d -->
+    - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     
     <!-- 8cd9638b-94ac-4ee4-9283-6266d38535cb -->
     - Jin J, Ryu G, Sim J, Shin H. PubMedBERT-Based Terminology Mapping for Surgical Procedure Types. The 7th International Conference on Advanced Bioinformatics and Biomedical Engineering. 2025 Dec 21-23; Tokyo, Japan; 2025.
@@ -130,8 +113,10 @@ member:
     
     <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
     - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
+    
     <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
     - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
+    
     ## Patent
     
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->

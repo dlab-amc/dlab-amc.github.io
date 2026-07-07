@@ -29,14 +29,14 @@ member:
     
     2.  홍윤정, 이건, 우지영, & 남윤영. (2024). 이더넷 커넥터 자동 조립 기술 개발을 위한 컴퓨터 비전 기반 공정 검사. 한국컴퓨터정보학회 학술발표논문집, 32(1), 89-90.
     
-    <!-- 6f87124d-c4cc-44ad-a2ec-f3f99f170ef6 -->
-    - 이건, 신항식. 생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
-    
     <!-- b928a941-79da-4486-b9f0-02b3b6e86c9a -->
     - 석현석, 이건, 류가연, 신항식. 광용적맥파 기반 정신적 피로 평가 가능성 연구. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     
     <!-- de12c5fc-c597-4ab9-bc3b-c686f3c1e7ff -->
     - 이건, 신항식. 다중 작업 학습 기반 심잡음 특징 반영 심음도 잡음 제거 모델 개발. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
+    
+    <!-- 6f87124d-c4cc-44ad-a2ec-f3f99f170ef6 -->
+    - 이건, 신항식. 생리학적 및 환경적 잡음 증강을 통한 강건한 심폐음 잡음 제거 방법. 2025년 대한의용생체공학회 추계학술대회. 2025. 11. 6-8; 인제대학교; 2025.
     
     <!-- 92bae902-8be2-4c2d-9da6-5dc1164f9ba9 -->
     - 김민소, 이건, 최예은, 이우형, 홍광표, 신항식. 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
@@ -56,6 +56,7 @@ member:
     
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
     - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
+    
     <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
     - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
 --- 

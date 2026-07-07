@@ -17,22 +17,22 @@ member:
     
     - Jaehyung Lee, Changwon Wang, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "GWASbased Atrial Fibrillation Identification Using DCNN," KOSOMBE autumn conference 2022, Paradise city Hotel, Incheon, Republic of Korea, 3-5 Nov 2022
     
-    - 이재형, 권오석, 박희남, 신항식. 좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측. 2023년 제62회 대한의용생체공학회 추계학술대회. 2023.11.09-11.11; 고려대학교 하나스퀘어; 2023
-    
     - Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "The Impact of Regularization Techniques on Convolutional Neural Network-based Genomic Study," KOSOMBE spring conference 2023, KMEDIhub, Daegu, Republic of Korea, 11-13 May 2023
     
     - Jaehyung Lee, Hyeon Seok Seok, Oh-Seok Kwon, Hui-Nam Pak and Hangsik Shin, "Analyzing the Performance of a Convolutional Neural Network-based Atrial Fibrillation Classifier According to the Genetic Screening Thresholds," The 54th KIEE Summer Conference 2023, Yongpyong Resort, Pyeongchang, Republic of Korea, 12-15 Jul 2023
     
+    - 이재형, 권오석, 박희남, 신항식. 좌심방 3차원 해부생리 특징을 활용한 그래프 신경망기반 심방세동 재발 예측. 2023년 제62회 대한의용생체공학회 추계학술대회. 2023.11.09-11.11; 고려대학교 하나스퀘어; 2023
+    
     - Lee J, Kwon O, Choi YE, Pak H, Shin H. Atrial Fibrillation Diagnosis Using Machine Learning: Leveraging Minimal Health Data from UK Biobank. IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology. 2023 Dec 7-9; Malta; 2023.
     
-    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
-    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
+    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
+    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
     
     <!-- f0c3dc1a-d91a-4eb4-927b-015012f0739a -->
     - 이재형, 권오석, 박희남, 신항식. 좌심방 해부생리 정보를 활용한 심방세동 타입 분류 그래프 신경망 모델. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
     
-    <!-- 688ca5a0-8312-40d0-bb81-6ae6b13b9533 -->
-    - Choi YE, Lee J, Seok HS, Shin H. Demographics and Comorbidities as an Atrial Fibrillation Risk Factor: a Retrospective Study in Koreans. EMBC 2024. 2024 Jul 15-19; Orlando, USA; 2024.
+    <!-- de172548-fd67-49dd-8254-eea5fc110b03 -->
+    - 이재형, 임하민, 왕창원, 신항식. 머신러닝을 활용한 병동내 환자 위치 추정 오류 보정. 2024년도 제64회 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
     <!-- 6131572d-f63a-4a5c-b2c5-9c3f82d68059 -->
     - 이재형, 권오석, 박희남, 신항식. 다중 작업 모델(MTL)을 이용한 심방세동 유형 및 시술 후 재발 예측. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
