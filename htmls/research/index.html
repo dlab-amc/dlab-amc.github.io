@@ -1,30 +1,9 @@
----
-layout: null
----
-{% assign first_level1 = site.data.research | where: "level", "level1" | sort: "order" | first %}
-{% if first_level1 %}
-{% assign redirect_slug = first_level1.title | slugify %}
 <!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url={{ redirect_slug }}.html">
-  <link rel="canonical" href="{{ redirect_slug }}.html">
-  <title>Research - Redirect</title>
+  <meta http-equiv="refresh" content="0; url=clinical-ai-systems-agentic-medicine.html">
+  <link rel="canonical" href="clinical-ai-systems-agentic-medicine.html">
 </head>
-<body>
-  <p>Redirecting to <a href="{{ redirect_slug }}.html">Research</a>...</p>
-</body>
+<body>Redirecting to <a href="clinical-ai-systems-agentic-medicine.html">Research</a>...</body>
 </html>
-{% else %}
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="utf-8">
-  <title>Research</title>
-</head>
-<body>
-  <p>Research 데이터가 없습니다. 어드민에서 연구 데이터를 배포해 주세요.</p>
-</body>
-</html>
-{% endif %}

@@ -126,6 +126,19 @@
             "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
             "conference_kor": "2025년 대한의용생체공학회 추계학술대회",
             "patent_info": []
+          },
+          {
+            "_id": "7766f561-9076-4a25-bfc5-c9a5af6c0b3e",
+            "category": "journal",
+            "title_eng": "Structural insights into clinical large language models and their barriers to translational readiness",
+            "contents": "You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; 33(3):732–742; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.",
+            "authors_text": "You J, Shin H",
+            "date": "2026-01-11",
+            "journal_eng": "Journal of the American Medical Informatics Association",
+            "link": "https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf230/8419921?login=true",
+            "IF": 4.6,
+            "JIF": 2024,
+            "patent_info": []
           }
         ]
       },
@@ -164,8 +177,8 @@
             "category": "journal",
             "title_eng": "Machine learning based quantitative pain assessment for the perioperative period",
             "title_kor": "Machine learning based quantitative pain assessment for the perioperative period",
-            "contents": "Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.",
-            "authors_text": "Ryu G, Seok HS, Lee J, Shin H",
+            "contents": "Ryu G, Choi JM, Seok HS, Lee J, Lee E, Shin H, Choi B. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.",
+            "authors_text": "Ryu G, Choi JM, Seok HS, Lee J, Lee E, Shin H, Choi B",
             "date": "2025-01-24",
             "journal_eng": "npj Digital Medicine",
             "journal_kor": "npj Digital Medicine",
@@ -572,6 +585,41 @@
             "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
             "conference_kor": "2025년 대한의용생체공학회 추계학술대회",
             "patent_info": []
+          },
+          {
+            "_id": "611557ad-9346-42f9-a88b-bcda04e67cd4",
+            "category": "conference",
+            "title_eng": "Development and External Validation of a Machine Learning Model for Predicting Postoperative Length of Stay",
+            "title_kor": "수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증",
+            "contents": "진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "진재욱, 류가연, 심지훈, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "948579a2-5419-4714-a232-4ac161d42c63",
+            "category": "conference",
+            "title_eng": "Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation",
+            "contents": "Han Y, Shin H, Won D, Yoon Y. Artificial Intelligence–Driven Preoperative Risk Stratification for Early Allograft Failure in Living Donor Liver Transplantation. 2026 ILTS Congress. 2026 May 6-9; GENEVA, SWITZERLAND; 2026.",
+            "authors_text": "Han Y, Shin H, Won D, Yoon Y",
+            "date": "2026-05-06",
+            "conference_eng": "2026 ILTS Congress",
+            "patent_info": []
+          },
+          {
+            "_id": "75480fca-4d6e-4b0f-bef4-bd19409c4b34",
+            "category": "journal",
+            "title_eng": "Medication-specific risk of atrial fibrillation in patients with coronary artery disease",
+            "contents": "Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.",
+            "authors_text": "Kim T, Ryu G, Choi YE, Shin H",
+            "date": "2026-06-18",
+            "journal_eng": "Biomedical Engineering Letters",
+            "link": "https://link.springer.com/article/10.1007/s13534-026-00589-6",
+            "IF": 3.4,
+            "JIF": 2025,
+            "patent_info": []
           }
         ]
       },
@@ -718,6 +766,67 @@
             "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
             "conference_kor": "2025년 대한의용생체공학회 추계학술대회",
             "patent_info": []
+          },
+          {
+            "_id": "6f180265-2c3c-4b38-a172-38af22a4c516",
+            "category": "conference",
+            "title_eng": "Development of a Clinical Chemistry Retest Ontology through Inductive Externalization of Expert Knowledge",
+            "title_kor": "귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링",
+            "contents": "정성연, 유지원, 최유나, 김솔잎, 신항식. 귀납적 사례 분석 기반 임상화학 재검사 전문가 지식 추출 및 온톨로지 모델링. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "정성연, 유지원, 최유나, 김솔잎, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "537dc980-c7f7-4b4b-a328-1f984c75a46c",
+            "category": "conference",
+            "title_eng": "Development and Multicenter External Validation of an AI-based Screening Model for Retesting Clinical Chemistry Tests",
+            "title_kor": "임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증",
+            "contents": "김민소, 유지원, 최유나, 유신애, 박근열, 김솔잎, 신항식. 임상화학검사 불필요 재검 판별을 위한 인공지능 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "김민소, 유지원, 최유나, 유신애, 박근열, 김솔잎, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "03005087-f876-4af0-bd37-91cd199cbca5",
+            "category": "conference",
+            "title_eng": "Hybrid strategy of rule-based classification engine and LLM for numerical interpretation of general chemistry tests",
+            "title_kor": "임상화학검사 수치 해석을 위한 규칙기반 엔진과 LLM 시너지 전략",
+            "contents": "김민소, 신항식. 임상화학검사 수치 해석을 위한 규칙기반 엔진과 LLM 시너지 전략. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "김민소, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "65be53c6-9dd4-438b-91aa-03e3d8030132",
+            "category": "conference",
+            "title_eng": "Evaluation of the Feasibility of Large Language Models for Re-test Decision in Clinical Chemistry Tests",
+            "title_kor": "임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가",
+            "contents": "유지원, 정성연, 최유나, 김솔잎, 신항식. 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "유지원, 정성연, 최유나, 김솔잎, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "42d3a100-a8ea-4616-88c7-e7817e38f410",
+            "category": "journal",
+            "title_eng": "Large language models for interpretation of health checkup results",
+            "contents": "You J, Shin H. Large language models for interpretation of health checkup results. npj Digital Medicine. 2026 Jul; IF:18@2025JIF; RS-2024-00335644, RS-2020-KH088723, 2025IP0016.",
+            "authors_text": "You J, Shin H",
+            "date": "2026-07-22",
+            "journal_eng": "npj Digital Medicine",
+            "link": "https://www.nature.com/articles/s41746-026-02467-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260722&utm_content=10.1038/s41746-026-02467-y#citeas",
+            "IF": 18,
+            "JIF": 2025,
+            "patent_info": []
           }
         ]
       },
@@ -843,6 +952,30 @@
             "contents": "신항식, 주성우, 이중선, 한유진. 뇌 질환 진단 장치 및 방법. KR 10-2025-0157997, 2025. 10. 28.",
             "authors_text": "신항식, 주성우, 이중선, 한유진",
             "date": "2025-10-28",
+            "patent_info": []
+          },
+          {
+            "_id": "92bae902-8be2-4c2d-9da6-5dc1164f9ba9",
+            "category": "conference",
+            "title_eng": "Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma",
+            "title_kor": "간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가",
+            "contents": "김민소, 이건, 최예은, 이우형, 홍광표, 신항식. 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "김민소, 이건, 최예은, 이우형, 홍광표, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "16c444f7-bf32-4cfa-b971-e9dd9ab1b633",
+            "category": "conference",
+            "title_eng": "Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data",
+            "title_kor": "3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측",
+            "contents": "이건, 김민소, 최예은, 이우형, 홍광표, 신항식. 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "이건, 김민소, 최예은, 이우형, 홍광표, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
             "patent_info": []
           }
         ]
@@ -1441,6 +1574,44 @@
             "conference_kor": "",
             "link": "",
             "IF": "",
+            "patent_info": []
+          },
+          {
+            "_id": "aa9ed85d-9d96-49ab-9897-a99041cc0389",
+            "category": "journal",
+            "title_eng": "Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation",
+            "contents": "Wang C, Elgendi M, Shin H. Instability and performance limits of convolutional neural networks on non-sequential medical tabular data: an empirical investigation. Scientific Reports. 2026 Mar; IF:4.3@2024JIF; RS-2022-00141473, HR20C0026, RS-2023-00255005.",
+            "authors_text": "Wang C, Elgendi M, Shin H",
+            "date": "2026-03-03",
+            "journal_eng": "Scientific Reports",
+            "journal_kor": "Scientific Reports",
+            "link": "https://www.nature.com/articles/s41598-026-39875-9",
+            "IF": 4.3,
+            "JIF": 2024,
+            "patent_info": []
+          },
+          {
+            "_id": "0bd7ed03-073b-4f54-8e3c-efbead217078",
+            "category": "conference",
+            "title_eng": "A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms",
+            "title_kor": "수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계",
+            "contents": "한유진, 류가연, 김영돈, 신항식. 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "한유진, 류가연, 김영돈, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "6757496c-84b9-4b4a-a3da-785e7e957188",
+            "category": "conference",
+            "title_eng": "Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices",
+            "title_kor": "수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발 ",
+            "contents": "김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "김영돈, 한유진, 류가연, 이연진, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
             "patent_info": []
           }
         ]
@@ -2044,6 +2215,18 @@
             "link": "",
             "IF": "",
             "patent_info": []
+          },
+          {
+            "_id": "eac5ba27-d43a-430f-81bf-49f7c6ab8d7c",
+            "category": "conference",
+            "title_eng": "Design and Implementation of a Wearable-Based Patient Monitoring System in a Closed-Network Hospital Environment",
+            "title_kor": "폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현",
+            "contents": "남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "남윤찬, 강주현, 이연진, 김희영, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
           }
         ]
       }
@@ -2125,6 +2308,18 @@
             "link": "https://dlab-amc.github.io/publications/conference/ibec2024/ye1/ibec_ye1.html#",
             "IF": null,
             "JIF": null,
+            "patent_info": []
+          },
+          {
+            "_id": "93d0f6a3-536d-46ce-a41d-c29557550ecb",
+            "category": "conference",
+            "title_eng": "Development of an Atrial Fibrillation Risk Prediction Model for Health Screening",
+            "title_kor": "건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발",
+            "contents": "류가연, 최예은, 신항식. 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.",
+            "authors_text": "류가연, 최예은, 신항식",
+            "date": "2026-05-07",
+            "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
+            "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
             "patent_info": []
           }
         ]
