@@ -20,9 +20,9 @@ member:
     - Lee J, Kwon O, Ryu G, Shin H, Pak H. Atrial Fibrillation Identification Using CNNs Based on Genomic Data. Journal of Electrical Engineering & Technology. 2024 Aug; 19(6):3645–3653; IF:1.6@2023JIF; RS-2022-00141473, KBN-2016-005, KBN-2020-083.
     
     <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
-    - Ryu G, Seok HS, Lee J, Shin H. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
-    
-    
+    - Ryu G, Choi JM, Seok HS, Lee J, Lee E, Shin H, Choi B. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- 75480fca-4d6e-4b0f-bef4-bd19409c4b34 -->
+    - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
     ## Conference
     
     18.  Ga Yeon Ryu, Hyeon Seok Seok, Changwon Wang, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain", Conference on Information and Control Systems 2022 (CICS), Pyeongchang, Korea (Oct. 2022)

@@ -83,4 +83,8 @@ member:
     1. Development, Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram and Clinical Information Based on Artificial Intelligence, Ministry of Health and Wellfare (MOHW), Korea (Apr 2021 - Dec 2023)
     
     2. Developing artificial intelligence for early risk prediction of atrial fibrillation using clinical information, Asan Medical Center, Korea (Jan 2024 - Dec 2025)
+    
+    ## Journal
+    <!-- 75480fca-4d6e-4b0f-bef4-bd19409c4b34 -->
+    - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
 --- 

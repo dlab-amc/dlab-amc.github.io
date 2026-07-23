@@ -227,6 +227,12 @@ member:
     
     - 민세동, 김진권, 신항식, 윤용현, 이충근. 복부 움직임에 따른 초음파 근접센서를 이용한 호흡측정에 관한 연구. 전기학회논지. 2009 10; 58(10):2071-2078.
     
+    <!-- 4df94230-b073-4e4c-9037-277fc44342b8 -->
+    - Ryu G, Choi JM, Seok HS, Lee J, Lee E, Shin H, Choi B. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
+    <!-- 42d3a100-a8ea-4616-88c7-e7817e38f410 -->
+    - You J, Shin H. Large language models for interpretation of health checkup results. npj Digital Medicine. 2026 Jul; IF:18@2025JIF; RS-2024-00335644, RS-2020-KH088723, 2025IP0016.
+    <!-- 75480fca-4d6e-4b0f-bef4-bd19409c4b34 -->
+    - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
     ## **Patent**
     
     - Ko J, Shin H, Park S. Method and divice for excuting application. US 15/010,659, 2016 Jan 29.

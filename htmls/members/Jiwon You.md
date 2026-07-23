@@ -22,6 +22,8 @@ member:
     - You J, Shin H. Structural insights into clinical large language models and their barriers to translational readiness. Journal of the American Medical Informatics Association. 2026 Jan; 33(3):732–742; IF:4.6@2024JIF; RS-2024-00335644, 2025IP0016.
     
     
+    <!-- 42d3a100-a8ea-4616-88c7-e7817e38f410 -->
+    - You J, Shin H. Large language models for interpretation of health checkup results. npj Digital Medicine. 2026 Jul; IF:18@2025JIF; RS-2024-00335644, RS-2020-KH088723, 2025IP0016.
     ## Conference
     
     - Jiwon You, Jeonghwan Yoon, Kyuri Jo. "Computational framework for time course association study between mutational signature and gene expression" Korea Computer Congress (KCC) 2021, June 2021 (2021): 2019-2021.
