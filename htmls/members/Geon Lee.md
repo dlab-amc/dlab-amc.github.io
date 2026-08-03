@@ -19,6 +19,8 @@ member:
     
     3.  이나영, 이건, 이민섭, 홍윤정, 양인범, & 우지영. (2024). 객체탐지를 이용한 캠퍼스내 교통안전 시스템 개발. 한국컴퓨터정보학회논문지, 29(1), 51-59.
     
+    <!-- e3ce2af3-eb83-4a42-8119-8d75ef6a17ac -->
+    - Lee G, Shin H. Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics. Physiological Measurement. 2026 Jul; 47(7):1-14; IF:2.5@2025JIF; RS-2022-00141473, RS-2024-00423853.
     ## Conference
     
     4.  이건, 홍윤정, 차민수, & 우지영. (2022). 두피 이미지 학습을 통한 두피 상태 진단. 한국컴퓨터정보학회 학술발표논문집, 30(1), 327-329.

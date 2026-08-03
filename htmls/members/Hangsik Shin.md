@@ -233,6 +233,8 @@ member:
     - You J, Shin H. Large language models for interpretation of health checkup results. npj Digital Medicine. 2026 Jul; IF:18@2025JIF; RS-2024-00335644, RS-2020-KH088723, 2025IP0016.
     <!-- 75480fca-4d6e-4b0f-bef4-bd19409c4b34 -->
     - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
+    <!-- e3ce2af3-eb83-4a42-8119-8d75ef6a17ac -->
+    - Lee G, Shin H. Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics. Physiological Measurement. 2026 Jul; 47(7):1-14; IF:2.5@2025JIF; RS-2022-00141473, RS-2024-00423853.
     ## **Patent**
     
     - Ko J, Shin H, Park S. Method and divice for excuting application. US 15/010,659, 2016 Jan 29.
@@ -755,4 +757,8 @@ member:
     
     <!-- 65be53c6-9dd4-438b-91aa-03e3d8030132 -->
     - 유지원, 정성연, 최유나, 김솔잎, 신항식. 임상화학 검사 재검 판정에서 대규모 언어모델의 유용성 평가. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- 49037bdf-5e2e-4e08-b226-ec1a5698f280 -->
+    - Han Y, Shin H. Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.
+    <!-- a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62 -->
+    - Choi YE, Shin H. Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.
 --- 

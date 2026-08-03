@@ -62,6 +62,8 @@ member:
     <!-- 93d0f6a3-536d-46ce-a41d-c29557550ecb -->
     - 류가연, 최예은, 신항식. 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     
+    <!-- a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62 -->
+    - Choi YE, Shin H. Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.
     ## Award
     
     1. 2022 데이터 청년 캠퍼스 ‘우수 프로젝트 발표’ 장려상, 한국데이터산업진흥원(Korea Data Agency), Korea (Sep 2022)

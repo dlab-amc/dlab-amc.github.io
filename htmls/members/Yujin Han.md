@@ -55,6 +55,8 @@ member:
     <!-- 6757496c-84b9-4b4a-a3da-785e7e957188 -->
     - 김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     
+    <!-- 49037bdf-5e2e-4e08-b226-ec1a5698f280 -->
+    - Han Y, Shin H. Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.
     ## Award
     
     3.  2023 이브와 ICT멘토링 공모전 금상(과학기술정보통신부장관상), 과학기술정보통신부(주최), 정보통신기획평가원(주관), IT여성기업인협회(주관), 2023.12
