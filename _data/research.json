@@ -620,6 +620,26 @@
             "IF": 3.4,
             "JIF": 2025,
             "patent_info": []
+          },
+          {
+            "_id": "49037bdf-5e2e-4e08-b226-ec1a5698f280",
+            "category": "conference",
+            "title_eng": "Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation",
+            "contents": "Han Y, Shin H. Anomaly Detection-Based Hybrid Machine Learning for Predicting Early Allograft Failure in Living Donor Liver Transplantation. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.",
+            "authors_text": "Han Y, Shin H",
+            "date": "2026-07-26",
+            "conference_eng": "The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+            "patent_info": []
+          },
+          {
+            "_id": "a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62",
+            "category": "conference",
+            "title_eng": "Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data",
+            "contents": "Choi YE, Shin H. Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.",
+            "authors_text": "Choi YE, Shin H",
+            "date": "2026-07-26",
+            "conference_eng": "The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+            "patent_info": []
           }
         ]
       },
@@ -1612,6 +1632,19 @@
             "date": "2026-05-07",
             "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
             "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
+            "patent_info": []
+          },
+          {
+            "_id": "e3ce2af3-eb83-4a42-8119-8d75ef6a17ac",
+            "category": "journal",
+            "title_eng": "Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics",
+            "contents": "Lee G, Shin H. Multitask learning-based phonocardiogram denoising model for preserving valvular heart disease characteristics. Physiological Measurement. 2026 Jul; 47(7):1-14; IF:2.5@2025JIF; RS-2022-00141473, RS-2024-00423853.",
+            "authors_text": "Lee G, Shin H",
+            "date": "2026-07-31",
+            "journal_eng": "Physiological Measurement",
+            "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ae8caa",
+            "IF": 2.5,
+            "JIF": 2025,
             "patent_info": []
           }
         ]
