@@ -1727,6 +1727,19 @@
             "link": "",
             "IF": "",
             "patent_info": []
+          },
+          {
+            "_id": "97ce5c6e-246f-43e0-aea0-fd44c3b6549e",
+            "category": "journal",
+            "title_eng": "Digital Monitoring of Micro- and Macro-Movement Regularity in Psychiatric Inpatients With Depression",
+            "contents": "Shin J, Lee J, Joo SW, Park HG, Shin H, Lim H, Park JH, Kim SM. Digital Monitoring of Micro- and Macro-Movement Regularity in Psychiatric Inpatients With Depression. Psychiatry Investigation. 2026 Jan; 23(1):11-12; IF:2@2024JIF; HI22C1668.",
+            "authors_text": "Shin J, Lee J, Joo SW, Park HG, Shin H, Lim H, Park JH, Kim SM",
+            "date": "2026-01-07",
+            "journal_eng": "Psychiatry Investigation",
+            "link": "https://psychiatryinvestigation.org/journal/view.php?doi=10.30773/pi.2025.0130",
+            "IF": 2,
+            "JIF": 2024,
+            "patent_info": []
           }
         ]
       },
