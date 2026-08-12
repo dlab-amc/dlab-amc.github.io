@@ -1,0 +1,313 @@
+---
+layout: default
+title: Publications_a
+permalink: /publications_a/
+---
+
+<span id="content"></span>
+<article id="main">
+  <header class="special container">
+    <h2>PUBLICATIONS</h2>
+  </header>
+
+  <!-- 상단 nav 탭 -->
+  <section class="wrapper style1 container special nav-container">
+    <ul class="nav-container">
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_j" class="nav-link"
+          ><span class="icon fa-solid fa-book"></span>Journal</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_c" class="nav-link"
+          ><span class="icon fa-solid fa-building-columns"></span>Conference</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_p" class="nav-link"
+          ><span class="icon fa-regular fa-copyright"></span>Patent</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_d" class="nav-link"
+          ><span class="icon fa-solid fa-pen-nib"></span>Design</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_s" class="nav-link"
+          ><span class="icon fa-brands fa-uncharted"></span>S/W</a
+        >
+      </li>
+      <li class="nav-item">
+        <a href="{{site.baseurl}}/publications_a" class="nav-link active"
+          ><span class="icon fa-solid fa-trophy"></span>Award</a
+        >
+      </li>
+    </ul>
+  </section>
+
+  <!-- 콘텐츠 -->
+  <section class="wrapper style4 container">
+    <div class="row oneandhalf">
+      <div class="2u">
+        <div class="sidebar">
+          <section>
+            <div class="sidebar small-sidebar" id="class-filter"></div>
+          </section>
+        </div>
+      </div>
+
+      <div class="10u skel-cell-important">
+        <!-- 검색창 -->
+        <div class="search-input-wrap">
+          <input
+            class="search-input"
+            type="text"
+            id="search-input"
+            placeholder="검색어를 입력하세요."
+            style="
+              width: 20rem;
+              display: flex;
+              align-items: center;
+              border: none;
+              background-color: #eee;
+              padding: 0.35rem 1rem;
+              line-height: 1.5;
+              font-size: 15px;
+              height: 3rem;
+              outline: none;
+            "
+          />
+          <button id="search-button" class="search-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </button>
+        </div>
+
+        <div
+          id="pub-content"
+          class="my-div"
+          style="
+            border-top: 1px solid #222;
+            text-align: justify;
+            margin-top: 1.5em;
+            padding: 1.5em 1em;
+          "
+        ></div>
+      </div>
+    </div>
+  </section>
+</article>
+
+<style>
+  .skel-cell-important {
+    position: relative;
+  }
+  .search-input-wrap {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    top: 0;
+    right: 0;
+    transform: translateY(-50%);
+    gap: 8px;
+  }
+  .search-input:focus {
+    outline: none !important;
+    border: none !important;
+  }
+  .search-input::placeholder {
+    font-size: 15px;
+    line-height: normal;
+  }
+  .search-button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    padding: 0;
+    width: 3rem;
+    height: 3rem;
+    background-color: #006065;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .search-button:hover {
+    background-color: rgb(0, 101, 101);
+  }
+</style>
+
+<script>
+  const CLASS_ORDER = ['ALL'];
+  let selectedClass = 'ALL';
+  let currentSearch = '';
+
+  const MONTHS = [
+    '',
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Nov',
+    'Dec',
+  ];
+
+  function formatMonthYear(dateStr, country) {
+    if (!dateStr) return '';
+    const date = new Date(dateStr);
+    if (isNaN(date.getTime())) return dateStr;
+    const year = date.getFullYear();
+    const monthNum = date.getMonth() + 1;
+    return country === 'Domestic'
+      ? `${year}. ${monthNum.toString().padStart(2, '0')}`
+      : `${year} ${MONTHS[monthNum]}`;
+  }
+
+  function formatAcknowledgements(str) {
+    return str
+      ? `<span class="ack">${str
+          .split(';')
+          .map((s) => s.trim())
+          .join(', ')}</span>`
+      : '';
+  }
+
+  function formatTitleCase(str) {
+    if (!str) return '';
+    return /^[A-Z\s]+$/.test(str)
+      ? str.charAt(0) + str.slice(1).toLowerCase()
+      : str;
+  }
+
+  function pickLocalized(entry, engKey, korKey) {
+    const country = entry.country;
+    if (country === 'Domestic') {
+      return (entry[korKey] || entry[engKey] || '').trim();
+    }
+    return (entry[engKey] || entry[korKey] || '').trim();
+  }
+
+  function buildAwardHTML(entry) {
+    const country = entry.country;
+    const authors = entry.authors_text?.trim();
+    const awardName = pickLocalized(
+      entry,
+      'award_name_eng',
+      'award_name_kor'
+    );
+    const titleRaw = pickLocalized(entry, 'title_eng', 'title_kor');
+    const title =
+      country === 'Domestic' ? titleRaw : formatTitleCase(titleRaw);
+    const organization = pickLocalized(
+      entry,
+      'organization_eng',
+      'organization_kor'
+    );
+    const date = entry.date ? formatMonthYear(entry.date, country) : '';
+    const ack = formatAcknowledgements(entry.acknowledgements);
+
+    let result = '';
+    if (authors) result += `${authors}. `;
+    if (awardName) result += `${awardName}. `;
+    if (title) result += `${title}. `;
+    if (organization) result += `${organization}. `;
+    if (date) result += `${date}. `;
+    if (ack) result += `${ack}`;
+
+    result = result.trim().replace(/\.+$/, '');
+    if (result && !result.endsWith('.')) result += '.';
+
+    return result;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    let allData = [];
+
+    fetch('{{ site.baseurl }}/data/publications/pub_a.json')
+      .then((res) => res.json())
+      .then((data) => {
+        allData = data;
+        initFilters();
+        render(allData);
+      });
+
+    const filterContainer = document.getElementById('class-filter');
+    const contentContainer = document.getElementById('pub-content');
+
+    function initFilters() {
+      CLASS_ORDER.forEach((cls) => {
+        const btn = document.createElement('a');
+        btn.textContent = cls;
+        btn.href = `#${cls.toLowerCase()}`;
+        btn.className = 'small-button' + (cls === 'ALL' ? ' active' : '');
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          selectedClass = cls;
+          render(allData);
+          document
+            .querySelectorAll('.small-button')
+            .forEach((el) => el.classList.remove('active'));
+          btn.classList.add('active');
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+        filterContainer.appendChild(btn);
+      });
+    }
+
+    function render(data) {
+      contentContainer.innerHTML = '';
+
+      const filtered = data
+        .filter((item) => item.date)
+        .filter((item) => {
+          if (!currentSearch) return true;
+          const q = currentSearch.toLocaleLowerCase();
+          const haystack = buildAwardHTML(item).toLocaleLowerCase();
+          return haystack.includes(q);
+        })
+        .sort((a, b) => b.date.localeCompare(a.date));
+
+      filtered.forEach((entry) => {
+        const div = document.createElement('div');
+        div.style.marginBottom = '20px';
+        const line = document.createElement('div');
+        const htmlString = buildAwardHTML(entry);
+
+        if (entry.link) {
+          const a = document.createElement('a');
+          a.href = entry.link;
+          a.target = '_blank';
+          a.className = 'paperclick';
+          a.innerHTML = htmlString;
+          line.appendChild(a);
+        } else {
+          const span = document.createElement('span');
+          span.className = 'paperclick';
+          span.innerHTML = htmlString;
+          line.appendChild(span);
+        }
+
+        div.appendChild(line);
+        contentContainer.appendChild(div);
+      });
+    }
+
+    document.getElementById('search-button').addEventListener('click', () => {
+      currentSearch = document.getElementById('search-input').value.trim();
+      render(allData);
+    });
+
+    document.getElementById('search-input').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        currentSearch = e.target.value.trim();
+        render(allData);
+      }
+    });
+  });
+</script>
