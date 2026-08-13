@@ -1850,6 +1850,13 @@ div.paperclick {
   font-family: 'NanumSquare_acL';
 }
 
+a.paperclick strong,
+span.paperclick strong,
+div.paperclick strong {
+  font-family: 'NanumSquare_acB';
+  font-weight: normal;
+}
+
 #my_div a.paperclick:hover {
   color: #f57c13;
   /* text-decoration: underline; */
