@@ -142,87 +142,64 @@ permalink: /publications_a/
   let selectedClass = 'ALL';
   let currentSearch = '';
 
-  const MONTHS = [
-    '',
-    'Jan',
-    'Feb',
-    'Mar',
-    'Apr',
-    'May',
-    'Jun',
-    'Jul',
-    'Aug',
-    'Sep',
-    'Oct',
-    'Nov',
-    'Dec',
-  ];
-
-  function formatMonthYear(dateStr, country) {
-    if (!dateStr) return '';
-    const date = new Date(dateStr);
-    if (isNaN(date.getTime())) return dateStr;
-    const year = date.getFullYear();
-    const monthNum = date.getMonth() + 1;
-    return country === 'Domestic'
-      ? `${year}. ${monthNum.toString().padStart(2, '0')}`
-      : `${year} ${MONTHS[monthNum]}`;
+  function normalizeSemicolonList(str) {
+    return (str || '')
+      .split(';')
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .join('; ');
   }
 
-  function formatAcknowledgements(str) {
-    return str
-      ? `<span class="ack">${str
-          .split(';')
-          .map((s) => s.trim())
-          .join(', ')}</span>`
-      : '';
-  }
-
-  function formatTitleCase(str) {
-    if (!str) return '';
-    return /^[A-Z\s]+$/.test(str)
-      ? str.charAt(0) + str.slice(1).toLowerCase()
-      : str;
+  function formatBilingual(kor, eng) {
+    const k = normalizeSemicolonList(kor);
+    const e = normalizeSemicolonList(eng);
+    if (k && e) return `${k}(${e})`;
+    return k || e;
   }
 
   function pickLocalized(entry, engKey, korKey) {
-    const country = entry.country;
-    if (country === 'Domestic') {
+    if (entry.country === 'Domestic') {
       return (entry[korKey] || entry[engKey] || '').trim();
     }
     return (entry[engKey] || entry[korKey] || '').trim();
   }
 
+  function formatYearMonth(dateStr) {
+    if (!dateStr) return '';
+    const match = String(dateStr).match(/^(\d{4})-(\d{2})/);
+    if (match) return `${match[1]}. ${match[2]}`;
+    const date = new Date(dateStr);
+    if (isNaN(date.getTime())) return '';
+    return `${date.getFullYear()}. ${String(date.getMonth() + 1).padStart(2, '0')}`;
+  }
+
   function buildAwardHTML(entry) {
-    const country = entry.country;
-    const authors = entry.authors_text?.trim();
+    const authors = formatBilingual(entry.author_kor, entry.author_eng);
+    const title = formatBilingual(entry.title_kor, entry.title_eng);
+    const date = formatYearMonth(entry.date);
     const awardName = pickLocalized(
       entry,
       'award_name_eng',
       'award_name_kor'
     );
-    const titleRaw = pickLocalized(entry, 'title_eng', 'title_kor');
-    const title =
-      country === 'Domestic' ? titleRaw : formatTitleCase(titleRaw);
     const organization = pickLocalized(
       entry,
       'organization_eng',
       'organization_kor'
     );
-    const date = entry.date ? formatMonthYear(entry.date, country) : '';
-    const ack = formatAcknowledgements(entry.acknowledgements);
 
-    let result = '';
-    if (authors) result += `${authors}. `;
-    if (awardName) result += `<strong>${awardName}</strong>. `;
-    if (title) result += `${title}. `;
-    if (organization) result += `${organization}. `;
-    if (date) result += `${date}. `;
-    if (ack) result += `${ack}`;
+    const head = [];
+    if (date) head.push(date);
+    if (awardName) head.push(`'<strong>${awardName}</strong>'`);
+    if (organization) head.push(`(${organization})`);
 
-    result = result.trim().replace(/\.+$/, '');
-    if (result && !result.endsWith('.')) result += '.';
-
+    let result = head.join(' ');
+    if (title) {
+      result = result ? `${result} - '${title}'` : `'${title}'`;
+    }
+    if (authors) {
+      result = result ? `${result}, ${authors}` : authors;
+    }
     return result;
   }
 
