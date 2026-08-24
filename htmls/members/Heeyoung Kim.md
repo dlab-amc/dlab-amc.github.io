@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1769998383921-906528921.jpg'
   role: 'Web Developer'
   profile_description: |
-    [E-mail](mailto:talent8661@gmail.com)
     Interesting Areas : Web Back-end, Web Front-end, Mobile Application Development
+    
+    [E-mail](mailto:talent8661@gmail.com)
   contents: |
     ## Conference
     

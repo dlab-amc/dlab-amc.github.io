@@ -8,8 +8,9 @@ member:
   hover_image: '/images/members/egg_한유진.jpg'
   role: 'Master Course'
   profile_description: |
-    [E-mail](mailto:yujin.han.ds@gmail.com)
     Research Areas : Statistics, Machine learning
+    
+    [E-mail](mailto:yujin.han.ds@gmail.com)
   contents: |
     ## Journal
     

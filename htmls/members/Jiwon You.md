@@ -8,8 +8,9 @@ member:
   hover_image: '/images/members/egg_유지원.JPG'
   role: 'Researcher'
   profile_description: |
-    [E-mail](mailto:71one.you@gmail.com)
     Research Areas : Machine learning, Large Language Model, Bioinformatics
+    
+    [E-mail](mailto:71one.you@gmail.com)
   contents: |
     ## Journal
     

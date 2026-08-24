@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1760492807636-519029047.jpg'
   role: 'Administrative Assistant'
   profile_description: |
-    [E-mail](mailto:dlab.amc@gmail.com)
     Research Areas : Molecule biotechnology, Administration
+    
+    [E-mail](mailto:dlab.amc@gmail.com)
   contents: |
     
 --- 

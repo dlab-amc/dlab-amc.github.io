@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1754294732114-814035835.png'
   role: 'Master Course'
   profile_description: |
-    [E-mail](mailto:yechoi.amc@gmail.com)
     Research Areas : Bioinformatics, Medical AI, Digital Healthcare
+    
+    [E-mail](mailto:yechoi.amc@gmail.com)
   contents: |
     ## Conference
     

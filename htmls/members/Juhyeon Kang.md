@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1772513558408-871803052.jpg'
   role: 'Researcher'
   profile_description: |
-    [E-mail](mailto:rw4191@naver.com)
     Research Areas : Digital Healthcare, Data analysis, Machine learning
+    
+    [E-mail](mailto:rw4191@naver.com)
   contents: |
     ## Conference
     

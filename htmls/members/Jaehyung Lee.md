@@ -8,8 +8,9 @@ member:
   hover_image: '/images/members/egg_이재형.jpg'
   role: 'Master Course'
   profile_description: |
-    [E-mail](mailto:zeus9656@gmail.com)
     Research Areas : GNN, Image classification, Medical AI
+    
+    [E-mail](mailto:zeus9656@gmail.com)
   contents: |
     ## Conference
     

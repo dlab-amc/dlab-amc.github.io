@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1772612854889-57353254.jpg'
   role: 'Postdoctoral Researcher'
   profile_description: |
-    [E-mail](mailto:yunchance@amc.seoul.kr)
     Research Areas : Biomedical engineering, System engineering, Physical AI
+    
+    [E-mail](mailto:yunchance@amc.seoul.kr)
   contents: |
     ## Conference
     

@@ -8,8 +8,9 @@ member:
   hover_image: '/images/members/egg_류가연.JPG'
   role: 'Master Course'
   profile_description: |
-    [E-mail](mailto:rgy90257823@gmail.com)
     Research Areas : Data analysis, Statistics, Signal analysis
+    
+    [E-mail](mailto:rgy90257823@gmail.com)
   contents: |
     ## Journal
     

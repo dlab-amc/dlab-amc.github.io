@@ -8,8 +8,9 @@ member:
   hover_image: '/data/members/images/members/hover_image-1772620621202-249163042.jpg'
   role: 'Researcher'
   profile_description: |
-    [E-mail](mailto:kyd5022@naver.com)
     Research Areas : Agentic AI, Medical AI, Digital Healthcare
+    
+    [E-mail](mailto:kyd5022@naver.com)
   contents: |
     ## Skills
     
