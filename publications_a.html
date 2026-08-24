@@ -177,15 +177,11 @@ permalink: /publications_a/
     const authors = formatBilingual(entry.author_kor, entry.author_eng);
     const title = formatBilingual(entry.title_kor, entry.title_eng);
     const date = formatYearMonth(entry.date);
-    const awardName = pickLocalized(
-      entry,
-      'award_name_eng',
-      'award_name_kor'
-    );
+    const awardName = pickLocalized(entry, 'award_name_eng', 'award_name_kor');
     const organization = pickLocalized(
       entry,
       'organization_eng',
-      'organization_kor'
+      'organization_kor',
     );
 
     const head = [];

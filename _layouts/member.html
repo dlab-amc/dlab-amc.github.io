@@ -38,8 +38,10 @@ layout: default
               </p>
             </header>
 
-            <div class="member-description">
-              <strong>{{ page.member.role }}</strong><br />
+            <div class="member-description{% if page.member.name_eng == 'Hangsik Shin' %} member-description-pi{% endif %}">
+              {% unless page.member.name_eng == 'Hangsik Shin' %}
+              <strong class="member-role">{{ page.member.role }}</strong><br />
+              {% endunless %}
               {{ page.member.profile_description | replace: "\r\n", "\n" |
               replace: "\r", "\n" | replace: "\n", " \n" | markdownify }}
             </div>
