@@ -11,8 +11,8 @@ member:
     교수, 울산대학교 의과대학 서울아산병원, Dept. of Medical Informatics and Statistics
     
     Professor, Dept. of Medical Informatics and Statistics, Asan Medical Center, University of Ulsan College of Medicine
-
-    ORCID 0000-0002-3353-0310 · [Google Scholar](https://scholar.google.co.kr/citations?user=N1MUdi4AAAAJ&hl=en)
+    
+    [ORCID 0000-0002-3353-0310](https://orcid.org/0000-0002-3353-0310) · [Google Scholar](https://scholar.google.co.kr/citations?user=N1MUdi4AAAAJ&hl=en)
   contents: |
     <div class="member_cv">
     <div class="member_heading">정부·규제·표준화 <span class="member_heading_en">Government, Regulatory &amp; Standards</span></div>
