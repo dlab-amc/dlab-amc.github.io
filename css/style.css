@@ -1853,7 +1853,7 @@ div.paperclick {
 a.paperclick strong,
 span.paperclick strong,
 div.paperclick strong {
-  font-family: 'NanumSquare_acB';
+  font-family: 'NanumSquare_acEB';
   font-weight: normal;
 }
 
@@ -3252,6 +3252,139 @@ a.paperclick:hover {
 .member-description {
   white-space: pre-line;
   line-height: 1.5;
+}
+
+/* Member CV (HTML classes in contents; unused pages stay default markdown) */
+.member-markdown .member_cv {
+  text-align: left;
+  font-family: 'NanumSquare_acR';
+  font-size: 0.95em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.member-markdown .member_heading {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: 'NanumSquare_acEB';
+  font-size: 1.08em;
+  color: #2c2c2c;
+  margin: 3em 0 1.35em;
+  line-height: 1.4;
+}
+
+.member-markdown .member_heading::before {
+  content: '';
+  flex: 0 0 0.38em;
+  width: 0.38em;
+  height: 0.38em;
+  background: #333;
+  border-radius: 2px;
+}
+
+.member-markdown .member_cv > .member_heading:first-child {
+  margin-top: 0;
+}
+
+.member-markdown .member_item {
+  display: grid;
+  grid-template-columns: 6.8rem minmax(0, 1fr);
+  column-gap: 3rem;
+  align-items: start;
+  margin: 0 0 1.4em;
+  line-height: 1.75;
+}
+
+.member-markdown .member_year {
+  font-family: 'NanumSquare_acR';
+  font-size: calc(0.78em + 1px);
+  color: #777;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  padding-top: 0.18em;
+  padding-right: 0.55em;
+}
+
+.member-markdown .member_body {
+  min-width: 0;
+}
+
+.member-markdown .member_item-plain {
+  display: block;
+}
+
+.member-markdown .member_simple_list {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+.member-markdown .member_simple_list li {
+  list-style: disc;
+  margin: 0 0 0.55em;
+  line-height: 1.8;
+  color: #555;
+  font-family: 'NanumSquare_acR';
+  font-size: calc(1em - 1px);
+  font-weight: medium;
+}
+
+.member-markdown .member_title {
+  font-family: 'NanumSquare_acB';
+  color: #333;
+}
+
+.member-markdown .member_org {
+  font-family: 'NanumSquare_acR';
+  font-size: 0.84em;
+  color: #7a7a7a;
+}
+
+.member-markdown .member_en {
+  margin-top: 0.12em;
+  font-family: 'NanumSquare_acR';
+  font-size: 0.86em;
+  color: #8a8a8a;
+  line-height: 1.5;
+}
+
+.member-markdown .member_note {
+  margin-top: 0.2em;
+  font-family: 'NanumSquare_acR';
+  font-size: 0.86em;
+  color: #888;
+  line-height: 1.5;
+}
+
+.member-markdown .member_review_list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85em;
+}
+
+.member-markdown .member_review {
+  background: #f7f7f7;
+  border-radius: 4px;
+  padding: 0.9em 1.05em 1em;
+}
+
+.member-markdown .member_review_label {
+  font-family: 'NanumSquare_acEB';
+  font-size: 1.05em;
+  color: #222;
+  margin-bottom: 0.5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.member-markdown .member_review_text {
+  font-family: 'NanumSquare_acR';
+  color: #666;
+  font-size: 0.95em;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /*Members 직급 기재 서식*/
