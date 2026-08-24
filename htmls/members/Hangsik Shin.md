@@ -9,6 +9,7 @@ member:
   role: 'Principal Investigator'
   profile_description: |
     교수, 울산대학교 의과대학 서울아산병원, Dept. of Medical Informatics and Statistics
+    
     Professor, Dept. of Medical Informatics and Statistics, Asan Medical Center, University of Ulsan College of Medicine
 
     ORCID 0000-0002-3353-0310 · [Google Scholar](https://scholar.google.co.kr/citations?user=N1MUdi4AAAAJ&hl=en)
