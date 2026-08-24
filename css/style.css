@@ -3278,11 +3278,11 @@ a.paperclick:hover {
 }
 
 .member-description p + p {
-  margin-top: 0.2em;
+  margin-top: 0.45em;
 }
 
 .member-description p:last-child {
-  margin-top: 0.35em;
+  margin-top: 0.55em;
   font-size: 0.9em;
   color: #888;
 }
@@ -3308,9 +3308,10 @@ a.paperclick:hover {
 .member-markdown .member_heading {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 0.5em;
   font-family: 'NanumSquare_acEB';
-  font-size: 1.08em;
+  font-size: calc(1.08em + 2px);
   color: #2c2c2c;
   margin: 3em 0 1.35em;
   line-height: 1.4;
@@ -3327,6 +3328,13 @@ a.paperclick:hover {
 
 .member-markdown .member_cv > .member_heading:first-child {
   margin-top: 0;
+}
+
+.member-markdown .member_heading_en {
+  font-family: 'NanumSquare_acR';
+  font-weight: normal;
+  color: #8a8a8a;
+  margin-left: 0.35em;
 }
 
 .member-markdown .member_item {
@@ -3412,7 +3420,7 @@ a.paperclick:hover {
 
 .member-markdown .member_review_label {
   font-family: 'NanumSquare_acEB';
-  font-size: 1.05em;
+  font-size: calc(1.05em + 2px);
   color: #222;
   margin-bottom: 0.5em;
   -webkit-font-smoothing: antialiased;

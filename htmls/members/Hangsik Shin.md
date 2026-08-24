@@ -15,7 +15,7 @@ member:
     ORCID 0000-0002-3353-0310 · [Google Scholar](https://scholar.google.co.kr/citations?user=N1MUdi4AAAAJ&hl=en)
   contents: |
     <div class="member_cv">
-    <div class="member_heading">정부·규제·표준화 / Government, Regulatory &amp; Standards</div>
+    <div class="member_heading">정부·규제·표준화 <span class="member_heading_en">Government, Regulatory &amp; Standards</span></div>
     <div class="member_item">
     <div class="member_year">2022.11–2025.12</div>
     <div class="member_body">
@@ -59,7 +59,7 @@ member:
     </div>
     </div>
     
-    <div class="member_heading">학회 임원 / Academic Society Leadership</div>
+    <div class="member_heading">학회 임원 <span class="member_heading_en">Academic Society Leadership</span></div>
     <div class="member_item">
     <div class="member_year">2026.08–</div>
     <div class="member_body">
@@ -145,7 +145,7 @@ member:
     </div>
     </div>
     
-    <div class="member_heading">학술대회 조직 / Conference Organization</div>
+    <div class="member_heading">학술대회 조직 <span class="member_heading_en">Conference Organization</span></div>
     <div class="member_item">
     <div class="member_year">2026</div>
     <div class="member_body">
@@ -207,7 +207,7 @@ member:
     </div>
     </div>
     
-    <div class="member_heading">저널 편집위원 / Journal Editorial Boards</div>
+    <div class="member_heading">저널 편집위원 <span class="member_heading_en">Journal Editorial Boards</span></div>
     <ul class="member_simple_list">
     <li>Editor, Journal of Electrical Engineering &amp; Technology</li>
     <li>Associate Editor, Biomedical Engineering Letters</li>
@@ -215,7 +215,7 @@ member:
     <li>Editorial Board, Healthcare Informatics Research</li>
     </ul>
     
-    <div class="member_heading">주요 수상 / Selected Awards &amp; Honors</div>
+    <div class="member_heading">주요 수상 <span class="member_heading_en">Selected Awards &amp; Honors</span></div>
     <div class="member_item">
     <div class="member_year">2024</div>
     <div class="member_body">
@@ -267,14 +267,14 @@ member:
     </div>
     </div>
     
-    <div class="member_heading">저널 심사 / Journal Peer Review</div>
+    <div class="member_heading">저널 심사 <span class="member_heading_en">Journal Peer Review</span></div>
     <div class="member_review_list">
     <div class="member_review">
-    <div class="member_review_label">국제 / International</div>
+    <div class="member_review_label">국제 <span class="member_heading_en">International</span></div>
     <div class="member_review_text">Nature Electronics · JAMA Internal Medicine · npj Digital Medicine · IEEE T-PAMI · IEEE J. Biomedical and Health Informatics · IEEE Sensors Journal · IEEE Access · Scientific Reports · Sensors · Biomedical Signal Processing and Control · J. Clinical Monitoring and Computing · BioMedical Engineering OnLine · J. of Supercomputing · Int. J. Fuzzy Logic and Intelligent Systems</div>
     </div>
     <div class="member_review">
-    <div class="member_review_label">국내·학회 / Domestic / Society</div>
+    <div class="member_review_label">국내·학회 <span class="member_heading_en">Domestic / Society</span></div>
     <div class="member_review_text">Biomedical Engineering Letters · Healthcare Informatics Research · J. Korean Medical Science · JEET · Trans. Korean Institute of Electrical Engineers</div>
     </div>
     </div>
