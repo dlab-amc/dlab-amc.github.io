@@ -22,7 +22,6 @@ member:
     
     <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
     - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    
     <!-- 1e67b630-51dd-4fe6-8733-7b2b92cc7c37 -->
     - 최예은, 신항식. 성인 패혈증 환자 사망 위험 분석: 인구통계 및 기저질환 연구. 2024년 대한의용생체공학회 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔, 대한민국; 2024.
     
@@ -70,16 +69,16 @@ member:
     
     <!-- bdcfb609-561b-4759-a4ab-b2131804f634 -->
     - 최예은; 신항식(Ye Eun Choi; Hangsik Shin), Multi-variate Time Series Transformer 기반 패혈증 조기 예측 모델 개발(Early Sepsis Prediction Models with Multi-variate Time Series Transformer), Domestic, 2025-11-08, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
-    
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->
     - 이건; 김민소; 최예은; 이우형; 홍광표; 신항식(Geon Lee; Minso Kim; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 3D PET/CT 영상 및 임상 데이터 융합을 통한 딥러닝 기반 담관암 림프절 전이 예측(Deep Learning-based Prediction of Lymph Node Metastasis in Cholangiocarcinoma through Fusion of 3D PET/CT Imaging and Clinical Data), Domestic, 2026-05-09, RS-2020-KH088723, 최우수논문상, 대한의용생체공학회
-    
     <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
     - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
-    
     <!-- 134eb3df-b4e6-437b-adbe-729566353474 -->
     - 김민소; 이건; 최예은; 이우형; 홍광표; 신항식(Minso Kim; Geon Lee; Ye Eun Choi; Woohyung Lee; Kwangpyo Hong; Hangsik Shin), 간내 담관암 림프절 전이 예측에서 MedGemma 1.5-4B의 활용 가능성 평가(Evaluation of MedGemma 1.5-4B for Lymph Node Metastasis Prediction in Intrahepatic Cholangiocarcinoma), Domestic, 2026-05-09, RS-2020-KH088723, 우수포스터상, 대한의용생체공학회
-    
+    <!-- bac6622f-7f90-5f5c-83cd-e07d87fb3a4e -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향(The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation), Domestic, 2024-11-09, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
+    <!-- 3c29fe36-bc32-5aa7-aefc-da20c5001b08 -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 광용적맥파 기반 혈관 나이 추정 모델의 평가(Evaluation of Photoplethysmogram-based Vascular Age Estimation Models), Domestic, 2024-10-23, RS-2024-00423853, 우수논문상, 대한전기학회 정보 및 제어 부문회
     ## Project
     
     1. Development, Optimization and Clinical Verification of Software for Early Diagnosis and Prognosis of Atrial Fibrillation Integrating Gene, Electrocardiogram and Clinical Information Based on Artificial Intelligence, Ministry of Health and Wellfare (MOHW), Korea (Apr 2021 - Dec 2023)

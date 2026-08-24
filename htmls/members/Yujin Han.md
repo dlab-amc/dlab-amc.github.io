@@ -67,13 +67,14 @@ member:
     
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
     - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
-    
     <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
     - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
-    
     <!-- 67a24a4a-f86d-4be9-82d7-b72d2d740b4c -->
-    - 한유진(Yujin Han), 2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장, Domestic, 2026-05-09, 표창장, 한국의료기기안전정보원장
-    
+    - 한유진(Yujin Han), Domestic, 2026-05-09, 2026 대한의용생체공학회 표창장, 한국의료기기안전정보원장
+    <!-- cbdc3907-90f6-59c8-a5d0-304b0f237814 -->
+    - 한유진; 신항식(Yujin Han; Hangsik Shin), 다기관 Radiomic Tractometry 데이터 편차 보정을 위한 Harmonization 파이프라인(Harmonization Pipeline for Correcting Data Discrepancies in Multicenter Radiomic), Domestic, 2025-05-09, RS-2023-00215716, 최우수포스터상, 대한의용생체공학회
+    <!-- 48b4dd71-619c-5b88-ae98-9044469eea44 -->
+    - 류가연; 한유진; 김영돈; 신항식(Gayeon Ryu; Yujin Han; Yeongdon Kim; Hangsik Shin), 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석(Bio-signals and result feature analysis to leverage public polysomnography database  integration), Domestic, 2024-11-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
     ## Patent
     
     <!-- 44529fa4-e591-47bf-b088-15889379a27c -->

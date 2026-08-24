@@ -18,17 +18,13 @@ member:
     ## Award
     
     <!-- 1882265d-f7bd-4226-a005-3881b0fd3648 -->
-    - 진재욱, 신항식, 2025 KIEE Summer Conference Paper Award, "Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal"; RS-2024-00423853;RS-2022-00141473, 2025-07-18
-    
+    - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-07-18, RS-2024-00423853; RS-2022-00141473, 2025 대한전기학회 하계학술대회 논문상, 대한전기학회
     <!-- f2b46502-eba0-4b55-b98d-1b1f088f9869 -->
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, 우수논문상, 대한전기학회
-    
     <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, 최우수포스터상, 대한의용생체공학회
-    
     <!-- 08ca5407-b74a-405a-8314-43f496d08c68 -->
-    - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-12-12, RS-2024-00423853; RS-2022-00141473, 우수논문상, 한국수력원자력(주)
-    
+    - 진재욱; 신항식(Jaewook Jin; Hangsik Shin), 수술 전 생체신호 기반 수술 후 통증 예측 인공지능 모델 개발(Development of artificial intelligence for predicting postoperative pain based on preoperative biosignal), Domestic, 2025-12-12, RS-2024-00423853; RS-2022-00141473, 2025 대한전기학회 학술대회 우수논문상, 한국수력원자력(주)
     ## Conference
     
     <!-- 8540829d-f74d-46b9-964b-55c3d4497911 -->

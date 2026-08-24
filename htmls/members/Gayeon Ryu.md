@@ -53,7 +53,6 @@ member:
     
     <!-- c0e967e7-4969-4ea0-a624-ff9f3c621cbe -->
     - 류가연, 최예은, 신항식. 광용적맥파 기반 혈관 나이 추정 모델의 평가. CICS’24 정보 및 제어 학술대회. 2024. 10. 23-26; 금호통영마리나리조트; 2024.
-    
     <!-- 8bf5ada9-036e-45ea-8e1b-88061cc5e1d0 -->
     - 류가연, 한유진, 김영돈, 신항식. 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석. 대한의용생체공학회 2024년 추계학술대회. 2024. 11. 7-9; 서울 스위스 그랜드 호텔; 2024.
     
@@ -104,22 +103,24 @@ member:
     
     <!-- f2b46502-eba0-4b55-b98d-1b1f088f9869 -->
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), PubMedBERT-Deep Neural Network 융합모델을 이용한 수술 후 장기 재원 환자 예측(Prolonged Length of Stay Prediction with PubMedBERT-Deep Neural Network Fusion Model), Domestic, 2025-10-23, RS-2024-00423853, 우수논문상, 대한전기학회
-    
     <!-- f2282795-e0d3-4dcb-93e0-a04a2aef2032 -->
     - 진재욱; 류가연; 심지훈; 신항식(Jaewook Jin; Gayeon Ryu; Ji-Hoon Sim; Hangsik Shin), 수술 후 재원 기간 예측을 위한 BioclinicalBERT-DNN 융합 모델 개발(Development of a BioclinicalBERT-Deep Neural Network Fusion Model for Predicting Postoperative Length of Stay), Domestic, 2025-11-08, RS-2024-00423853, 최우수포스터상, 대한의용생체공학회
-    
     <!-- 6ca3ccd4-4fc1-4256-9b02-b1791eedce4e -->
     - 김영돈; 한유진; 류가연; 이연진; 신항식(Yeongdon Kim; Yujin Han; Gayeon Ryu; Yeonjin Lee; Hangsik Shin), 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발(Development of a Digital Tool for Supporting the Development and Evaluation of Polysomnography Devices), Domestic, 2026-05-09, RS-2023-00215716, 우수논문상, 대한의용생체공학회
-    
     <!-- b4b37a0b-317c-4211-bbec-f47a63ab29cf -->
     - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 건강검진 스크리닝을 위한 심방세동 위험 예측 모델 개발(Development of an Atrial Fibrillation Risk Prediction Model for Health Screening), Domestic, 2026-05-09, RS-2023-0021571; 2024IP0021, 우수포스터상, 대한의용생체공학회
-    
     <!-- 4b92b947-c52a-4631-aa1e-eecad88284cb -->
     - 한유진; 류가연; 김영돈; 신항식(Yujin Han; Gayeon Ryu; Yeongdon Kim; Hangsik Shin), 수면 의료기기 알고리즘 가상 임상시험 결과보고서 생성 프레임워크 설계(A Framework for Virtual Clinical Trial Reports for Sleep Analysis Algorithms), Domestic, 2026-05-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
-    
     <!-- 6ef31ff6-7f4f-41e4-957c-210113d5a3ef -->
-    - 류가연(Gayeon Ryu), 2026 대한의용생체공학회 춘계학술대회, 한국의료기기안전정보원장, Domestic, 2026-05-09, 표창장, 한국의료기기안전정보원장
-    
+    - 류가연(Gayeon Ryu), Domestic, 2026-05-09, 2026 대한의용생체공학회 표창장, 한국의료기기안전정보원장
+    <!-- bac6622f-7f90-5f5c-83cd-e07d87fb3a4e -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 인구통계 특성 및 유관질환이 심방세동 발병에 미치는 영향(The Impact of Demographic Characteristics and Comorbidities on the Incidence of Atrial Fibrillation), Domestic, 2024-11-09, RS-2022-00141473; 2024IP0021, 우수논문상, 대한의용생체공학회
+    <!-- 48b4dd71-619c-5b88-ae98-9044469eea44 -->
+    - 류가연; 한유진; 김영돈; 신항식(Gayeon Ryu; Yujin Han; Yeongdon Kim; Hangsik Shin), 공개 수면다원검사 데이터베이스 통합 활용을 위한 생체신호 및 결과 변수 분석(Bio-signals and result feature analysis to leverage public polysomnography database  integration), Domestic, 2024-11-09, RS-2023-00215716, 우수포스터상, 대한의용생체공학회
+    <!-- 3c29fe36-bc32-5aa7-aefc-da20c5001b08 -->
+    - 류가연; 최예은; 신항식(Gayeon Ryu; Ye Eun Choi; Hangsik Shin), 광용적맥파 기반 혈관 나이 추정 모델의 평가(Evaluation of Photoplethysmogram-based Vascular Age Estimation Models), Domestic, 2024-10-23, RS-2024-00423853, 우수논문상, 대한전기학회 정보 및 제어 부문회
+    <!-- e3eea7c6-89ab-5301-9628-df51cf927e6a -->
+    - 석현석; 신항식; 최병문; 류가연; 최재문(Hyeon Seok Seok; Hangsik Shin; Byungmoon Choi; Gayeon Ryu; Jae Moon Choi), Development of an artificial intelligence model for both intra- and post-operative pain assessment, Domestic, 2023-04-15, 우수초록상, 대한마취약리학회
     ## Patent
     
     <!-- 3f037504-428d-406c-9c76-7d0fde04eb4c -->
