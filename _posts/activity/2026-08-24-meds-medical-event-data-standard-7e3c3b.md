@@ -1,7 +1,7 @@
 ---
 layout: activity_post
 type: ai_seminar
-title: 'FHIR: Fast Healthcare Interoperability Resources'
+title: 'MEDS: Medical Event Data Standard'
 date: 2026-08-24 00:00:00
 author: '한유진'
 video_url: 'https://youtu.be/I-qyPW7UZAw'
