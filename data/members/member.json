@@ -178,5 +178,31 @@
     "profile_description": "Research Areas : Molecule biotechnology, Administration\r\n\r\n[E-mail](mailto:dlab.amc@gmail.com)  ",
     "contents": "",
     "is_alumni": false
+  },
+  {
+    "profile_image": "/images/members/왕창원.jpeg",
+    "hover_image": "/images/members/egg_왕창원.jpg",
+    "role": "Researcher",
+    "name_eng": "Changwon Wang",
+    "degree": "Ph.D.",
+    "email": "lovelyiu315@gmail.com",
+    "tags": "#IoT #Smart Hospital #Digital Healthcare",
+    "profile_description": "순천향대학교 의생명융합학부\r\n헬스케어융합전공 교수",
+    "alumni_description": "순천향대학교 의생명융합학부\r\n헬스케어융합전공 교수",
+    "contents": "",
+    "is_alumni": true
+  },
+  {
+    "profile_image": "/images/members/HyeonSeok_0.png",
+    "hover_image": "/images/members/egg_석현석.JPG",
+    "role": "Research Assistant",
+    "name_eng": "Hyeon Seok Seok",
+    "degree": "Ph.D.",
+    "email": "shhs4695@gmail.com",
+    "tags": "#Biomedical engineering #Digital Healthcare #Medical AI",
+    "profile_description": "한국생명공학연구원\r\n전문연구요원 복무중",
+    "alumni_description": "한국생명공학연구원\r\n전문연구요원 복무중",
+    "contents": "",
+    "is_alumni": true
   }
 ]
