@@ -3,7 +3,7 @@ layout: member
 title: Jaehyung Lee 
 member:
   name_eng: 'Jaehyung Lee'
-  degree: 'B.Eng.'
+  degree: 'M.S.'
   profile_image: '/images/members/이재형.jpeg'
   hover_image: '/images/members/egg_이재형.jpg'
   role: 'Master Course'
