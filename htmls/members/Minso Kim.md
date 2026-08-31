@@ -6,7 +6,7 @@ member:
   degree: 'B.Sc.'
   profile_image: '/data/members/images/members/profile_image-1760350593199-724054674.jpg'
   hover_image: '/data/members/images/members/hover_image-1760350430320-394474140.jpg'
-  role: 'Researcher'
+  role: 'Master Course'
   profile_description: |
     Research Areas : Bioinformatics, Medical AI, Data Analysis
     

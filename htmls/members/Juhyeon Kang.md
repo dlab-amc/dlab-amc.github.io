@@ -6,7 +6,7 @@ member:
   degree: 'B.Sc.'
   profile_image: '/data/members/images/members/profile_image-1772513558400-352920464.png'
   hover_image: '/data/members/images/members/hover_image-1772513558408-871803052.jpg'
-  role: 'Researcher'
+  role: 'Master Course'
   profile_description: |
     Research Areas : Digital Healthcare, Data analysis, Machine learning
     

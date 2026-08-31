@@ -1,6 +1,6 @@
----
-layout: member
-title: Changwon Wang
+--- 
+layout: member 
+title: Changwon Wang 
 member:
   name_eng: 'Changwon Wang'
   degree: 'Ph.D.'
@@ -8,11 +8,11 @@ member:
   hover_image: '/images/members/egg_왕창원.jpg'
   role: 'Researcher'
   profile_description: |
-    [lovelyiu315@gmail.com](mailto:lovelyiu315@gmail.com)  
+    [lovelyiu315@gmail.com](mailto:lovelyiu315@gmail.com)
     Research Areas : IoT, Smart Hospital, Digital Healthcare
   contents: |
     ## Papers & Conferences
-
+    
     1.  Changwon Wang, Chungkeun Lee, Hangsik Shin: Digital therapeutics from bench to bedside, *npj Digital Medicine*, 2023
     2.  Julius Opwonya, Changwon Wang, Kyoung-Mi Jang, Kunho Lee, Joong Il Kim, Jaeuk U Kim: Inhibitory Control of Saccadic Eye Movements and Cognitive Impairment in Mild Cognitive Impairment, *Frontiers in Aging Neuroscience*, 2022
     3.  Vantha Chhoeum, Changwon Wang, Seung-wan Jang, Se Dong Min, Young Kim, Min-Hyung Choi: The Effect of Shoe Heel Types and Gait Speeds on Knee Joint Angle in Healthy Young Women - A Preliminary Study, *Journal of Internet Computing and Services*, 2020
@@ -23,8 +23,8 @@ member:
     8.  Changwon Wang, Young Kim, Hangsik Shin, and Se Dong Min: Preliminary Clinical Application of Textile Insole Sensor for Hemiparetic Gait Pattern Analysis, *Sensors*, 2019
     9.  Changwon Wang, Young Kim, and Se Dong Min: Soft-Material-Based Smart Insoles for a Gait Monitoring System, *Materials*, 2018
     10. Sung Hun Kim, Changwon Wang, Se Dong Min, and Seung Hyun Lee: Safety Helmet Wearing Management System for Construction Workers Using Three-Axis Accelerometer Sensor, *Applied Science*, 2018
-
+    
     ## Awards
-
+    
     1.  The Grand Prize of Creative Scholar, Minister of Science and ICT in Korea (2018).
----
+--- 

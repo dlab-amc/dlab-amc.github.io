@@ -3,10 +3,10 @@ layout: member
 title: Gayeon Ryu 
 member:
   name_eng: 'Gayeon Ryu'
-  degree: 'B.Sc.'
+  degree: 'M.S.'
   profile_image: '/data/members/images/members/profile_image-1767665532558-733347958.png'
   hover_image: '/images/members/egg_류가연.JPG'
-  role: 'Master Course'
+  role: 'Ph.D. Course'
   profile_description: |
     Research Areas : Data analysis, Statistics, Signal analysis
     
