@@ -15,3 +15,5 @@ comments: true
 Scientific Reports의 IF(Impact Factor)는 4.9입니다.
 
 논문 게재를 축하드립니다🥳🎉
+
+![]({{ '/images/posts/202609/7519b61c-feb4-48c8-8683-a5b5442ad271.png' | relative_url }})
