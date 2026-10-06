@@ -24,6 +24,8 @@ member:
     - Ryu G, Choi JM, Seok HS, Lee J, Lee E, Shin H, Choi B. Machine learning based quantitative pain assessment for the perioperative period. npj Digital Medicine. 2025 Jan; 8(1):53; IF:12.4@2023JIF; HR20C0026, HI22C1668, RS-2024-00335644.
     <!-- 75480fca-4d6e-4b0f-bef4-bd19409c4b34 -->
     - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
+    <!-- 5571c94d-1ffc-4d62-b54d-0d226e3bc43a -->
+    - Ryu G, Choi JM, Choi B, Shin H. Preoperative pulse rate variability and the hemodynamic response to tracheal intubation: A retrospective secondary analysis. Journal of Clinical Monitoring and Computing. 2026 Oct; IF:2.6@2025JIF; 2024IP0021, RS-2022-00141473, HR20C0026.
     ## Conference
     
     18.  Ga Yeon Ryu, Hyeon Seok Seok, Changwon Wang, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain", Conference on Information and Control Systems 2022 (CICS), Pyeongchang, Korea (Oct. 2022)

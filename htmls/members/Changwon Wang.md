@@ -27,4 +27,8 @@ member:
     ## Awards
     
     1.  The Grand Prize of Creative Scholar, Minister of Science and ICT in Korea (2018).
+    
+    ## Journal
+    <!-- d2bf713c-d8f1-4c46-9a12-b2debd165824 -->
+    - Wang C, Shin H. Assessing pre-frailty in the elderly using explainable AI. scientific reports. 2026 Sep; IF:4.9@2025JIF; HR20C0026, HI22C1668, NRF-2025S1A5C2A02022632.
 --- 
