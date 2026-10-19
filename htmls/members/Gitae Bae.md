@@ -6,7 +6,7 @@ member:
   degree: 'B.Sc.'
   profile_image: '/data/members/images/members/profile_image-1792393803564-598248231.jpg'
   hover_image: '/data/members/images/members/hover_image-1792393803564-4202978.jpg'
-  role: 'Reasearcher'
+  role: 'Researcher'
   profile_description: |
     Research Areas : Medical AI, Multimodal Learning, Foundation Model
     
