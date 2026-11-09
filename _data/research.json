@@ -139,6 +139,22 @@
             "IF": 4.6,
             "JIF": 2024,
             "patent_info": []
+          },
+          {
+            "_id": "3464bf15-9f7c-41a6-aa79-112b8961eac9",
+            "category": "conference",
+            "title_eng": "MORPHEUS: A Multimodal Biosignal Foundation Model for Diverse Intraoperative Prediction Tasks",
+            "title_kor": null,
+            "contents": "Jin J, Lee S, Kim S, Shin H. MORPHEUS: A Multimodal Biosignal Foundation Model for Diverse Intraoperative Prediction Tasks. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.",
+            "authors_text": "Jin J, Lee S, Kim S, Shin H",
+            "date": "2026-11-04",
+            "journal_eng": null,
+            "journal_kor": null,
+            "conference_eng": "The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering",
+            "conference_kor": null,
+            "link": null,
+            "IF": null,
+            "patent_info": []
           }
         ]
       },
@@ -1024,6 +1040,22 @@
             "conference_eng": "2026년 대한의용생체공학회 춘계학술대회",
             "conference_kor": "2026년 대한의용생체공학회 춘계학술대회",
             "patent_info": []
+          },
+          {
+            "_id": "c83f7a02-8d5e-4948-9893-aa64096e362e",
+            "category": "conference",
+            "title_eng": "Medical Vision-Language Models for Preoperative Prediction of Lymph Node Metastasis in Intrahepatic Cholangiocarcinoma",
+            "title_kor": null,
+            "contents": "Kim M, Lee G, Choi YE. Medical Vision-Language Models for Preoperative Prediction of Lymph Node Metastasis in Intrahepatic Cholangiocarcinoma. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.",
+            "authors_text": "Kim M, Lee G, Choi YE",
+            "date": "2026-11-04",
+            "journal_eng": null,
+            "journal_kor": null,
+            "conference_eng": "The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering",
+            "conference_kor": null,
+            "link": null,
+            "IF": null,
+            "patent_info": []
           }
         ]
       }
@@ -1360,6 +1392,23 @@
             "conference_eng": "2025년 대한의용생체공학회 추계학술대회",
             "conference_kor": "2025년 대한의용생체공학회 추계학술대회",
             "patent_info": []
+          },
+          {
+            "_id": "142f4b08-eec9-4fd5-bde8-fd939e43632a",
+            "category": "journal",
+            "title_eng": "Polysomnography harmonization schemes: A multi-institutional sleep research resource",
+            "title_kor": null,
+            "contents": "Han Y, Ryu G, Kim Y, Shin H. Polysomnography harmonization schemes: A multi-institutional sleep research resource. PLOS one. 2026 Nov; 21(11):e0361116; IF:2.8@2025JIF; RS-2023-00215716, RS-2026-25504160, RS-2024-00423853.",
+            "authors_text": "Han Y, Ryu G, Kim Y, Shin H",
+            "date": "2026-11-05",
+            "journal_eng": "PLOS one",
+            "journal_kor": null,
+            "conference_eng": null,
+            "conference_kor": null,
+            "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361116&utm_source=salesforce&utm_medium=email&utm_campaign=ONE",
+            "IF": 2.8,
+            "JIF": 2025,
+            "patent_info": []
           }
         ]
       },
@@ -1689,6 +1738,22 @@
             "link": "https://iopscience.iop.org/article/10.1088/1361-6579/ae8caa",
             "IF": 2.5,
             "JIF": 2025,
+            "patent_info": []
+          },
+          {
+            "_id": "b584ca98-76ad-4961-9dad-29177bf62b06",
+            "category": "conference",
+            "title_eng": "Self-Supervised Learning for Photoplethysmography Signal Quality Assessment",
+            "title_kor": null,
+            "contents": "Kang J, Shin H. Self-Supervised Learning for Photoplethysmography Signal Quality Assessment. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.",
+            "authors_text": "Kang J, Shin H",
+            "date": "2026-11-04",
+            "journal_eng": null,
+            "journal_kor": null,
+            "conference_eng": "The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering",
+            "conference_kor": null,
+            "link": null,
+            "IF": null,
             "patent_info": []
           }
         ]
