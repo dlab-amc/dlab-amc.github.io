@@ -64,6 +64,8 @@ member:
     
     <!-- a9a42c7d-3051-4d9a-a9e9-6e3c065b8a62 -->
     - Choi YE, Shin H. Transformer-Based Early Detection of Sepsis from Intensive Care Unit Multivariate Time Series Data. The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2026 Jul 26-30; Toronto, Canada; 2026.
+    <!-- c83f7a02-8d5e-4948-9893-aa64096e362e -->
+    - Kim M, Lee G, Choi YE. Medical Vision-Language Models for Preoperative Prediction of Lymph Node Metastasis in Intrahepatic Cholangiocarcinoma. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
     ## Award
     
     1. 2022 데이터 청년 캠퍼스 ‘우수 프로젝트 발표’ 장려상, 한국데이터산업진흥원(Korea Data Agency), Korea (Sep 2022)

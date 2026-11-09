@@ -26,6 +26,8 @@ member:
     <!-- 03005087-f876-4af0-bd37-91cd199cbca5 -->
     - 김민소, 신항식. 임상화학검사 수치 해석을 위한 규칙기반 엔진과 LLM 시너지 전략. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     
+    <!-- c83f7a02-8d5e-4948-9893-aa64096e362e -->
+    - Kim M, Lee G, Choi YE. Medical Vision-Language Models for Preoperative Prediction of Lymph Node Metastasis in Intrahepatic Cholangiocarcinoma. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
     ## Award
     
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->

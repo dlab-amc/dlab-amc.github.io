@@ -26,6 +26,8 @@ member:
     - Kim T, Ryu G, Choi YE, Shin H. Medication-specific risk of atrial fibrillation in patients with coronary artery disease. Biomedical Engineering Letters. 2026 Jun; IF:3.4@2025JIF; RS-2024-00335644, 2024IP0021.
     <!-- 5571c94d-1ffc-4d62-b54d-0d226e3bc43a -->
     - Ryu G, Choi JM, Choi B, Shin H. Preoperative pulse rate variability and the hemodynamic response to tracheal intubation: A retrospective secondary analysis. Journal of Clinical Monitoring and Computing. 2026 Oct; IF:2.6@2025JIF; 2024IP0021, RS-2022-00141473, HR20C0026.
+    <!-- 142f4b08-eec9-4fd5-bde8-fd939e43632a -->
+    - Han Y, Ryu G, Kim Y, Shin H. Polysomnography harmonization schemes: A multi-institutional sleep research resource. PLOS one. 2026 Nov; 21(11):e0361116; IF:2.8@2025JIF; RS-2023-00215716, RS-2026-25504160, RS-2024-00423853.
     ## Conference
     
     18.  Ga Yeon Ryu, Hyeon Seok Seok, Changwon Wang, Byung-Moon Choi, Jae Moon Choi, Hangsik Shin, "Comparison of Photoplethysmogram Feature for Intraoperative Pain and Postoperative Pain", Conference on Information and Control Systems 2022 (CICS), Pyeongchang, Korea (Oct. 2022)

@@ -45,4 +45,8 @@ member:
     
     <!-- 611557ad-9346-42f9-a88b-bcda04e67cd4 -->
     - 진재욱, 류가연, 심지훈, 신항식. 수술 후 재원 기간 예측을 위한 머신러닝 모델 개발 및 다기관 외부 검증. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    <!-- aa9a34a4-ef64-4bfb-892f-499b5f467d95 -->
+    - Nam Y, Jin J, Shin H. Atomic Content Units for Electrocardiogram: A Common Representation Across Datasets. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
+    <!-- 3464bf15-9f7c-41a6-aa79-112b8961eac9 -->
+    - Jin J, Lee S, Kim S, Shin H. MORPHEUS: A Multimodal Biosignal Foundation Model for Diverse Intraoperative Prediction Tasks. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
 --- 

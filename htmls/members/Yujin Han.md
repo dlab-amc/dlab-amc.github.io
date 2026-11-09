@@ -22,6 +22,8 @@ member:
     
     - 한유진, 정천기, 김재희. 위상학적 데이터 분석과 인공 신경망을 이용한 뇌전증 MEG 데이터 분류 연구. 응용통계연구. 38(2), 189-204. (2025).
     
+    <!-- 142f4b08-eec9-4fd5-bde8-fd939e43632a -->
+    - Han Y, Ryu G, Kim Y, Shin H. Polysomnography harmonization schemes: A multi-institutional sleep research resource. PLOS one. 2026 Nov; 21(11):e0361116; IF:2.8@2025JIF; RS-2023-00215716, RS-2026-25504160, RS-2024-00423853.
     ## Conference
     
     <!-- e428df87-b2b6-49b4-9d24-ac5b4fdfeb4a -->

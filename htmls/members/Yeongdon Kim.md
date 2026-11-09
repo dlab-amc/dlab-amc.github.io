@@ -72,4 +72,8 @@ member:
     
     <!-- 6757496c-84b9-4b4a-a3da-785e7e957188 -->
     - 김영돈, 한유진, 류가연, 이연진, 신항식. 수면다원검사기기 개발 및 평가 지원을 위한 디지털도구 개발. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
+    
+    ## Journal
+    <!-- 142f4b08-eec9-4fd5-bde8-fd939e43632a -->
+    - Han Y, Ryu G, Kim Y, Shin H. Polysomnography harmonization schemes: A multi-institutional sleep research resource. PLOS one. 2026 Nov; 21(11):e0361116; IF:2.8@2025JIF; RS-2023-00215716, RS-2026-25504160, RS-2024-00423853.
 --- 

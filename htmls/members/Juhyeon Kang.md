@@ -17,6 +17,8 @@ member:
     <!-- eac5ba27-d43a-430f-81bf-49f7c6ab8d7c -->
     - 남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     
+    <!-- b584ca98-76ad-4961-9dad-29177bf62b06 -->
+    - Kang J, Shin H. Self-Supervised Learning for Photoplethysmography Signal Quality Assessment. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
     ## Award
     
     <!-- d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2 -->

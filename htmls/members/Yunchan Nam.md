@@ -17,6 +17,10 @@ member:
     <!-- eac5ba27-d43a-430f-81bf-49f7c6ab8d7c -->
     - 남윤찬, 강주현, 이연진, 김희영, 신항식. 폐쇄망 환경에서의 웨어러블 기반 병동 모니터링 시스템 설계 및 구현. 2026년 대한의용생체공학회 춘계학술대회. 2026. 5. 7-9; 제주 신화월드; 2026.
     
+    <!-- 46e4f973-1113-480c-a9af-21fb3dedf010 -->
+    - Nam Y, Shin H. Heterogeneity of Public CardioPulmonary Sound Datasets for Machine Learning: A Comparative Analysis with ECG. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
+    <!-- aa9a34a4-ef64-4bfb-892f-499b5f467d95 -->
+    - Nam Y, Jin J, Shin H. Atomic Content Units for Electrocardiogram: A Common Representation Across Datasets. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
     ## Award
     
     <!-- d6cfd18f-83ec-444e-a8cb-1ff5514ab9f2 -->
