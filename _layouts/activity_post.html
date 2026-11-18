@@ -161,7 +161,13 @@ layout: default
        -->
 
       <!-- File Links -->
-      {% if page.file_url or (page.type == "ai_seminar" and page.ref_url) %}
+      {% assign has_attachments = false %}
+      {% if page.file_url %}
+        {% assign has_attachments = true %}
+      {% elsif page.type == "ai_seminar" and page.ref_url %}
+        {% assign has_attachments = true %}
+      {% endif %}
+      {% if has_attachments %}
       <h4 class="section-title attachment-title">첨부 파일</h4>
       <div class="activity-attachments">
         {% if page.file_url %}
