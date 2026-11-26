@@ -28,6 +28,8 @@ member:
     
     <!-- c83f7a02-8d5e-4948-9893-aa64096e362e -->
     - Kim M, Lee G, Choi YE. Medical Vision-Language Models for Preoperative Prediction of Lymph Node Metastasis in Intrahepatic Cholangiocarcinoma. The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering. 2026 Nov 4-7; EXCO, Daegu, Republic of Korea; 2026.
+    <!-- a54b1fa9-119d-4ff0-8d43-ae8b3fa72c15 -->
+    - Choi Y, Kim M, You J, Park K, Kim H, Yu S, Shin S, Shin H, Kim S, Lee W, Chun S. Artificial Intelligence Enables Automated Error Detection in Routine Clinical Chemistry Across Multiple Centers. LMCE 2026. 2026 Oct 21-23; Grand Walkerhill Seoul; 2026.
     ## Award
     
     <!-- 34089715-f049-42ae-a9da-1225439e002a -->

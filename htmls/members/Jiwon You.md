@@ -65,6 +65,8 @@ member:
     
     <!-- ad1ec5bf-4e36-47ef-a9b0-c996e7186182 -->
     - 유지원, 최유나, 이우창, 전사일, 김솔잎, 신항식. 일반화학검사 결과 수기검증을 위한 규칙 기반 알고리즘 개발 및 평가. 임상화학회 2026 추계학술대회. 2026. 10. 15-16; 세종대학교 광개토관; 2026.
+    <!-- a54b1fa9-119d-4ff0-8d43-ae8b3fa72c15 -->
+    - Choi Y, Kim M, You J, Park K, Kim H, Yu S, Shin S, Shin H, Kim S, Lee W, Chun S. Artificial Intelligence Enables Automated Error Detection in Routine Clinical Chemistry Across Multiple Centers. LMCE 2026. 2026 Oct 21-23; Grand Walkerhill Seoul; 2026.
     ## Award
     
     5. KCC2021 학부생/주니어 논문 경진대회 장려상, 한국정보과학회, 2021.07 (논문명: 돌연변이 시그니처와 유전자 발현량의 시계열 연관 분석 프레임워크)

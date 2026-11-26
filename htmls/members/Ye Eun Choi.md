@@ -45,8 +45,7 @@ member:
     - 최예은, 정지영, 신항식. 패혈증 사망 위험에 미치는 비만도와 나이 영향 분석. 2025 대한의용생체공학회 춘계학술대회. 2025. 5. 8-10; 제주 롯데호텔; 2025.
     
     <!-- d44f19e2-f948-4020-b594-07ed6bf19b42 -->
-    - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC. 2025 Jul 14-17; Copenhagen, Denmark; 2025.
-    
+    - Choi YE, Jung J, Shin H. Revisiting the Obesity Paradox in Septic Patients with Aging and Chronic Disease: A Retrospective Study in Korea. The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 2025 Jul 14-17; Copenhagen, Denmark; 2025.
     <!-- 69e53ab6-1801-4751-b9e4-af764d75ce4c -->
     - 최예은, 신항식. 시계열 데이터의 결측치 대체 방법에 따른 Transformer 기반 패혈증 조기 예측 모델 성능 비교 평가. CICS’25 정보 및 제어 학술대회. 2025. 10. 22-25; 고성 델피노리조트; 2025.
     
